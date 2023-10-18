@@ -21,42 +21,34 @@
 
 - address: Ef9wm_whwjPFe7H4jvP-ODhluiZFm0Tb2Gj-67zqS31hCaWC
   name: CAT Staking Pool 1
-  tonIcon: 📥
   type: pool
 
 - address: Ef-BHO0nH49EnLUetZIAkLkssgCyDwcXBnbp22--naUWz8VY
   name: CAT Staking Pool 2
-  tonIcon: 📥
   type: pool
 
 - address: Ef8iu8EiNOP2MczVvHseFi-CrGO1C4v6MkSSOgVZcESNGfT7
   name: CAT Staking Pool 3
-  tonIcon: 📥
   type: pool
 
 - address: Ef8AeKBMQKW-PB8-RDeyJQSsxQQr5oEwbQeBEwE2BKDiFA_U
   name: CAT Staking Pool 4
-  tonIcon: 📥
   type: pool
 
 - address: Ef-DxWkExr12iOSi0vJfT5TKCUG9W3-eWInm1yT5oEJISJkl
   name: CAT Staking Pool 5
-  tonIcon: 📥
   type: pool
 
 - address: Ef8z0gek-K888pl61tyErw96TfnthjV9lZ7UDVFXlad9HEGS
   name: CAT Staking Pool 6
-  tonIcon: 📥
   type: pool
 
 - address: Ef98be2ASo4xA_t2Q2VIH0cdpYKylDyfhL3nL7Byjz180VaU
   name: CAT Staking Pool 7
-  tonIcon: 📥
   type: pool
 
 - address: Ef8h5pd9_ZuWJOlilBH6a_LOACxl_R6DJbWHhut7QLDLWSgf
   name: CAT Staking Pool 8
-  tonIcon: 📥
   type: pool
 
 - address: Ef8gQpp7pKD9GzBrcr3ju9faPjEWHPerhZ4tFpSiDoDUINxn
@@ -109,3 +101,18 @@
 - address: EQAOCN7KlgGzTp6YjW6d_fm_ibJEUe0VwFyKNnZVzlL4Jda3
   name: TonStake Withdrawal
   type: wallet
+
+- address: Ef8Ogh4NObupw39Cx8xrjI_nJkdV7UVSKYZkxOVcFOiUTEAM
+  name: Whales Team
+  
+- address: Ef_3qxbRl2ruQ7jqzHlDQdOOcqkkoTSlgO749aQ6PGywCLUB
+  name: Whales Club
+  
+- address: Ef8W1vCpA1tr9xr6QSXSxcVSdn1Sm7SYX_PCWQdClaWhales
+  name: Whales Nominators
+
+- address: EQAA_5_dizuA1w6OpzTSYvXhvUwYTDNTW_MZDdZ0CGKeeper
+  name: Tonkeeper Whales Pool
+  
+- address: Ef9BqxMAQjLMnzltwiZ7etD3-3PSx6R5wjXMgqWQ81Keeper
+  name: Tonkeeper Whales Validator
