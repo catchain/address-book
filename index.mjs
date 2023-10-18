@@ -74,21 +74,28 @@ const createAddressbook = async function parseDirectoryAndCreateAddressBookFromY
             .flatMap(document => document.toJS())
             .map(document => ({ ...document, filename }))
             .filter(validate)
-            .map(({ address, name, tonIcon, isScam, type }) => ({
-                address: canonizeAddress(address, { bounceable: type !== 'wallet' }),
-                isScam: filename === 'scam.yaml' ? true : isScam,
-                name,
-                tonIcon,
-            }))
-            .forEach(({ address, ...entry }) => {
+            .forEach(({ address, name, tonIcon, isScam, type }) => {
                 const raw = canonizeAddressToRaw(address);
 
                 if (addresses.has(raw)) {
                     throw new Error(`[${filename}] Address ${address} is already defined in ${addresses.get(raw)}`);
                 }
 
-                addrbook.set(address, entry);
                 addresses.set(raw, filename);
+
+                const canonicalAddress = canonizeAddress(address, {
+                    bounceable: type !== 'wallet',
+                });
+
+                addrbook.set(canonicalAddress, {
+                    name, tonIcon,
+                    isScam: filename === 'scam.yaml' ? true : isScam,
+                });
+
+                // Remove this block after backend update:
+                if (type === 'wallet') {
+                    addrbook.set(canonizeAddress(address, { bounceable: true }), addrbook.get(canonicalAddress));
+                }
             });
     }
 
