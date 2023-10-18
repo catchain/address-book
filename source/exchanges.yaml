@@ -57,73 +57,75 @@
 - address: EQBVXzBT4lcTA3S7gxrg4hnl5fnsDKj4oNEzNp09aQxkwj1f
   name: Huobi Deposit
   type: wallet
-  
+
 - address: EQCFr3jo0DXpIBF82mVGFc3zcdRkSAtinhENPFMQ2FqzYqDB
   name: Huobi Withdrawal
   type: wallet
-  
+
 - address: EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl
   name: KuCoin Deposit
   type: wallet
-  
+
 - address: EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs
   name: KuCoin Withdrawal
   type: wallet
-  
+
 - address: EQAJfclKb4fFi0tWg-PVgwwdXxHRImLWbO9_7HZcpIlCWkTg
   name: BitGo FTX Bankruptcy Custody
   type: wallet
-  
+
 - address: EQB5lISMH8vLxXpqWph7ZutCS4tU4QdZtrUUpmtgDCsO73JR
   name: EXMO
   type: wallet
-  
+
 - address: EQCNGVeTuq2aCMRtw1OuvpmTQdq9B3IblyXxnhirw9ENkhLa
   name: EXMO Cold Storage 1
   type: wallet
-  
+
 - address: EQAmq4rnY6OnwwZ9iCt7Ac1dNyVMuHaPV7akfAACjv_HuO5H
   name: EXMO Cold Storage 2
   type: wallet
-  
+
 - address: EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p
   name: EXMO Deposit
   type: wallet
-  
+
 - address: EQA0KjWeODV8CDloEp_d3fBJ71xHMVv77ydQWjVr-fAtZSqw
   name: CoinEx
   type: wallet
-  
+
 - address: EQC0lrj3O0af8GotieYsTXChA_wijIIVN7Sd_wkgYLwoH07q
   description: https://www.gate.io/
   name: Gate.io
   type: wallet
-  
+
 - address: EQChN26L-fJm7HxrEc5uXNAqm9o2O56oiKLiOdI4NXK8mm96
   description: AvanChange.com exchanger is integrated into Tonkeeper.
   name: AvanChange
   type: wallet
-  
+
 - address: EQDB3GVLWYq4TNpPEjcu_tiQfO3wkBhlpYZJCHNz4BscJPaV
   name: xRocket
   type: wallet
-  
+
 - address: EQAYgkeNrvG37SAMu9wgG9TtCyTC5fGkx8Fa6347GnWRk0v_
+  description: https://coinone.co.kr/exchange/trade/ton/krw
   name: Coinone Deposit
   type: wallet
-  
+
 - address: EQCk0gcrHtwTVfx_vuAJW-7HiJotPPqp7c8s6eEoYxq71hcS
+  description: https://coinone.co.kr/exchange/trade/ton/krw
   name: Coinone Withdrawal
   type: wallet
-  
+
 - address: EQDTjWuJmwD5SJ8l8L0zoNy8mJP4aJ_k6b4Eg2vm88lCpAIC
   name: DEX Tegro Finance
-  
+
 - address: EQB3ncyBUTjZUA5EnFKR5_EnOMI9V1tTEAAPaiU71gc4TiUt
   name: StonFi DEX
-  
+
 - address: EQBDEcUhe89ls3h3PVGD1Rl4En_Ut0EwsFasPKo51oiqiulL
   name: OPTUS DEX
-  
+
 - address: EQAxC3GzQBgjlvW6CJAwgaHvarTfVxo8p7Be_6RMSjsPki6s
   name: Megaton Finance
