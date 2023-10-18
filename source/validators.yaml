@@ -1,0 +1,111 @@
+# This file is for validator and pool addresses.
+- address: Ef-VAFf1Wd3fXd-mQhDw5lNsVdIZv2_H1yhbdzXCFfIe9p95
+  name: CAT Validator 1
+  type: wallet
+
+- address: Ef-p4N7wkBQcce3Awcm06a1EV2VsFPYR7GtRczlYP0G2C1Pm
+  name: CAT Validator 2
+  type: wallet
+
+- address: Ef86ziqX4uPh-ZcrOK8bWszUzfNhHg_SPnvf9CQOnElFINEE
+  name: CAT Validator 3
+  type: wallet
+
+- address: Ef8vk8p6nogM_JKMhpqXnffFrzikOzGjIUNLP8sdIasIb8DV
+  name: CAT Validator 4
+  type: wallet
+
+- address: Ef_jgxA8sfh3j5Tj0BI6Bob2jrjjRa2s8wjxYQkvj1-X-oIF
+  name: CAT Validator 5
+  type: wallet
+
+- address: Ef9wm_whwjPFe7H4jvP-ODhluiZFm0Tb2Gj-67zqS31hCaWC
+  name: CAT Staking Pool 1
+  tonIcon: 📥
+  type: pool
+
+- address: Ef-BHO0nH49EnLUetZIAkLkssgCyDwcXBnbp22--naUWz8VY
+  name: CAT Staking Pool 2
+  tonIcon: 📥
+  type: pool
+
+- address: Ef8iu8EiNOP2MczVvHseFi-CrGO1C4v6MkSSOgVZcESNGfT7
+  name: CAT Staking Pool 3
+  tonIcon: 📥
+  type: pool
+
+- address: Ef8AeKBMQKW-PB8-RDeyJQSsxQQr5oEwbQeBEwE2BKDiFA_U
+  name: CAT Staking Pool 4
+  tonIcon: 📥
+  type: pool
+
+- address: Ef-DxWkExr12iOSi0vJfT5TKCUG9W3-eWInm1yT5oEJISJkl
+  name: CAT Staking Pool 5
+  tonIcon: 📥
+  type: pool
+
+- address: Ef8z0gek-K888pl61tyErw96TfnthjV9lZ7UDVFXlad9HEGS
+  name: CAT Staking Pool 6
+  tonIcon: 📥
+  type: pool
+
+- address: Ef98be2ASo4xA_t2Q2VIH0cdpYKylDyfhL3nL7Byjz180VaU
+  name: CAT Staking Pool 7
+  tonIcon: 📥
+  type: pool
+
+- address: Ef8h5pd9_ZuWJOlilBH6a_LOACxl_R6DJbWHhut7QLDLWSgf
+  name: CAT Staking Pool 8
+  tonIcon: 📥
+  type: pool
+
+- address: Ef8gQpp7pKD9GzBrcr3ju9faPjEWHPerhZ4tFpSiDoDUINxn
+  name: "Very First Pool #1"
+  type: pool
+
+- address: Ef_dodh2I8BjpvxJIrKG5owo5_C1RZlzkZtXC3HGLuNZE0Sa
+  name: "Very First Pool #2"
+  type: pool
+
+- address: Ef8RiUWO6kANDF3FsaIu2o3QCbq6VGWyqZxRRXM8B9mRbIQ_
+  name: "HB Pool #1"
+  type: pool
+
+- address: Ef-8i71cS7pz9fuzQCxRNOIx31EzaTPpmsNluGbzJC6cVGHp
+  name: "HB Pool #2"
+  type: pool
+
+- address: Ef84bmp5O3DtYjXmdWAYMEBzTPsu-cPMcg51i3Z9bfdI78mv
+  name: "Rangers Pool #1"
+  type: pool
+
+- address: Ef_1qwsc5P_pxid2MH8gnaRvRJAa1kmRy86eq0JC6XWXaBg-
+  name: "Rangers Pool #2"
+  type: pool
+
+- address: EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR
+  name: Tonstakers
+
+- address: EQDNhy-nxYFgUqzfUzImBEP67JqsyMIcyk2S5_RwNNEYku0k
+  name: bemo Staking
+  type: jetton
+
+- address: Ef9qXoe6qX5kboeTbXXdxNOcqCA53Oi9LYsY66l4FuNLZRWx
+  name: "TonStake Validator #1"
+  type: wallet
+
+- address: Ef_L2qAIJ3Xe3hQqGdzG19gmbkteqYTqSZUkYWnzWH734Sm-
+  name: "TonStake Validator #2TonStake Validator #2"
+  type: wallet
+
+- address: Ef_AhqqheA-GkmwN4uAg7j5qjHffA2VL-kzFuXoYs9fD7kJL
+  name: "TonStake Validator #3"
+  type: wallet
+
+- address: EQAUgVXUBJC7c72oEaQGowLvWhnf-nKghL7zBX8FSqrSXkp4
+  name: TonStake Deposit
+  type: wallet
+
+- address: EQAOCN7KlgGzTp6YjW6d_fm_ibJEUe0VwFyKNnZVzlL4Jda3
+  name: TonStake Withdrawal
+  type: wallet

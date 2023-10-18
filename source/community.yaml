@@ -1,0 +1,135 @@
+# This file holds notable community project addresses.
+- address: EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N
+  name: TON Foundation
+  type: wallet
+
+- address: EQAhE3sLxHZpsyZ_HecMuwzvXHKLjYx4kEUehhOy2JmCcHCT
+  name: TON Ecosystem Reserve
+
+- address: EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y
+  name: CAT Services
+  tonIcon: 💎
+  type: wallet
+
+- address: EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj
+  name: Telegram Team
+  type: wallet
+
+- address: EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE
+  name: Fragment Marketplace
+  type: wallet
+
+- address: EQCMOXxD-f8LSWWbXQowKxqTr3zMY-X1wMTyWp3B-LR6s3Va
+  name: Fragment Cold Storage
+  type: wallet
+
+- address: EQAOQdwdw8kGftJCSFgOErM1mBjYPe4DBPq8-AhF6vr9si5N
+  name: Anonymous Telegram Numbers
+  type: nft_collection
+
+- address: EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS
+  name: Getgems Marketplace
+  type: wallet
+
+- address: EQBYTuYbLf8INxFtD8tQeNk5ZLy-nAX9ahQbG_yl1qQ-GEMS
+  name: Getgems Sales
+
+- address: EQDrLq-X6jKZNHAScgghh0h1iog3StK71zn8dcmrOj8jPWRA
+  name: Disintar Marketplace
+
+- address: EQA8sc2WlFb7VIpK_777JIX9vrYMz3FvPogd2OdhxR18e-Hg
+  name: Rich Cats Fund
+  tonIcon: 🐱
+  type: wallet
+
+- address: EQDe1lrwD7d5ntSQuAPtQ2kUp_BSa8a4tNMMNak21zQXPSUa
+  name: Rich Cats
+  tonIcon: 🐱
+  type: wallet
+
+- address: EQCJTkhd1W2wztkVNp_dsKBpv2SIoUWoIyzI7mQrbSrj_NSh
+  name: TON Diamonds
+  type: wallet
+
+- address: EQANKN8ZnM0OzYOENTkOEg7VVgFog5fBWdCtqQro1MRmU5_2
+  name: Animals Red List NFT
+  type: wallet
+
+- address: EQCRMjhmUVkjiYvj9d-Yotr4OT2ekPoKU9Hmq0EHTokRO6EK
+  name: TON Earth
+  type: wallet
+
+- address: EQA5Pxp_EC9pTlxrvO59D1iqBqodajojullgf07ENKa22oSN
+  name: TelePay
+  type: wallet
+
+- address: EQBNaV2nd9-OGDmWXNip6SizsygyGrhd7CQ-hkJ6xm7b6NhC
+  name: OTC Market
+  type: wallet
+
+- address: EQC8SFJHv-ujGUUKVzVd9ytU3ySK5jnga_yQ51igX-emn4th
+  name: OTC Lockup Market
+  type: wallet
+
+- address: EQCtBAFC02qgf2jKf6SrLNiRxTZaHut7pRpbXZoasOx2EnXs
+  name: Tonometr Bot
+  type: wallet
+
+- address: EQBd3OeCL1nRhTVSWlKFzYDO_u8_Xf-N1CmaiVfhKdh_wUzR
+  name: Subscriptions
+  type: wallet
+
+- address: EQDOPNz5UIm3XuXOmCSk_1BvQLdQkMS-lmN8K404sQlyJPrd
+  name: "@mobile"
+  type: wallet
+
+- address: EQDI_6jJaNNjbPIppoW9HNLe63YAndVGRufU_bEkPzujMOxs
+  name: Ton.Place
+  type: wallet
+
+- address: EQDntPGyh1m8HMZ6i8LSuVCh1hyTh7ENXbRMaUNk8h6bxySU
+  description: https://github.com/ton-society/ton-footsteps
+  name: TON Footsteps
+  type: wallet
+
+- address: EQDVCoEOZ5QTT-EbMtbTghftSDNn9ex7sJasUkWtCKkwTmgp
+  description: https://github.com/ton-society/grants-and-bounties
+  name: TON Bounties
+  type: wallet
+
+- address: EQAofOj4Nt2A7Iwsy_yReuSvFse31yOEJ6D8Wi0Z-DNYXhYv
+  description: https://ton.org/grants
+  name: TON Grants
+  type: wallet
+
+- address: EQBj1R6ZmJETs5AlRD1Tz27iweJqLYhlWYX_xV2YiSbil2HS
+  description: |-
+    Connecton VPN is an important project in the TON blockchain, which has just donated 10k TON to believers.ton.
+    It's the first VPN to ever accept TON as means of payment. Listed in TonKeeper and partner of @wallet as well.
+    More details: https://connecton.surf
+  name: Connecton VPN
+  type: wallet
+
+- address: EQAAFhjXzKuQ5N0c96nsdZQWATcJm909LYSaCAvWFxVJP80D
+  name: Whales Pool
+  type: wallet
+
+- address: EQBeNwQShukLyOWjKWZ0Oxoe5U3ET-ApQIWYeC4VLZ4tmeTm
+  name: Whales Withdraw 1
+  type: wallet
+
+- address: EQAQwQc4N7k_2q1ZQoTOi47_e5zyVCdEDrL8aCdi4UcTZef4
+  name: Whales Withdraw 2
+  type: wallet
+
+- address: EQDQA68_iHZrDEdkqjJpXcVqEM3qQC9u0w4nAhYJ4Ddsjttc
+  name: Whales Withdraw 3
+  type: wallet
+
+- address: EQCr1U4EVmSWpx2sunO1jhtHveatorjfDpttMCCkoa0JyD1P
+  name: Whales Withdraw 4
+  type: wallet
+
+- address: EQAB_3oC0MH1r4fz1kztk6Nhq9GFQnrBUgObzrhyAXjzzjrc
+  name: Whales Withdraw 5
+  type: wallet

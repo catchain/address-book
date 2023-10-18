@@ -1,0 +1,12 @@
+{
+  "name": "@catchain/addressbook",
+  "description": "ton addressbook for tonscan.org explorer",
+  "scripts": {
+    "build": "node ./index.mjs build",
+    "test": "node ./index.mjs test"
+  },
+  "dependencies": {
+    "tonweb": "^0.0.62",
+    "yaml": "^2.3.2"
+  }
+}
