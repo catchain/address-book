@@ -1,4 +1,8 @@
-# TON blockchain address book
+# 🗒️ TON address book
+
+This is an address book for [tonscan.org](https://tonscan.org) explorer. It is build automatically from `.yaml` files and published at [this url](https://address-book.tonscan.org/addresses.json).
+
+Address book is used to substitute some popular or important TON addresses with human readable names: for example, `Ef8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM0vF` will be shown as `Elector`. It is **not** used in search.
 
 If you want to make a pull request, please commit to `source/[category].yaml` file only. Most likely you'll need `community.yaml` or `exchanges.yaml` file.
 
