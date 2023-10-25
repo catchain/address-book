@@ -1,30 +1,45 @@
 # 🗒️ TON address book
 
-This is an address book for [tonscan.org](https://tonscan.org) explorer. It is build automatically from `.yaml` files and published at [this url](https://address-book.tonscan.org/addresses.json).
+This is an address book for [tonscan.org](https://tonscan.org) explorer. It is build automatically from `.yaml` files and published at [this url](https://address-book.tonscan.org/addresses.json). 
 
-Address book is used to substitute some popular or important TON addresses with human readable names: for example, `Ef8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM0vF` will be shown as `Elector`. It is **not** used in search.
+Address book is used to substitute some popular and important TON addresses with human readable names. It is **not** used in tonscan.org search. If you'd like to add your address into the search, please open an issue.
 
-If you want to make a pull request, please commit to `source/[category].yaml` file only. Most likely you'll need `community.yaml` or `exchanges.yaml` file.
+## Contributing
+Just add your address to the appropriate yaml file in the [`source`](https://github.com/catchain/address-book/blob/master/source) directory.
+
+How to choose category:
+
+- [**community.yaml**](https://github.com/catchain/address-book/blob/master/source/community.yaml) is for notable community projects: NFTs, marketplaces, bots, etc.
+- [**exchanges.yaml**](https://github.com/catchain/address-book/blob/master/source/exchanges.yaml) is for exchanges and DEXes.
+- [**system.yaml**](https://github.com/catchain/address-book/blob/master/source/system.yaml) is for core blockchain contracts, like elector, DNS, POW givers, etc.
+- [**validators.yaml**](https://github.com/catchain/address-book/blob/master/source/validators.yaml) is for validators and pools.
+- [**people.yaml**](https://github.com/catchain/address-book/blob/master/source/people.yaml) is for celebreties and famous people.
+- [**scam.yaml**](https://github.com/catchain/address-book/blob/master/source/scam.yaml) is for scam addresses. All addresses in this file will be shown with the red SCAM badge.
 
 Entry structure must be as follows:
 
 ```yaml
-# new line
 - address: TON address in any format
-  tonIcon: Special field, please don't fill it out
   name: Short name for your project, 3-32 symbols
   description: |-
-    Please provide short description for your project.
+    You may provide short description for your project.
     Any amount of text and links are allowed.
-  type: Contract type (see below)
-# new line
+  type: wallet (or empty: see below)
 ```
 
-### Contract type
-`type` field can either be empty (just don't use it in entry) or one of these values: `wallet`, `nft_collection`, `jetton`, `pool`. Use `wallet` type for _all_ wallets (including validator addresses) and uninit addresses.
+#### Contract type
+`type` field can either be empty (just don't use it in entry) or one of these values: `wallet`, `nft_collection`, `jetton`, `pool`.
+
+**Important:** use `wallet` type for **all wallets** (including validator addresses) and **uninit** addresses.
+
+This field is needed because some addresses in TON have to be in other format (UQ vs EQ). The address itself can be in any format, just set the correct `type`.
 
 
 ## Building
 ```bash
 npm install && npm run build
 ```
+
+## See also
+- [Tonkeeper address book](https://github.com/tonkeeper/ton-assets)
+
