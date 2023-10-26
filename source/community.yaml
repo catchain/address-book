@@ -92,9 +92,14 @@
   name: TON Footsteps
   type: wallet
 
-- address: EQDVCoEOZ5QTT-EbMtbTghftSDNn9ex7sJasUkWtCKkwTmgp
+- address: EQA5xljPhtHC_YEyfSAzRjxugLGWUDPq-Yx3M15Ji32DeWHo
   description: https://github.com/ton-society/grants-and-bounties
   name: TON Bounties
+  type: wallet
+
+- address: EQDVCoEOZ5QTT-EbMtbTghftSDNn9ex7sJasUkWtCKkwTmgp
+  description: https://github.com/ton-society/grants-and-bounties
+  name: TON Bounties [archive]
   type: wallet
 
 - address: EQAofOj4Nt2A7Iwsy_yReuSvFse31yOEJ6D8Wi0Z-DNYXhYv
