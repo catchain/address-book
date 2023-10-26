@@ -16,19 +16,6 @@
 - address: EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c
   name: Burn Address
 
-# TON Grants & Bounties
-- address: EQDntPGyh1m8HMZ6i8LSuVCh1hyTh7ENXbRMaUNk8h6bxySU
-  name: TON Footsteps
-
-- address: EQAofOj4Nt2A7Iwsy_yReuSvFse31yOEJ6D8Wi0Z-DNYXhYv
-  name: TON Grants
-  
-- address: EQA5xljPhtHC_YEyfSAzRjxugLGWUDPq-Yx3M15Ji32DeWHo
-  name: TON Bounties
-
-- address: EQDVCoEOZ5QTT-EbMtbTghftSDNn9ex7sJasUkWtCKkwTmgp
-  name: TON Bounties [archive]
-
 
 # DNS:
 - address: Ef_lZ1T4NCb2mwkme9h2rJfESCE0W34ma9lWp7-_uY3zXDvq
