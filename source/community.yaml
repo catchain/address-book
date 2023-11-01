@@ -4,6 +4,9 @@
   type: wallet
 
 - address: EQAhE3sLxHZpsyZ_HecMuwzvXHKLjYx4kEUehhOy2JmCcHCT
+  name: Old TON Ecosystem Reserve
+
+- address: EQBmzW4wYlFW0tiBgj5sP1CgSlLdYs-VpjPWM7oPYPYWQEdT
   name: TON Ecosystem Reserve
 
 - address: EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y
@@ -99,7 +102,7 @@
 
 - address: EQDVCoEOZ5QTT-EbMtbTghftSDNn9ex7sJasUkWtCKkwTmgp
   description: https://github.com/ton-society/grants-and-bounties
-  name: TON Bounties [archive]
+  name: Old TON Bounties
   type: wallet
 
 - address: EQAofOj4Nt2A7Iwsy_yReuSvFse31yOEJ6D8Wi0Z-DNYXhYv
