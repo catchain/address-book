@@ -116,3 +116,12 @@
   
 - address: Ef9BqxMAQjLMnzltwiZ7etD3-3PSx6R5wjXMgqWQ81Keeper
   name: Tonkeeper Whales Validator
+
+- address: Ef_DkntDYhGvRVZwOmkoupIyt4zIqi74lWOkJUJBHbSDDqhg
+  name: DWF-2
+  type: pool
+
+- address: Ef8vr1Jil46EwjCd5sOKlxD1NRzA8ZDcIolStOVd3x9Hy_Vg
+  name: DWF-1
+  type: pool
+
