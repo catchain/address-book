@@ -142,3 +142,7 @@
 - address: EQAB_3oC0MH1r4fz1kztk6Nhq9GFQnrBUgObzrhyAXjzzjrc
   name: Whales Withdraw 5
   type: wallet
+
+- address: UQDqgkqefbZu_fZ7-8eib6h3vLubZxQfu-KRi829HBBUGzWm
+  name: DWF Labs
+  type: wallet
