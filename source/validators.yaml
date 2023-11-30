@@ -118,10 +118,10 @@
   name: Tonkeeper Whales Validator
 
 - address: Ef_DkntDYhGvRVZwOmkoupIyt4zIqi74lWOkJUJBHbSDDqhg
-  name: DWF Labs 2
+  name: DWF Labs Pool 2
   type: pool
 
 - address: Ef8vr1Jil46EwjCd5sOKlxD1NRzA8ZDcIolStOVd3x9Hy_Vg
-  name: DWF Labs 1
+  name: DWF Labs Pool 1
   type: pool
 
