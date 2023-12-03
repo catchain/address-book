@@ -43,30 +43,39 @@
 
 - address: Ef8WxwYOyAk-H0YGBc70gZFJc6oqUvcHywU-yJNBfSNh-GW9
   name: Token Oracle 0
+  type: wallet
 
 - address: Ef8CbgwhUMYn2yHU343dcezKkvme3cyFJB7SHVY3FXhU9jqj
   name: Token Oracle 1
-
+  type: wallet
+    
 - address: Ef-n3Vdme6nSe4FBDb3inTRF9B6lh3BbIwGlk0dDpUO5oFmH
   name: Token Oracle 2
+  type: wallet
 
 - address: Ef9D1-FOb82pREFPgW7AlzNlZ7f0XnvmGakW23wpWeILAum9
   name: Token Oracle 3
+  type: wallet
 
 - address: Ef8TBPHHIowG5pGgSVX8n4KmOaX-EEjvnOSBRlQvVsJWP_WJ
   name: Token Oracle 4
+  type: wallet
 
 - address: Ef8ceN7cTemTe4ZV6AIbg5f8LsHZsYV1UaiGntvkME0KtP45
   name: Token Oracle 5
+  type: wallet
 
 - address: Ef8uDTu2WCcJdtuKmkDmC1yRKVxZrTp83ke5PnMECOccg3w4
   name: Token Oracle 6
+  type: wallet
 
 - address: Ef905jDDX87nPDbTSMqFB9ILVGX1zWc66PPrNhkjHrWxAnZZ
   name: Token Oracle 7
+  type: wallet
 
 - address: Ef9Ubg96xQ8jVKbl7QQJ1k8pClQLmO1Ci68nuNfbLdm9uS-x
   name: Token Oracle 8
+  type: wallet
 
 - address: Ef-1JetbPF9ubc1ga-57oHoOyDA1IShJt-BVlJnA9rrVTfrB
   name: ETH Token Bridge
@@ -97,30 +106,39 @@
 
 - address: Ef_P2CJw784O1qVd8Qbn8RCQc4EgxAs8Ra-M3bDhZn3OfzRb
   name: Bridge Oracle 0
+  type: wallet
 
 - address: Ef8DfObDUrNqz66pr_7xMbUYckUFbIIvRh1FSNeVSLWrvo1M
   name: Bridge Oracle 1
+  type: wallet
 
 - address: Ef8JKqx4I-XECLuVhTqeY1WMgbgTp8Ld3mzN-JUogBF4ZEW-
   name: Bridge Oracle 2
+  type: wallet
 
 - address: Ef8voAFh-ByCeKD3SZhjMNzioqCmDOK6S6IaeefTwYmRhgsn
   name: Bridge Oracle 3
+  type: wallet
 
 - address: Ef_uJVTTToU8b3o7-Jr5pcUqenxWzDNYpyklvhl73KSIA17M
   name: Bridge Oracle 4
+  type: wallet
 
 - address: Ef93olLWqh1OuBSTOnJKWZ4NwxNq_ELK55_h_laNPVwxcEro
   name: Bridge Oracle 5
+  type: wallet
 
 - address: Ef_iUPZdKLOCrqcNpDuFGNEmiuBwMB18TBXNjDimewpDExgn
   name: Bridge Oracle 6
+  type: wallet
 
 - address: Ef_tTGGToGmONePskH_Y6ZG-QLV9Kcg5DIXeKwBvCX4YifKa
   name: Bridge Oracle 7
+  type: wallet
 
 - address: Ef94L53akPw-4gOk2uQOenUyDYLOaif2g2uRoiu1nv0cWYMC
   name: Bridge Oracle 8
+  type: wallet
 
 
 # POW givers (mining):
