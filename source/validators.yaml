@@ -1,4 +1,14 @@
 # This file is for validator and pool addresses.
+- address: EQD2_4d91M4TVbEBVyBF8J1UwpMJc361LKVCz6bBlffMW05o
+  name: Stakee
+  type: pool
+
+- address: Ef9o8oaSNFhgM8uFW4BIo7P8IUK2qVjRaC5_Gd2O3JqPgOlI
+  name: Stakee Validator #1
+
+- address: Ef-itGcjlqCvwn6zT9gFKnPTesHn-znJy2QQgP3lB1KpfC8n
+  name: Stakee Validator #2
+
 - address: Ef-VAFf1Wd3fXd-mQhDw5lNsVdIZv2_H1yhbdzXCFfIe9p95
   name: CAT Validator 1
   type: wallet
