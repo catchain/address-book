@@ -135,3 +135,10 @@
   name: DWF Labs Pool 1
   type: pool
 
+- address: Ef--iZr4o1zvFU9u0Gc30Sk2dNzWJTk8ERr5xgv-AOHBjz55
+  name: Animoca Brands Pool 1
+  type: pool
+
+- address: Ef8hpW8uv5Ngz5m5nV_tSRBfo_VSmHz6pw_JQ6Y_PXV5Qxqt
+  name: Animoca Brands Pool 2
+  type: pool
