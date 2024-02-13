@@ -142,7 +142,7 @@
   type: wallet
 
 
-# POW givers (mining):
+# TON PoW givers (mining):
 - address: Ef-kkdY_B7p-77TLn2hUhM6QidWrrsl8FYWCIvBMpZKprKDH
   name: PoW Giver 1
 
@@ -202,3 +202,64 @@
 
 - address: Ef8mO4l6ZB_eaMn1OqjLRrrkiBcSt7kYTvJC_dzJLdpEDBft
   name: Large Giver 10
+
+#Gram PoW Givers (mining):
+- address: EQDSGvoktoIRTL6fBEK_ysS8YvLoq3cqW2TxB_xHviL33ex2
+  name: Gram Small Giver 1
+
+- address: EQCvMmHhSYStEtUAEDrpV39T2GWl-0K-iqCxSSZ7I96L4yow
+  name: Gram Small Giver 2
+
+- address: EQBvumwjKe7xlrjc22p2eLGT4UkdRnrmqmcEYT94J6ZCINmt
+  name: Gram Small Giver 3
+
+- address: EQDEume45yzDIdSy_Cdz7KIKZk0HyCFIr0yKdbtMyPfFUkbl
+  name: Gram Small Giver 4
+
+- address: EQAO7jXcX-fJJZl-kphbpdhbIDUqcAiYcAr9RvVlFl38Uatt
+  name: Gram Small Giver 5
+
+- address: EQAvheS_G-U57CE55UlwF-3M-cc4cljbLireYCmAMe_RHWGF
+  name: Gram Small Giver 6
+
+- address: EQCba5q9VoYGgiGykVazOUZ49UK-1RljUeZgU6E-bW0bqF2Z
+  name: Gram Small Giver 7
+
+- address: EQCzT8Pk1Z_aMpNukdV-Mqwc6LNaCNDt-HD6PiaSuEeCD0hV
+  name: Gram Small Giver 8
+
+- address: EQDglg3hI89dySlr-FR_d1GQCMirkLZH6TPF-NeojP-DbSgY
+  name: Gram Small Giver 9
+
+- address: EQDIDs45shbXRwhnXoFZg303PkG2CihbVvQXw1k0_yVIqxcA
+  name: Gram Small Giver 10
+
+- address: EQCfwe95AJDfKuAoP1fBtu-un1yE7Mov-9BXaFM3lrJZwqg_
+  name: Gram Extra Small Giver 1
+
+- address: EQBoATvbIa9vA7y8EUQE4tlsrrt0EhSUK4mndp49V0z7Me3M
+  name: Gram Extra Small Giver 2
+
+- address: EQAV3tsPXau3VJanBw4KCFaMk3l_n3sX8NHZNgICFrR-9EGE
+  name: Gram Extra Small Giver 3
+
+- address: EQAR9DvLZMHo9FAVMHI1vHvL7Fi7jWgjKtUARZ2S_nopQRYz
+  name: Gram Extra Small Giver 4
+
+- address: EQC10L__G2SeEeM2Lw9osGyYxhoIPqJwE-8Pe7728JcmnJzW
+  name: Gram Extra Small Giver 5
+
+- address: EQDZJFkh12kw-zLGqKSGVDf1V2PRzedGZDFDcFml5_0QerST
+  name: Gram Extra Small Giver 6
+
+- address: EQCiLN0gEiZqthGy-dKl4pi4kqWJWjRzR3Jv4jmPOtQHveDN
+  name: Gram Extra Small Giver 7
+
+- address: EQDB8Mo9EviBkg_BxfNv6C2LO_foJRXcgEF41pmQvMvnB9Jn
+  name: Gram Extra Small Giver 8
+
+- address: EQAidDzp6v4oe-vKFWvsV8MQzY-4VaeUFnGM3ImrKIJUIid9
+  name: Gram Extra Small Giver 9
+
+- address: EQAFaPmLLhXveHcw3AYIGDlHbGAbfQWlH45WGf4K4D6DNZxY
+  name: Gram Extra Small Giver 10
