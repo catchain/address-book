@@ -146,3 +146,9 @@
 - address: UQDqgkqefbZu_fZ7-8eib6h3vLubZxQfu-KRi829HBBUGzWm
   name: DWF Labs
   type: wallet
+
+- address: UQCqPdkvuiXF79L2YdyYJlKAMztkfAnjae4bwgGGVHvQB_Am
+  name: TON Ninja Mining Pool
+
+- address: UQC_QucgGZcvAYu2a96i76GByKEs2OYq896ro0gagorB6v1t
+  name: Official Gramcoin Mining Pool
