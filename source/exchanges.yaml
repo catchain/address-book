@@ -129,3 +129,10 @@
 
 - address: EQAxC3GzQBgjlvW6CJAwgaHvarTfVxo8p7Be_6RMSjsPki6s
   name: Megaton Finance
+  
+- address: UQAMQ78bwpqBdgwtiOorWmH9bqKBXOo0Yo0jKlnwj-8A9SOx
+  description: |-
+    Kedai Crypto is a telegram bot exchange from Indonesia.
+    Links: https://kedaicrypto.id, https://t.me/Kedai_CryptoBot
+  name: Kedai Crypto
+  type: wallet
