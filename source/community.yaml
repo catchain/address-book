@@ -9,15 +9,15 @@
   type: wallet
 
 - address: EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj
-  name: Telegram Team
+  name: Telegram Development
   type: wallet
 
 - address: EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE
   name: Fragment Marketplace
   type: wallet
 
-- address: EQCMOXxD-f8LSWWbXQowKxqTr3zMY-X1wMTyWp3B-LR6s3Va
-  name: Fragment Cold Storage
+- address: UQCMOXxD-f8LSWWbXQowKxqTr3zMY-X1wMTyWp3B-LR6syif
+  name: Telegram
   type: wallet
 
 - address: EQAOQdwdw8kGftJCSFgOErM1mBjYPe4DBPq8-AhF6vr9si5N
