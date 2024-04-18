@@ -5,6 +5,7 @@
 
 - address: UQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqEBI
   name: Old TON Foundation
+  type: wallet
   
 - address: EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y
   name: CAT Services
