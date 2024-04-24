@@ -112,20 +112,89 @@
   name: TonStake Withdrawal
   type: wallet
 
+- address: EQDhGXtbR6ejNQucRcoyzwiaF2Ke-5T8reptsiuZ_mLockup
+  name: Lockups Pool #1
+  type: pool
+
+- address: Ef8w86CCOsJbJJgdWIOdaTy3mnvQYNNQLMRF_B1gNZLockup
+  name: Lockups Worker #1
+
+- address: EQDg5ThqQ1t9eriIv2HkH6XUiUs_Wd4YmXZeGpnPzwLockup
+  name: Lockups Pool #2
+  type: pool
+
+- address: Ef9DCMtLAK-bxbnXph6B06nf_MtSQ-iEKboQOD-pNwLockup
+  name: Lockups Worker #2
+
+- address: EQBYtJtQzU3M-AI23gFM91tW6kYlblVtjej59gS8P3uJ_ePN
+  name: ePN Partners Pool #1
+  type: pool
+
+- address: Ef-0PlUsyoanEKw7uH9Oy2nNnOJPLSfwCDLfABudIk2c-ePN
+  name: ePN Partners Worker #1
+
+- address: EQCpCjQigwF27KQ588VhQv9jm_DUuL_ZLY3HCf_9yZW5_ePN
+  name: ePN Partners Pool #2
+  type: pool
+
+- address: Ef_5QpkvZNevl66DnR00HYG6at6PZZeVxv0IoKgd9BhZ-ePN
+  name: ePN Partners Worker #2
+
+- address: EQCOj4wEjXUR59Kq0KeXUJouY5iAcujkmwJGsYX7qPnITEAM
+  name: Whales Team Pool #1
+  type: pool
+
 - address: Ef8Ogh4NObupw39Cx8xrjI_nJkdV7UVSKYZkxOVcFOiUTEAM
-  name: Whales Team
+  name: Whales Team Worker #1
+
+- address: EQBI-wGVp_x0VFEjd7m9cEUD3tJ_bnxMSp0Tb9qz757ATEAM
+  name: Whales Team Pool #2
+  type: pool
+
+- address: Ef85HFFhJpbOUKYKVRoC_pGalqHNQe0Jc3RUZpXcoKLgTEAM
+  name: Whales Team Worker #2
+
+- address: EQDFvnxuyA2ogNPOoEj1lu968U4PP8_FzJfrOWUsi_o1CLUB
+  name: Whales Club Pool #1
+  type: pool
   
 - address: Ef_3qxbRl2ruQ7jqzHlDQdOOcqkkoTSlgO749aQ6PGywCLUB
-  name: Whales Club
-  
+  name: Whales Club Worker #1
+
+- address: EQA_cc5tIQ4haNbMVFUD1d0bNRt17S7wgWEqfP_xEaTACLUB
+  name: Whales Club Pool #2
+  type: pool
+
+- address: Ef80wWi-7xV1RtoTUK7bvRgYGyn327O-caldk90VySg8CLUB
+  name: Whales Club Worker #2
+
+- address: EQCkR1cGmnsE45N4K0otPl5EnxnRakmGqeJUNua5fkWhales
+  name: Whales Nominators Pool #1
+  type: pool
+
 - address: Ef8W1vCpA1tr9xr6QSXSxcVSdn1Sm7SYX_PCWQdClaWhales
-  name: Whales Nominators
+  name: Whales Nominators Worker #1
+
+- address: EQCY4M6TZYnOMnGBQlqi_nyeaIB1LeBFfGgP4uXQ1VWhales
+  name: Whales Nominators Pool #2
+  type: pool
+
+- address: Ef-m2UP6rg1Izra_yzSOvPboEem9d2HFzdWarnuNvrWhales
+  name: Whales Nominators Worker #2
 
 - address: EQAA_5_dizuA1w6OpzTSYvXhvUwYTDNTW_MZDdZ0CGKeeper
-  name: Tonkeeper Whales Pool
-  
+  name: Tonkeeper Whales Pool #1
+  type: pool
+
 - address: Ef9BqxMAQjLMnzltwiZ7etD3-3PSx6R5wjXMgqWQ81Keeper
-  name: Tonkeeper Whales Validator
+  name: Tonkeeper Whales Worker #1
+
+- address: EQDvvBmP3wUcjoXPY1jHfT4-fgb294imVYH5EHdLnAKeeper
+  name: Tonkeeper Whales Pool #2
+  type: pool
+
+- address: Ef-Alt13oZe8e6hi8IzGiR7rhb7_D2jVxFlEN_ln_VKeeper
+  name: Tonkeeper Whales Worker #2
 
 - address: Ef_DkntDYhGvRVZwOmkoupIyt4zIqi74lWOkJUJBHbSDDqhg
   name: DWF Labs Pool 2
