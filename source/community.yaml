@@ -5,6 +5,7 @@
 
 - address: UQB1Ej8JDhx-qLwf0SuLjAf6x1DadezEVPMXqFdgssjMj_tq
   name: Gram Foundation
+  type: wallet
 
 - address: UQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqEBI
   name: Old TON Foundation
@@ -30,7 +31,11 @@
 - address: EQAOQdwdw8kGftJCSFgOErM1mBjYPe4DBPq8-AhF6vr9si5N
   name: Anonymous Telegram Numbers
   type: nft_collection
-
+  
+- address: UQAQQTyWQnLTmerS0GWQYrFYtLogGuXAW_kG5gw-50RVpMge
+  name: Gram Foundation
+  type: wallet
+  
 - address: EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS
   name: Getgems Marketplace
   type: wallet
