@@ -128,6 +128,10 @@
   name: Whales Pool
   type: wallet
 
+  - address: EQCnNNyZYbYUZKWD_D7zXvwsY9ZpDJDNyU-SjN6R9Dj5mdbj
+  name: Kuromi
+  type: wallet
+
 - address: EQBeNwQShukLyOWjKWZ0Oxoe5U3ET-ApQIWYeC4VLZ4tmeTm
   name: Whales Withdraw 1
   type: wallet
