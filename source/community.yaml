@@ -24,6 +24,22 @@
   name: Fragment Marketplace
   type: wallet
 
+- address: EQCFJEP4WZ_mpdo0_kMEmsTgvrMHG7K_tWY16pQhKHwoOoy2
+  name: Fragment · Telegram Stars
+  type: wallet
+
+- address: EQBeab7D38RIwypegbN7YZgQzwDbb8QfMMwY8ouJc3qPl91M
+  name: Fragment · Telegram Ads
+  type: wallet
+
+- address: EQBDUShg1UmAzyTVmGijDmeZJ_sTc8EJZNt1AO3N9pCrxPAN
+  name: Telegram Channel Rewards 
+  type: wallet
+
+- address: EQDm89iCT0ax77q5r8aEeTQoxV_tabRqFaSb5popvEnlMLNb
+  name: Telegram Channel Rewards 
+  type: wallet
+
 - address: UQCMOXxD-f8LSWWbXQowKxqTr3zMY-X1wMTyWp3B-LR6syif
   name: Telegram
   type: wallet
@@ -31,6 +47,10 @@
 - address: EQAOQdwdw8kGftJCSFgOErM1mBjYPe4DBPq8-AhF6vr9si5N
   name: Anonymous Telegram Numbers
   type: nft_collection
+
+- address: UQDtU7yZnlpK9po_nD3lN299kMSH4VKPMx5xbb6FkD1REpyy
+  name: Notcoin
+  type: wallet
   
 - address: UQAQQTyWQnLTmerS0GWQYrFYtLogGuXAW_kG5gw-50RVpMge
   name: Notcoin Foundation
@@ -156,4 +176,4 @@
   name: TON Ninja Mining Pool
 
 - address: UQC_QucgGZcvAYu2a96i76GByKEs2OYq896ro0gagorB6v1t
-  name: Official Gramcoin Mining Pool
+  name: Gramcoin Mining Pool
