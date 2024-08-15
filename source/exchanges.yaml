@@ -7,19 +7,24 @@
   type: wallet
 
 - address: EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh
-  name: Wallet Bot
+  name: Wallet Bot 1
   type: wallet
 
 - address: EQDd3NPNrWCvTA1pOJ9WetUdDCY_pJaNZVq0JMaara-TIp90
-  name: Old Wallet Bot
+  name: Wallet Bot 2
   type: wallet
 
+- address: EQBugU5kUOjFeAZ7tlYpj7TQE5fdFQGNfzTcNp6rpMIRHLwm
+  name: Wallet Bot 3
+  type: wallet
+  
 - address: UQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2iNl
   name: Binance Hot Wallet
   type: wallet
 
 - address: UQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xI-e
   name: Binance
+  type: wallet
 
 - address: EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8
   name: OKX 1
