@@ -103,7 +103,11 @@
   type: wallet
   
 - address: EQCZ-7akCw_dvl_Q5xyriWqCXdWubIPbuN7aDQlzX45paxCU
-  name: ByBit Withdrawal
+  name: ByBit 7
+  type: wallet
+
+- address: UQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-cql
+  name: Crypto.com
   type: wallet
 
 - address: EQAAi7CI6B441YOCaQEJNWcCfMFXXsdErDVPpO7sMC0WbSVp
