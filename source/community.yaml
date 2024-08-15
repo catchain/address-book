@@ -104,6 +104,14 @@
   name: Tonometr Bot
   type: wallet
 
+- address: UQCPLYQOwF0Rj5hFmgV7H8q1NcV7k3EiK-FWZ_7pMs6vUz6z
+  name: Tonkeeper Battery
+  type: wallet
+
+- address: EQByUegyggQM_SOHz2d7KGT38CFyD6BAzaVDqRlBGUQs6lck
+  name: Tonkeeper Battery Refunds
+  type: wallet
+  
 - address: EQBd3OeCL1nRhTVSWlKFzYDO_u8_Xf-N1CmaiVfhKdh_wUzR
   name: Subscriptions
   type: wallet
@@ -137,10 +145,6 @@
   type: wallet
 
 - address: EQBj1R6ZmJETs5AlRD1Tz27iweJqLYhlWYX_xV2YiSbil2HS
-  description: |-
-    Connecton VPN is an important project in the TON blockchain, which has just donated 10k TON to believers.ton.
-    It's the first VPN to ever accept TON as means of payment. Listed in TonKeeper and partner of @wallet as well.
-    More details: https://connecton.surf
   name: Connecton VPN
   type: wallet
 
