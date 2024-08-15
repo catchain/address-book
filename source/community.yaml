@@ -104,6 +104,70 @@
   name: Tonometr Bot
   type: wallet
 
+- address: UQCbirY3UHIwuZ3ialXqbZzU_vDP_Kr-LR8V6DXV9dOKQ5yK
+  name: TonAPI Gas Proxy 1
+  type: wallet
+
+- address: UQAcBreOtMDAFLUTCCIfYmNkN0b-e-YLSDGoQJBRy6Awb8JM
+  name: TonAPI Gas Proxy 2
+  type: wallet
+
+- address: UQALyITmdro9yqvnXOpxw41mke0NaonP2V0ncsMve-ASYhrK
+  name: TonAPI Gas Proxy 3
+  type: wallet
+
+- address: UQDzP1oeMJI2wh_UErnVIuJKam7zdFwB9-x9cxvA-ETDNC1p
+  name: TonAPI Gas Proxy 4
+  type: wallet
+
+- address: UQDjs3Wl9x6he-wSXTqI9kg1de6QmxYBDu_tm2T-mw1k5Qdy
+  name: TonAPI Gas Proxy 5
+  type: wallet
+
+- address: UQBzcnpBnn1_GuHEVeWO5DLybjp1sxB4-ZztysQD9HYZvv_F
+  name: TonAPI Gas Proxy 6
+  type: wallet
+
+- address: UQDVpggm0dTxVwhdK8dR0DfGHx_i1VMizVvAKXRWxRPdaSET
+  name: TonAPI Gas Proxy 7
+  type: wallet
+
+- address: UQChgJ6ab2St3n8PSFdCloQzpiGk87XhxZIKcHfXtjw0EXQ6
+  name: TonAPI Gas Proxy 8
+  type: wallet
+
+- address: UQDG9ZFkQ_b3BxObEI7c4xfqUqjExeWvr5o8bpPWRoXZXUs1
+  name: TonAPI Gas Proxy 9
+  type: wallet
+
+  - address: UQBpWnAwKiPCtKG5h6he-pfsu50Vlebz_pUlkpDgS1TPH3K-
+  name: TonAPI Gas Proxy 10
+  type: wallet
+
+  - address: UQA706rWcBaMSxxuyb0p_dZbE5Zwtx05xlP7WIJDDh21jqSG
+  name: TonAPI Gas Proxy 11
+  type: wallet
+
+  - address: UQAvqLaYvTLGXoyTY0GASnrN6h-S49NmvksOJD3rw9wSYPU2
+  name: TonAPI Gas Proxy 12
+  type: wallet
+
+  - address: UQBGOzawW2QtzY54knlrS_Plqmfxxz7sdtS-b8LgvN2zkR4_
+  name: TonAPI Gas Proxy 13 
+  type: wallet
+
+  - address: UQC26ssEFkLzC0JNL29YeV5ukyrO__p3kybxwlY0eCC0zRbN
+  name: TonAPI Gas Proxy 14
+  type: wallet
+
+  - address: UQCHEWoQv8nMNAuDfrA7BZ7hYqrvm2-iLcnkNbPnOhc9-Rnn
+  name: TonAPI Gas Proxy 15
+  type: wallet
+
+  - address: UQBRs2Mf4_kVmB9BFM3rEjfoULf65DBVsT283JblDxwWzlWt
+  name: TonAPI Gas Proxy 16
+  type: wallet
+  
 - address: UQCPLYQOwF0Rj5hFmgV7H8q1NcV7k3EiK-FWZ_7pMs6vUz6z
   name: Tonkeeper Battery
   type: wallet
@@ -117,7 +181,7 @@
   type: wallet
 
 - address: EQDOPNz5UIm3XuXOmCSk_1BvQLdQkMS-lmN8K404sQlyJPrd
-  name: "@mobile"
+  name: "Mobile"
   type: wallet
 
 - address: EQDI_6jJaNNjbPIppoW9HNLe63YAndVGRufU_bEkPzujMOxs
