@@ -14,8 +14,47 @@
   name: Old Wallet Bot
   type: wallet
 
+- address: UQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2iNl
+  name: Binance Hot Wallet
+  type: wallet
+
+- address: UQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xI-e
+  name: Binance
+
 - address: EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8
-  name: OKX
+  name: OKX 1
+  type: wallet
+
+- address: EQDxXbLGLNhq_whg05xJH8c6MTlfr-tZReZESYViJgx4Lg4_
+  name: OKX 2
+  type: wallet
+
+- address: UQDn6G2gh0LtkzQ0_-uPCKY8fhAO6ELiX1manL8IkVdKbDEu
+  name: OKX 3
+  type: wallet
+
+- address: UQADON7zS4TG7pE0oEqxYBRQvkRjQKN64lneV8s3vbWQzTjL
+  name: OKX 4
+  type: wallet
+  
+- address: UQCjCknscl6fVyRLZq9MLaerdgBLT86A06NLHNDDd2Krztab
+  name: OKX 5
+  type: wallet
+
+- address: UQAk2h57jakB5bPdD5jDl_625aXqSDGVqLa9BoLPLFMnrnbQ
+  name: OKX 6
+  type: wallet
+
+- address: EQB_LoTHI9i2trGqz4EMjCarI8IgIrRkuHEEstMGWw6nC3Nw
+  name: OKX 7
+  type: wallet
+
+- address: EQCFTsRSHv1SrUO88ZiOTETr35omrRj6Uav9toX8OzSKXGkS
+  name: OKX 8
+  type: wallet
+  
+- address: EQD5vcDeRhwaLgAvralVC7sJXI-fc2aNcMUXqcx-BQ-OWnOZ
+  name: OKX 9
   type: wallet
 
 - address: EQBBlxK8VBxEidbxw4oQVyLSk7iEf9VPJxetaRQpEbi-XG4U
@@ -28,13 +67,41 @@
   isScam: true
 
 - address: EQBX63RAdgShn34EAFMV73Cut7Z15lUZd1hnVva68SEl7sxi
-  name: MEXC
+  name: MEXC 1
   type: wallet
 
-- address: EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb
-  name: ByBit
+- address: UQAce9aQ9Pk96Lk9tXkBKdq2WSbG4fybVzgAidtVKVFmMHCX
+  name: MEXC 2
   type: wallet
 
+- address: EQDYh9Di0cT8QSbnHJcNM6sYlpQAAOrnA7sats7Mgwd3497j
+  name: MEXC 3
+  type: wallet
+
+- address: UQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fKne
+  name: ByBit 1
+  type: wallet
+
+- address: UQBKHz68xmvc76kCRb31QaUK2hxoikh1NLFYer_9kwOINDtf
+  name: ByBit 2
+  type: wallet
+
+- address: UQDNUlwVkE17QCfq4IsxhiQmDzcc6Mn0_MoM23tYOFQQfBIU
+  name: ByBit 3
+  type: wallet
+
+- address: UQCuYqGS2pbiZhYacCzJ9t6RwMNEHxfOulG8RC37IDGjCjpR
+  name: ByBit 4
+  type: wallet
+
+- address: UQDjzgXE2pdxMsJKOxAtqLX78uqRczN7Sd40bkpLBX91eeH3
+  name: ByBit 5
+  type: wallet
+
+- address: UQDjPvhdF060V8By0e4QIVtpq5tkGS90ITAqscjia3rUvYhY
+  name: ByBit 6
+  type: wallet
+  
 - address: EQCZ-7akCw_dvl_Q5xyriWqCXdWubIPbuN7aDQlzX45paxCU
   name: ByBit Withdrawal
   type: wallet
@@ -63,11 +130,15 @@
   type: wallet
 
 - address: EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl
-  name: KuCoin Deposit
+  name: KuCoin 1
   type: wallet
 
 - address: EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs
-  name: KuCoin Withdrawal
+  name: KuCoin 2
+  type: wallet
+
+- address: UQAHzmC35fJVqIw3B_P7x54s-STta0t9CcYyTwuiM4pI-t4E
+  name: KuCoin 3
   type: wallet
 
 - address: EQAJfclKb4fFi0tWg-PVgwwdXxHRImLWbO9_7HZcpIlCWkTg
