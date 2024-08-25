@@ -4,10 +4,16 @@
   type: pool
 
 - address: Ef9o8oaSNFhgM8uFW4BIo7P8IUK2qVjRaC5_Gd2O3JqPgOlI
-  name: Stakee Validator #1
+  name: Stakee Validator 1
 
 - address: Ef-itGcjlqCvwn6zT9gFKnPTesHn-znJy2QQgP3lB1KpfC8n
-  name: Stakee Validator #2
+  name: Stakee Validator 2
+
+- address: Ef9eGuUpsIs80rwR3aV_eSo7wnFBvfaeV9OUo3wXLTYkR6-y
+  name: Stakee Validator 3
+
+- address: Ef-RZqci60-2GFZVoB1nI_KgJtRSLLKc-USDJh1ePuN6H4sL
+  name: Stakee Validator 4
 
 - address: Ef-VAFf1Wd3fXd-mQhDw5lNsVdIZv2_H1yhbdzXCFfIe9p95
   name: CAT Validator 1
