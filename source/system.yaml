@@ -12,6 +12,7 @@
 
 - address: UQBmzW4wYlFW0tiBgj5sP1CgSlLdYs-VpjPWM7oPYPYWQBqW
   name: Ecosystem Reserve
+  type: wallet
   
 - address: Ef80UXx731GHxVr0-LYf3DIViMerdo3uJLAG3ykQZFjXz2kW
   name: Log Tests
