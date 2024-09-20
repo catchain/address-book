@@ -209,3 +209,8 @@
 
 - address: EQAxC3GzQBgjlvW6CJAwgaHvarTfVxo8p7Be_6RMSjsPki6s
   name: Megaton Finance
+
+- address: EQCBdDjlsObrETq3TXP8lffsGSR9vm7iekLD0BZNYUw8oRAU
+  description: https://www.ourbit.com/
+  name: OURBIT
+  type: wallet
