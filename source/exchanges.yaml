@@ -111,6 +111,14 @@
   name: ByBit 7
   type: wallet
 
+- address: UQAm07E39zh-VX6nv-m4qQoNaIJY6nEVQFKfFRNwO1A9DgWf
+  name: Blofin 1
+  type: wallet
+
+- address: UQBq6NA-XnRb0g7HS0_KNvOkwUZYt1GGV6u3rhatXRB-g4UB
+  name: Blofin 2
+  type: wallet
+
 - address: UQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-cql
   name: Crypto.com
   type: wallet
