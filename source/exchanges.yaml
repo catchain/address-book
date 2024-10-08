@@ -10,16 +10,19 @@
   type: wallet
 
 - address: EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh
-  name: Wallet Bot 1
+  name: Old @wallet Storage
   type: wallet
 
 - address: EQDd3NPNrWCvTA1pOJ9WetUdDCY_pJaNZVq0JMaara-TIp90
-  name: Wallet Bot 2
+  name: Old @wallet Storage
   type: wallet
 
 - address: EQBugU5kUOjFeAZ7tlYpj7TQE5fdFQGNfzTcNp6rpMIRHLwm
-  name: Wallet Bot 3
+  name: Old @wallet Storage
   type: wallet
+
+- address: EQA2JYPGPywx6Sn590nUd06B2HgOkFvJ-cCnTO6yTEdacbUG
+  name: @wallet
   
 - address: UQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2iNl
   name: Binance Hot Wallet
