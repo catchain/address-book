@@ -51,6 +51,9 @@
   name: Anonymous Telegram Numbers
   type: nft_collection
 
+- address: EQBfBWT7X2BHg9tXAxzhz2aKiNTU1tpt5NsiK0uSDW_YAJ67
+  name: DeDust Factory
+
 - address: UQDtU7yZnlpK9po_nD3lN299kMSH4VKPMx5xbb6FkD1REpyy
   name: Notcoin
   type: wallet
