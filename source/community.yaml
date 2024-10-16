@@ -61,6 +61,10 @@
 - address: UQAQQTyWQnLTmerS0GWQYrFYtLogGuXAW_kG5gw-50RVpMge
   name: Notcoin Foundation
   type: wallet
+
+- address: EQDtU7yZnlpK9po_nD3lN299kMSH4VKPMx5xbb6FkD1REsF3
+  name: Notcoin Royalty
+  type: wallet
   
 - address: EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS
   name: Getgems Marketplace
