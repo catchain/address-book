@@ -251,3 +251,15 @@
 
 - address: UQC_QucgGZcvAYu2a96i76GByKEs2OYq896ro0gagorB6v1t
   name: Gramcoin Mining Pool
+
+- address: UQDvZL_iplGL72On1ipQdH6Kc6EEcrhCJ0JpNdo669-Qns7B
+  name: Totemancer
+  type: wallet
+
+- address: EQBfThrlgdINBPdzVi_yLjCioYZqc8XOBYgePglglLmCwmrc
+  name: Totemancer: Totems
+  type: nft_collection
+
+- address: EQDf22jl1U_h0dRBeRImakd33hZ1Lj-ZxmnlZycqhzJjPfxx
+  name: Totemancer: Badges
+  type: nft_collection
