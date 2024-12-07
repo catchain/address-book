@@ -6,13 +6,6 @@
 
 - address: Ef9VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVbxn
   name: The Config
-
-- address: EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2
-  name: TON Believers Fund
-
-- address: UQBmzW4wYlFW0tiBgj5sP1CgSlLdYs-VpjPWM7oPYPYWQBqW
-  name: Ecosystem Reserve
-  type: wallet
   
 - address: Ef80UXx731GHxVr0-LYf3DIViMerdo3uJLAG3ykQZFjXz2kW
   name: Log Tests
