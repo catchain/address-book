@@ -232,3 +232,24 @@
   description: https://www.ourbit.com/
   name: OURBIT
   type: wallet
+
+- address: UQDn-EI7rtBBpt_lCj4wAtwrUAwQyl8f_gn_LftTIub2EWPv
+  name: Cryptomus
+  description: |-
+    This is the official address of the Cryptomus project.
+    Learn more: https://cryptomus.com
+  type: wallet
+
+- address: UQA006qLz7fAZdJ5D7Mc4c5asqRfi672CwTzCdUMSzLWyE-L
+  name: Cryptomus
+  description: |-
+    This is the official address of the Cryptomus project.
+    Learn more: https://cryptomus.com
+  type: wallet
+
+- address: UQB3U3V43h1UVxsaZzDx8drgmeKaxMHGUphneu4PCYkcWwzE
+  name: Cryptomus
+  description: |-
+    This is the official address of the Cryptomus project.
+    Learn more: https://cryptomus.com
+  type: wallet
