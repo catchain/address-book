@@ -61,6 +61,9 @@
 - address: EQBfBWT7X2BHg9tXAxzhz2aKiNTU1tpt5NsiK0uSDW_YAJ67
   name: DeDust Factory
 
+- address: EQC6js_eGNkFymLB9NKTMK6kB2NVasQWvHWpTg-IZnxiVWbF
+  name: YieldFort
+
 - address: UQDtU7yZnlpK9po_nD3lN299kMSH4VKPMx5xbb6FkD1REpyy
   name: Notcoin
   type: wallet
