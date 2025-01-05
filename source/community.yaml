@@ -63,6 +63,7 @@
 
 - address: UQDn-EI7rtBBpt_lCj4wAtwrUAwQyl8f_gn_LftTIub2EWPv
   name: Cryptomus
+  type: wallet
 
 - address: EQC6js_eGNkFymLB9NKTMK6kB2NVasQWvHWpTg-IZnxiVWbF
   name: YieldFort
