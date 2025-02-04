@@ -80,6 +80,10 @@
   name: OKX 9
   type: wallet
 
+- address: UQA9LLdOBB3wVgRdO6S-9lD5OMVT24bR2rH4C8nCOP4__rPr
+  name: Rapira
+  type: wallet
+
 - address: EQBBlxK8VBxEidbxw4oQVyLSk7iEf9VPJxetaRQpEbi-XG4U
   name: Bitfinex
   type: wallet
