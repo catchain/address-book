@@ -2,6 +2,7 @@
 - address: EQA0i8-CdGnF_DhUHHf92R1ONH6sIA9vLZ_WLcCIhfBBXwtG
   name: Tolya
   type: wallet
+  description: Main Core Developer
 
 - address: EQDYzZmfsrGzhObKJUw4gzdeIxEai3jAFbiGKGwxvxHinaPP
   name: Pavel Durov
@@ -14,7 +15,13 @@
 - address: EQBnE7V2jE09hWkCg4FmkFr2GvYRtvzZCDbn1akZBT4mag3F
   name: Steve Yun
   type: wallet
+  description: Former TON Foundation President, now TVM Ventures
 
 - address: EQAw0Zxb55PR2HtfD793UTXggGNNZJcTKh3bh4u4X-nMWJ32
   name: Andrey Rogozov
   type: wallet
+
+- address: UQCujSw2bK73RMUCggYaBrP7rcGQqF5dSCNEcxoZ-W-CZvxV
+  name: Manuel Stotz
+  type: wallet
+  description: TON Foundation President
