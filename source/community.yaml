@@ -255,11 +255,3 @@
 - address: UQDvZL_iplGL72On1ipQdH6Kc6EEcrhCJ0JpNdo669-Qns7B
   name: Totemancer
   type: wallet
-
-- address: EQBfThrlgdINBPdzVi_yLjCioYZqc8XOBYgePglglLmCwmrc
-  name: "Totemancer: Totems"
-  type: nft_collection
-
-- address: EQDf22jl1U_h0dRBeRImakd33hZ1Lj-ZxmnlZycqhzJjPfxx
-  name: "Totemancer: Badges"
-  type: nft_collection
