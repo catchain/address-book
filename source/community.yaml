@@ -76,6 +76,12 @@
 - address: EQC6js_eGNkFymLB9NKTMK6kB2NVasQWvHWpTg-IZnxiVWbF
   name: YieldFort
 
+- address: EQCcOiR5ngpyf-tM0CUB_Kfwe1Ag5PScimRCiIwvUdzWr-l0
+  name: YieldFort · Strategy
+
+- address: EQDoCJfkMf2D1dnB5Ga44CTHuTNI1h-Y3Ak5YeyOHtsw0cSB
+  name: YieldFort · Impulse Shift
+
 - address: UQDtU7yZnlpK9po_nD3lN299kMSH4VKPMx5xbb6FkD1REpyy
   name: Notcoin
   type: wallet
