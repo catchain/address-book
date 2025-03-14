@@ -72,6 +72,45 @@
 - address: UQB3U3V43h1UVxsaZzDx8drgmeKaxMHGUphneu4PCYkcWwzE
   name: Cryptomus 3
   type: wallet
+
+- address: UQB23yIh7UZClvQ3ogeFN4N-3qO7nllQBN9ZgKcKU0aTol6_
+  name: GEM Foundation
+  type: wallet
+
+- address: UQCX-FONo8jALxNqvUY_Yo19s_I_lYzDhXAnw7KDuAHMbKby
+  name: OKX Wallet Bot
+  type: wallet
+
+- address: EQC8rUZqR_pWV1BylWUlPNBzyiTYVoBEmQkMIQDZXICfnuRr
+  name: EVAA Master
+
+- address: EQBIlZX2URWkXCSg3QF2MJZU-wC5XkBoLww-hdWk2G37Jc6N
+  name: EVAA LP
+
+- address: EQANURVS3fhBO9bivig34iyJQi97FhMbpivo1aUEAS2GYSu-
+  name: EVAA Alts
+
+- address: EQD9GyPsGeKvBAzbMac7_uFkwsKVJeeaIWX3rhpfAyia-QmN
+  name: EVAA Rewards
+
+- address: EQDo27P-CAam_G2xmQd4CxnFYjY2FKPmmKEc8wTCh4c33Mhi
+  name: EVAA Liquidator
+
+- address: EQAj-peZGPH-cC25EAv4Q-h8cBXszTmkch6ba6wXC8BM4xdo
+  name: Tether Treasury
+  type: wallet
+
+- address: EQDqgE4jRpiw3M1Wcdi2l9rwqFLm8DNbzvrry2I4q087fhCz
+  name: Open Builders Fund
+
+- address: EQCCR3ChGA_4qY9s9HjASX7OmBaAFHZi8_lkqlkDl6R8FPvW
+  name: Blum Jetton Deployer
+
+- address: EQBH8XOCAYnxMx_YeZENHcBrawu7S5fXgk1Vz48YjPw6OEEz
+  name: Blum Multisig
+
+- address: EQC_-t0nCnOFMdp7E7qPxAOCbCWGFz-e3pwxb6tTvFmshjt5
+  name: TONCO DEX Router
   
 - address: EQC6js_eGNkFymLB9NKTMK6kB2NVasQWvHWpTg-IZnxiVWbF
   name: YieldFort
