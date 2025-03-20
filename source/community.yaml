@@ -42,6 +42,12 @@
   name: Fragment · Telegram Ads
   type: wallet
 
+- address: EQDljQaFrI6QoFw0vvn6GDdbt-oJC3g0GXBhos-vS2qg5HZk
+  name: Framgent Gift Sender
+
+- address: EQAVgTYjmtsV3VnfkMZB-e_TEs_rhmTyGPTD5fzp2V5sBwm6
+  name: Framgent Gift Minter
+
 - address: EQBDUShg1UmAzyTVmGijDmeZJ_sTc8EJZNt1AO3N9pCrxPAN
   name: Telegram Channel Rewards 
   type: wallet
