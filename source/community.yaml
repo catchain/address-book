@@ -71,6 +71,10 @@
   name: Cryptomus
   type: wallet
 
+- address: UQBZs1e2h5CwmxQxmAJLGNqEPcQ9iU3BCDj0NSzbwTiGa3hR
+  name: Tonnel Marketplace
+  type: wallet
+
 - address: UQA006qLz7fAZdJ5D7Mc4c5asqRfi672CwTzCdUMSzLWyE-L
   name: Cryptomus 2
   type: wallet
