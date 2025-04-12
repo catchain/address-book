@@ -30,6 +30,9 @@
   name: Telegram Development
   type: wallet
 
+- address: EQDljQaFrI6QoFw0vvn6GDdbt-oJC3g0GXBhos-vS2qg5HZk
+  name: MarketApp Gift Sender
+
 - address: EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE
   name: Fragment Marketplace
   type: wallet
@@ -41,9 +44,6 @@
 - address: EQBeab7D38RIwypegbN7YZgQzwDbb8QfMMwY8ouJc3qPl91M
   name: Fragment · Telegram Ads
   type: wallet
-
-- address: EQDljQaFrI6QoFw0vvn6GDdbt-oJC3g0GXBhos-vS2qg5HZk
-  name: Fragment Gift Sender
 
 - address: EQAVgTYjmtsV3VnfkMZB-e_TEs_rhmTyGPTD5fzp2V5sBwm6
   name: Fragment Gift Minter
