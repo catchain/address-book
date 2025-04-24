@@ -153,6 +153,9 @@
   name: FixedFloat
   type: wallet
 
+- address: EQBwpBGEAb-NgjUxpmARAgVl8C4F_5GsXxZ3dpsA1qzQerNl
+  name: Blum
+
 - address: EQBVXzBT4lcTA3S7gxrg4hnl5fnsDKj4oNEzNp09aQxkwj1f
   name: Huobi Deposit
   type: wallet
