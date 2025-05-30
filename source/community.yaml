@@ -30,6 +30,9 @@
   name: Telegram Development
   type: wallet
 
+- address: UQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ys0BL
+  name: MarketApp
+  
 - address: EQDljQaFrI6QoFw0vvn6GDdbt-oJC3g0GXBhos-vS2qg5HZk
   name: MarketApp Gift Sender
 
