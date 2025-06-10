@@ -30,6 +30,13 @@
   name: Telegram Development
   type: wallet
 
+- address: EQCznsShsJmFo54R1GwGzmbHI5ze4gyxhdf9GKUCCx7kAp4M
+  name: Portals Market
+  type: wallet
+
+- address: UQDuWa_y780rpiEerTv5JZtBq8skovWp0NPLHtJVi3RB4zEo
+  name: Tonnel Gift Marketplace
+
 - address: UQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ys0BL
   name: MarketApp
   
