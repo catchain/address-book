@@ -36,6 +36,7 @@
 
 - address: UQDuWa_y780rpiEerTv5JZtBq8skovWp0NPLHtJVi3RB4zEo
   name: Tonnel Gift Marketplace
+  type: wallet
 
 - address: UQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ys0BL
   name: MarketApp
