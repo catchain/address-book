@@ -13,10 +13,10 @@
   name: DeDust Vault
 
 - address: EQDdb_AsWWNHRVKbmajVvu6p9sOKkYjmp-lqQk44IMisCi7d
-  name: @wallet TON Withdraw
+  name: @wallet TON Withdrawals
 
 - address: EQB9Ez1OQlyOAN4BVROkTmbm0WOyHnFyCux1eZZeXeKMVV6_
-  name: @wallet Jetton Withdraw
+  name: @wallet Jetton Withdrawals
 
 - address: EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh
   name: Old @wallet Storage 1
