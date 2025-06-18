@@ -1,4 +1,6 @@
- 
+- address: EQDshc_H_RAJNi5CG1oBQfUQ1lQBB6tz54Kf2h756Xp14_Cv
+  name: Crypto Bot
+
 - address: EQCtiv7PrMJImWiF2L5oJCgPnzp-VML2CAt5cbn1VsKAxLiE
   name: Old Crypto Bot
   type: wallet
@@ -9,6 +11,12 @@
 
 - address: EQDa4VOnTYlLvDJ0gZjNYm5PXfSmmtL6Vs6A_CZEtXCNICq_
   name: DeDust Vault
+
+- address: EQDdb_AsWWNHRVKbmajVvu6p9sOKkYjmp-lqQk44IMisCi7d
+  name: @wallet TON Withdraw
+
+- address: EQB9Ez1OQlyOAN4BVROkTmbm0WOyHnFyCux1eZZeXeKMVV6_
+  name: @wallet Jetton Withdraw
 
 - address: EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh
   name: Old @wallet Storage 1
@@ -26,16 +34,16 @@
   name: Old @wallet Storage 4
 
 - address: UQCXrZNESRUInoEiOP8Qq-kGbQsD6j26KoYw-5yfiKpFXKdd
-  name: Wallet in Telegram 1
+  name: @wallet in Telegram 1
 
 - address: UQCRiHBZulagN5CwaW16QCrAaR3_YvzTmOgT-X07Jzb6WOof
-  name: Wallet in Telegram 2
+  name: @wallet in Telegram 2
 
 - address: UQDPBslO_a4m-qodhQkvxNrueOugnmnDbawFHB2P_eNfQAI1
-  name: Wallet in Telegram 3
+  name: @wallet in Telegram 3
 
 - address: UQAbROxVNhaw5FUQNwOINL3wvaofBEDhDzMx2YQVhWEqaC0x
-  name: Wallet in Telegram 4
+  name: @wallet in Telegram 4
 
 - address: UQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2iNl
   name: Binance Hot Wallet
