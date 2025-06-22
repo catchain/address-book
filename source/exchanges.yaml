@@ -185,9 +185,6 @@
 - address: UQDwacBggisEQ-h-HW63UiI9mtIA-lRAT1upXPioiyhCkNdf
   name: WebMoney Merchant
 
-- address: EQBwpBGEAb-NgjUxpmARAgVl8C4F_5GsXxZ3dpsA1qzQerNl
-  name: Blum
-
 - address: EQBVXzBT4lcTA3S7gxrg4hnl5fnsDKj4oNEzNp09aQxkwj1f
   name: Huobi Deposit
   type: wallet
@@ -260,16 +257,22 @@
   name: DEX Tegro Finance
 
 - address: EQB3ncyBUTjZUA5EnFKR5_EnOMI9V1tTEAAPaiU71gc4TiUt
-  name: StonFi DEX
+  name: StonFi DEX 1
+
+- address: EQBwpBGEAb-NgjUxpmARAgVl8C4F_5GsXxZ3dpsA1qzQerNl
+  name: StonFi DEX 2
 
 - address: EQBAeF9X3__N52HTGwsPx7jDsHGL6lr2AAP400bIHPRIhiRK
   name: StonFi Farming Rewards
+
+- address: EQC_-t0nCnOFMdp7E7qPxAOCbCWGFz-e3pwxb6tTvFmshjt5
+  name: TONCO DEX
 
 - address: EQBDEcUhe89ls3h3PVGD1Rl4En_Ut0EwsFasPKo51oiqiulL
   name: OPTUS DEX
 
 - address: EQAxC3GzQBgjlvW6CJAwgaHvarTfVxo8p7Be_6RMSjsPki6s
-  name: Megaton Finance
+  name: Megaton Finance DEX
 
 - address: EQCBdDjlsObrETq3TXP8lffsGSR9vm7iekLD0BZNYUw8oRAU
   description: https://www.ourbit.com/
