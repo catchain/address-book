@@ -35,11 +35,16 @@
   type: wallet
 
 - address: UQDuWa_y780rpiEerTv5JZtBq8skovWp0NPLHtJVi3RB4zEo
-  name: Tonnel Gift Marketplace
+  name: Tonnel Marketplace
+  type: wallet
+
+- address: UQBZs1e2h5CwmxQxmAJLGNqEPcQ9iU3BCDj0NSzbwTiGa3hR
+  name: Tonnel Marketplace Deposit
   type: wallet
 
 - address: UQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ys0BL
   name: MarketApp
+  type: wallet
   
 - address: EQDljQaFrI6QoFw0vvn6GDdbt-oJC3g0GXBhos-vS2qg5HZk
   name: MarketApp Gift Sender
@@ -85,16 +90,16 @@
   name: Cryptomus
   type: wallet
 
-- address: UQBZs1e2h5CwmxQxmAJLGNqEPcQ9iU3BCDj0NSzbwTiGa3hR
-  name: Tonnel Marketplace Deposit
-  type: wallet
-
 - address: UQA006qLz7fAZdJ5D7Mc4c5asqRfi672CwTzCdUMSzLWyE-L
   name: Cryptomus 2
   type: wallet
 
 - address: UQB3U3V43h1UVxsaZzDx8drgmeKaxMHGUphneu4PCYkcWwzE
   name: Cryptomus 3
+  type: wallet
+
+- address: UQA0Eout8-CBVUkbIhRLDDlnhUexfaRJrCC-NLXg6ukW_zv-
+  name: Heleket Payment
   type: wallet
 
 - address: UQB23yIh7UZClvQ3ogeFN4N-3qO7nllQBN9ZgKcKU0aTol6_
