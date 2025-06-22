@@ -111,7 +111,11 @@
   type: wallet
 
 - address: UQA9LLdOBB3wVgRdO6S-9lD5OMVT24bR2rH4C8nCOP4__rPr
-  name: Rapira
+  name: Rapira Exchange 1
+  type: wallet
+
+- address: UQBwhUXO-PwBGAIllqBWBEphgz6SNhO_cP0eJfAz_v2KPEyB
+  name: Rapira Exchange 2
   type: wallet
 
 - address: EQBBlxK8VBxEidbxw4oQVyLSk7iEf9VPJxetaRQpEbi-XG4U
