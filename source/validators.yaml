@@ -94,6 +94,9 @@
 - address: EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR
   name: Tonstakers
 
+- address: EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav
+  name: Tonstakers Master
+
 - address: EQDNhy-nxYFgUqzfUzImBEP67JqsyMIcyk2S5_RwNNEYku0k
   name: bemo Staking
   type: jetton
