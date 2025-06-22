@@ -45,6 +45,30 @@
 - address: UQAbROxVNhaw5FUQNwOINL3wvaofBEDhDzMx2YQVhWEqaC0x
   name: @wallet in Telegram 4
 
+- address: UQBtsPAiYytiafDU2_jqYKhEi7wrz8aBLjGvjMZAXCaK91YS
+  name:  @wallet in Telegram 5
+
+- address: UQDdb_AsWWNHRVKbmajVvu6p9sOKkYjmp-lqQk44IMisCnMY
+  name:  @wallet in Telegram 6
+
+- address: UQACOJWu-VUCSSCikcbzcV4pHfGz3SVOr6iwniGi1Y1Yl6jF
+  name:  @wallet in Telegram 7
+
+- address: UQD1BmMYCRqM-1MOxzIQTOOPd4PZKmZ5_8wM4JYLDpTH0GcG
+  name:  @wallet in Telegram 8
+
+- address: UQAMVoQ1X1QQqSP7fdWTFJBdx_8VeyjJEwZxx6TxcAfomE1N
+  name:  @wallet in Telegram 9
+
+- address: UQAj_lWM30Qkk4Gu82Ry5kpQcqJLqX-2Gy9XkdpgE67JLZOc
+  name:  @wallet in Telegram 10
+
+- address: UQC3vnGsG0DkNts2ch2cIOgtROePwehqitFeALHMFoMdz3pW
+  name:  @wallet in Telegram 11
+
+- address: UQBVtyI_BN0fLhs_KOStYo_myrYABPKA-wpYzSf8WQsurJs8
+  name:  @wallet in Telegram 12
+
 - address: UQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2iNl
   name: Binance Hot Wallet
   type: wallet
@@ -160,6 +184,9 @@
     Links: https://twitter.com/FixedFloat, https://t.me/FixedFloat
   name: FixedFloat
   type: wallet
+
+- address: UQDwacBggisEQ-h-HW63UiI9mtIA-lRAT1upXPioiyhCkNdf
+  name: WebMoney Merchant
 
 - address: EQBwpBGEAb-NgjUxpmARAgVl8C4F_5GsXxZ3dpsA1qzQerNl
   name: Blum
