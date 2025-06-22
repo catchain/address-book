@@ -2,11 +2,17 @@
 - address: EQA0i8-CdGnF_DhUHHf92R1ONH6sIA9vLZ_WLcCIhfBBXwtG
   name: Tolya
   type: wallet
-  description: Main Core Developer
+  description: TON Core Developer
 
 - address: EQDYzZmfsrGzhObKJUw4gzdeIxEai3jAFbiGKGwxvxHinaPP
   name: Pavel Durov
   type: wallet
+  description: Telegram CEO
+
+- address: UQCKw4MGCk9Q98BWnsIEr130Ua2upoGU6oL_Y8p2RRHqYGUP
+  name: Andrei Iakovenko
+  type: wallet
+  description: Telegram Gifts Designer
 
 - address: EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV
   name: Morgenshtern
@@ -24,4 +30,4 @@
 - address: UQCujSw2bK73RMUCggYaBrP7rcGQqF5dSCNEcxoZ-W-CZvxV
   name: Manuel Stotz
   type: wallet
-  description: TON Foundation President
+  description: TON Foundation
