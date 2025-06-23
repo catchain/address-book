@@ -315,10 +315,10 @@
   type: wallet
 
 - address: EQCwSHb88B5mMbMaBK_lxwbbU8ppNV6-vTxgtZbLfxgpfcRl
-  description: Old TON Grants Multisig
+  name: Old TON Grants Multisig
 
 - address: EQCK2Y4wkaiewCGspxl-INVpr7qGGTfSHpMkDcsJ-cAOldLr
-  description: TON Grants Multisig
+  name: TON Grants Multisig
 
 - address: EQBj1R6ZmJETs5AlRD1Tz27iweJqLYhlWYX_xV2YiSbil2HS
   name: Connecton VPN
