@@ -12,9 +12,6 @@
 - address: EQDa4VOnTYlLvDJ0gZjNYm5PXfSmmtL6Vs6A_CZEtXCNICq_
   name: DeDust Vault
 
-- address: EQB9Ez1OQlyOAN4BVROkTmbm0WOyHnFyCux1eZZeXeKMVV6_
-  name: @wallet Jetton Withdrawals
-
 - address: EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh
   name: Old @wallet Storage 1
   type: wallet
@@ -65,6 +62,9 @@
 
 - address: UQBVtyI_BN0fLhs_KOStYo_myrYABPKA-wpYzSf8WQsurJs8
   name:  @wallet in Telegram 12
+
+- address: EQB9Ez1OQlyOAN4BVROkTmbm0WOyHnFyCux1eZZeXeKMVV6_
+  name: ByBit
 
 - address: UQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2iNl
   name: Binance Hot Wallet
