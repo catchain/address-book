@@ -34,6 +34,10 @@
   name: Portals Market
   type: wallet
 
+- address: UQAE88HHlayJBeMXNDYrFJh1q5UirlODq3q7LhDaXai6gtwi
+  name: Portals Market Deposit
+  type: wallet
+
 - address: UQDuWa_y780rpiEerTv5JZtBq8skovWp0NPLHtJVi3RB4zEo
   name: Tonnel Marketplace
   type: wallet
