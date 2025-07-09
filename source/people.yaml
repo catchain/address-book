@@ -23,6 +23,11 @@
   type: wallet
   description: Former TON Foundation President, now TVM Ventures
 
+- address: UQBSV_u2NPNNymFZgX0VqRwu2v6cTJo7symgqKFwzcNZ7me4
+  name: Mr. FreeMan
+  type: wallet
+  description: Founder of Tonnel Marketplace
+
 - address: EQAw0Zxb55PR2HtfD793UTXggGNNZJcTKh3bh4u4X-nMWJ32
   name: Andrey Rogozov
   type: wallet
