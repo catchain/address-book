@@ -72,6 +72,9 @@
   name: Telegram Channel Rewards 
   type: wallet
 
+- address: EQBKnfWipiioZegVWe8c_4kDIzpdVEjHJuezOa2y8rrGsZ4R
+  name: Toncenter API
+
 - address: EQDm89iCT0ax77q5r8aEeTQoxV_tabRqFaSb5popvEnlMLNb
   name: Telegram Channel Rewards 
   type: wallet
