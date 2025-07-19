@@ -15,6 +15,36 @@
 - address: Ef-RZqci60-2GFZVoB1nI_KgJtRSLLKc-USDJh1ePuN6H4sL
   name: Stakee Validator 4
 
+- address: Ef8S77rXFmgqImDq0Om9jiyFEXVX6nAgPiqstBOhGKMxVyk6
+  name: Stakee Validator 5
+
+- address: Ef92uQFrMkwVPlti_qV-mS5FOkZDVsevDO7QLf8VhmhC5t4G
+  name: Stakee Validator 6
+
+- address: Ef-Cdr5BiVuQDP6qtnQwGAfspdRnT2XAeC_ZzEaCjE15jzbm
+  name: Stakee Validator 7
+
+- address: Ef_ipTL3uP2mC9WpmJ3pppWxLLaaS7v3wcGcyeTPuAHOaJ7W
+  name: Stakee Validator 8
+
+- address: Ef_0SUFt8GbIizmxCWdposjm1Hhhirfyvi3cunFqKz0sqNDH
+  name: Stakee Validator 9
+
+- address: Ef9haCN08QWiZC11yWJroO8-Sjnb4zlx1hX9J7SatGSUkJN-
+  name: Stakee Validator 10
+
+- address: Ef-eIiNEHVMS-ovGUWKPpVDsIItMHhaAksq54qA7Wyid3y0R
+  name: Stakee Validator 11
+
+- address: Ef-jWsXzKj7YsM2gyYjZtm4ZFnIy1X1knbDiK9U6uGf9sMFo
+  name: Stakee Validator 12
+
+- address: Ef83fzfgGCb9yY4FBXDCPm36k2JWKBBvMezOee3arWeFhChZ
+  name: Stakee Validator 13
+
+- address: Ef8uWHmq2-BsU8q984j_JqDwtZv7SCY2bTz5eBT5GrNeAcHX
+  name: Stakee Validator 14
+
 - address: Ef-VAFf1Wd3fXd-mQhDw5lNsVdIZv2_H1yhbdzXCFfIe9p95
   name: CAT Validator 1
   type: wallet
@@ -68,27 +98,27 @@
   type: pool
 
 - address: Ef8gQpp7pKD9GzBrcr3ju9faPjEWHPerhZ4tFpSiDoDUINxn
-  name: "Very First Pool #1"
+  name: Very First Pool 1
   type: pool
 
 - address: Ef_dodh2I8BjpvxJIrKG5owo5_C1RZlzkZtXC3HGLuNZE0Sa
-  name: "Very First Pool #2"
+  name: Very First Pool 2
   type: pool
 
 - address: Ef8RiUWO6kANDF3FsaIu2o3QCbq6VGWyqZxRRXM8B9mRbIQ_
-  name: "HB Pool #1"
+  name: HB Pool 1
   type: pool
 
 - address: Ef-8i71cS7pz9fuzQCxRNOIx31EzaTPpmsNluGbzJC6cVGHp
-  name: "HB Pool #2"
+  name: HB Pool 2
   type: pool
 
 - address: Ef84bmp5O3DtYjXmdWAYMEBzTPsu-cPMcg51i3Z9bfdI78mv
-  name: "Rangers Pool #1"
+  name: Rangers Pool 1
   type: pool
 
 - address: Ef_1qwsc5P_pxid2MH8gnaRvRJAa1kmRy86eq0JC6XWXaBg-
-  name: "Rangers Pool #2"
+  name: Rangers Pool 2
   type: pool
 
 - address: EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR
@@ -102,15 +132,15 @@
   type: jetton
 
 - address: Ef9qXoe6qX5kboeTbXXdxNOcqCA53Oi9LYsY66l4FuNLZRWx
-  name: "TonStake Validator #1"
+  name: TonStake Validator 1
   type: wallet
 
 - address: Ef_L2qAIJ3Xe3hQqGdzG19gmbkteqYTqSZUkYWnzWH734Sm-
-  name: "TonStake Validator #2"
+  name: TonStake Validator 2
   type: wallet
 
 - address: Ef_AhqqheA-GkmwN4uAg7j5qjHffA2VL-kzFuXoYs9fD7kJL
-  name: "TonStake Validator #3"
+  name: TonStake Validator 3
   type: wallet
 
 - address: EQAUgVXUBJC7c72oEaQGowLvWhnf-nKghL7zBX8FSqrSXkp4
