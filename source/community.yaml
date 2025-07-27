@@ -48,11 +48,11 @@
   name: @push
 
 - address: UQDuWa_y780rpiEerTv5JZtBq8skovWp0NPLHtJVi3RB4zEo
-  name: Tonnel Marketplace
+  name: Tonnel
   type: wallet
 
 - address: UQBZs1e2h5CwmxQxmAJLGNqEPcQ9iU3BCDj0NSzbwTiGa3hR
-  name: Tonnel Marketplace Deposit
+  name: Tonnel Marketplace
   type: wallet
 
 - address: UQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ys0BL
