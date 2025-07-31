@@ -92,6 +92,9 @@
   name: Telegram
   type: wallet
 
+- address: EQDMrh5lh3oWXfSw-NPbgy6Hzd6pzKYB8bB9LfHd0pzm_wqe
+  name: TON Ecosystem Multisig
+
 - address: EQAOQdwdw8kGftJCSFgOErM1mBjYPe4DBPq8-AhF6vr9si5N
   name: Anonymous Telegram Numbers
   type: nft_collection
