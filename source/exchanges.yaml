@@ -269,6 +269,9 @@
 - address: EQBAeF9X3__N52HTGwsPx7jDsHGL6lr2AAP400bIHPRIhiRK
   name: StonFi Farming Rewards
 
+- address: EQCS4UEa5UaJLzOyyKieqQOQ2P9M-7kXpkO5HnP3Bv250cN3#source
+  name: StonFi Router
+
 - address: EQBDEcUhe89ls3h3PVGD1Rl4En_Ut0EwsFasPKo51oiqiulL
   name: OPTUS DEX
 
