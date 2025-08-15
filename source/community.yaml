@@ -339,6 +339,9 @@
 - address: EQCK2Y4wkaiewCGspxl-INVpr7qGGTfSHpMkDcsJ-cAOldLr
   name: TON Grants Multisig
 
+- address: EQD-fNjaRKSc6mdegUG3cHq7LJ32cS_21wN51jCiDbGOLOPb
+  name: Degenphone
+  
 - address: EQBj1R6ZmJETs5AlRD1Tz27iweJqLYhlWYX_xV2YiSbil2HS
   name: Connecton VPN
   type: wallet
