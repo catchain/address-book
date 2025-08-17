@@ -340,10 +340,10 @@
   name: TON Grants Multisig
 
 - address: EQD-fNjaRKSc6mdegUG3cHq7LJ32cS_21wN51jCiDbGOLOPb
-  name: Degenphone
+  name: DegenPhone
 
 - address: UQDhqD3FUAI5MzlGU66i87sXbUgKijU9w5tBsXmokHfKHmED
-  name: Degenphone Refund
+  name: DegenPhone Refund
   type: wallet
   
 - address: EQBj1R6ZmJETs5AlRD1Tz27iweJqLYhlWYX_xV2YiSbil2HS
