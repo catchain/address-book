@@ -341,6 +341,10 @@
 
 - address: EQD-fNjaRKSc6mdegUG3cHq7LJ32cS_21wN51jCiDbGOLOPb
   name: Degenphone
+
+- address: UQDhqD3FUAI5MzlGU66i87sXbUgKijU9w5tBsXmokHfKHmED
+  name: Degenphone Refund
+  type: wallet
   
 - address: EQBj1R6ZmJETs5AlRD1Tz27iweJqLYhlWYX_xV2YiSbil2HS
   name: Connecton VPN
