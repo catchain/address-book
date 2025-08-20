@@ -131,26 +131,6 @@
   name: bemo Staking
   type: jetton
 
-- address: Ef9qXoe6qX5kboeTbXXdxNOcqCA53Oi9LYsY66l4FuNLZRWx
-  name: TonStake Validator 1
-  type: wallet
-
-- address: Ef_L2qAIJ3Xe3hQqGdzG19gmbkteqYTqSZUkYWnzWH734Sm-
-  name: TonStake Validator 2
-  type: wallet
-
-- address: Ef_AhqqheA-GkmwN4uAg7j5qjHffA2VL-kzFuXoYs9fD7kJL
-  name: TonStake Validator 3
-  type: wallet
-
-- address: EQAUgVXUBJC7c72oEaQGowLvWhnf-nKghL7zBX8FSqrSXkp4
-  name: TonStake Deposit
-  type: wallet
-
-- address: EQAOCN7KlgGzTp6YjW6d_fm_ibJEUe0VwFyKNnZVzlL4Jda3
-  name: TonStake Withdrawal
-  type: wallet
-
 - address: Ef8Ogh4NObupw39Cx8xrjI_nJkdV7UVSKYZkxOVcFOiUTEAM
   name: Whales Team
   
