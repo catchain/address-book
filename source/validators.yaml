@@ -1,50 +1,33 @@
 # This file is for validator and pool addresses.
-- address: EQD2_4d91M4TVbEBVyBF8J1UwpMJc361LKVCz6bBlffMW05o
-  name: Stakee
-  type: pool
+# Tonstakers
+- address: EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR
+  name: Tonstakers
 
-- address: Ef9o8oaSNFhgM8uFW4BIo7P8IUK2qVjRaC5_Gd2O3JqPgOlI
-  name: Stakee Validator 1
+- address: EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav
+  name: Tonstakers Master
 
-- address: Ef-itGcjlqCvwn6zT9gFKnPTesHn-znJy2QQgP3lB1KpfC8n
-  name: Stakee Validator 2
+# Bemo
+- address: EQDNhy-nxYFgUqzfUzImBEP67JqsyMIcyk2S5_RwNNEYku0k
+  name: bemo Staking
+  type: jetton
 
-- address: Ef9eGuUpsIs80rwR3aV_eSo7wnFBvfaeV9OUo3wXLTYkR6-y
-  name: Stakee Validator 3
+# Whales
+- address: Ef8Ogh4NObupw39Cx8xrjI_nJkdV7UVSKYZkxOVcFOiUTEAM
+  name: Whales Team
+  
+- address: Ef_3qxbRl2ruQ7jqzHlDQdOOcqkkoTSlgO749aQ6PGywCLUB
+  name: Whales Club
+  
+- address: Ef8W1vCpA1tr9xr6QSXSxcVSdn1Sm7SYX_PCWQdClaWhales
+  name: Whales Nominators
 
-- address: Ef-RZqci60-2GFZVoB1nI_KgJtRSLLKc-USDJh1ePuN6H4sL
-  name: Stakee Validator 4
+- address: EQAA_5_dizuA1w6OpzTSYvXhvUwYTDNTW_MZDdZ0CGKeeper
+  name: Tonkeeper Whales Pool
+  
+- address: Ef9BqxMAQjLMnzltwiZ7etD3-3PSx6R5wjXMgqWQ81Keeper
+  name: Tonkeeper Whales Validator
 
-- address: Ef8S77rXFmgqImDq0Om9jiyFEXVX6nAgPiqstBOhGKMxVyk6
-  name: Stakee Validator 5
-
-- address: Ef92uQFrMkwVPlti_qV-mS5FOkZDVsevDO7QLf8VhmhC5t4G
-  name: Stakee Validator 6
-
-- address: Ef-Cdr5BiVuQDP6qtnQwGAfspdRnT2XAeC_ZzEaCjE15jzbm
-  name: Stakee Validator 7
-
-- address: Ef_ipTL3uP2mC9WpmJ3pppWxLLaaS7v3wcGcyeTPuAHOaJ7W
-  name: Stakee Validator 8
-
-- address: Ef_0SUFt8GbIizmxCWdposjm1Hhhirfyvi3cunFqKz0sqNDH
-  name: Stakee Validator 9
-
-- address: Ef9haCN08QWiZC11yWJroO8-Sjnb4zlx1hX9J7SatGSUkJN-
-  name: Stakee Validator 10
-
-- address: Ef-eIiNEHVMS-ovGUWKPpVDsIItMHhaAksq54qA7Wyid3y0R
-  name: Stakee Validator 11
-
-- address: Ef-jWsXzKj7YsM2gyYjZtm4ZFnIy1X1knbDiK9U6uGf9sMFo
-  name: Stakee Validator 12
-
-- address: Ef83fzfgGCb9yY4FBXDCPm36k2JWKBBvMezOee3arWeFhChZ
-  name: Stakee Validator 13
-
-- address: Ef8uWHmq2-BsU8q984j_JqDwtZv7SCY2bTz5eBT5GrNeAcHX
-  name: Stakee Validator 14
-
+# Nominator Pool
 - address: Ef-VAFf1Wd3fXd-mQhDw5lNsVdIZv2_H1yhbdzXCFfIe9p95
   name: CAT Validator 1
   type: wallet
@@ -97,6 +80,22 @@
   name: CAT Staking Pool 8
   type: pool
 
+- address: Ef8vr1Jil46EwjCd5sOKlxD1NRzA8ZDcIolStOVd3x9Hy_Vg
+  name: DWF Labs Pool 1
+  type: pool
+
+- address: Ef_DkntDYhGvRVZwOmkoupIyt4zIqi74lWOkJUJBHbSDDqhg
+  name: DWF Labs Pool 2
+  type: pool
+
+- address: Ef--iZr4o1zvFU9u0Gc30Sk2dNzWJTk8ERr5xgv-AOHBjz55
+  name: Animoca Brands Pool 1
+  type: pool
+
+- address: Ef8hpW8uv5Ngz5m5nV_tSRBfo_VSmHz6pw_JQ6Y_PXV5Qxqt
+  name: Animoca Brands Pool 2
+  type: pool
+
 - address: Ef8gQpp7pKD9GzBrcr3ju9faPjEWHPerhZ4tFpSiDoDUINxn
   name: Very First Pool 1
   type: pool
@@ -121,63 +120,107 @@
   name: Rangers Pool 2
   type: pool
 
-- address: EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR
-  name: Tonstakers
+# Stakee
+- address: EQD2_4d91M4TVbEBVyBF8J1UwpMJc361LKVCz6bBlffMW05o
+  name: Stakee
+  type: pool
 
-- address: EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav
-  name: Tonstakers Master
+- address: Ef9o8oaSNFhgM8uFW4BIo7P8IUK2qVjRaC5_Gd2O3JqPgOlI
+  name: Stakee Validator 1
 
-- address: EQDNhy-nxYFgUqzfUzImBEP67JqsyMIcyk2S5_RwNNEYku0k
-  name: bemo Staking
+- address: Ef-itGcjlqCvwn6zT9gFKnPTesHn-znJy2QQgP3lB1KpfC8n
+  name: Stakee Validator 2
+
+- address: Ef9eGuUpsIs80rwR3aV_eSo7wnFBvfaeV9OUo3wXLTYkR6-y
+  name: Stakee Validator 3
+
+- address: Ef-RZqci60-2GFZVoB1nI_KgJtRSLLKc-USDJh1ePuN6H4sL
+  name: Stakee Validator 4
+
+- address: Ef8S77rXFmgqImDq0Om9jiyFEXVX6nAgPiqstBOhGKMxVyk6
+  name: Stakee Validator 5
+
+- address: Ef92uQFrMkwVPlti_qV-mS5FOkZDVsevDO7QLf8VhmhC5t4G
+  name: Stakee Validator 6
+
+- address: Ef-Cdr5BiVuQDP6qtnQwGAfspdRnT2XAeC_ZzEaCjE15jzbm
+  name: Stakee Validator 7
+
+- address: Ef_ipTL3uP2mC9WpmJ3pppWxLLaaS7v3wcGcyeTPuAHOaJ7W
+  name: Stakee Validator 8
+
+- address: Ef_0SUFt8GbIizmxCWdposjm1Hhhirfyvi3cunFqKz0sqNDH
+  name: Stakee Validator 9
+
+- address: Ef9haCN08QWiZC11yWJroO8-Sjnb4zlx1hX9J7SatGSUkJN-
+  name: Stakee Validator 10
+
+- address: Ef-eIiNEHVMS-ovGUWKPpVDsIItMHhaAksq54qA7Wyid3y0R
+  name: Stakee Validator 11
+
+- address: Ef-jWsXzKj7YsM2gyYjZtm4ZFnIy1X1knbDiK9U6uGf9sMFo
+  name: Stakee Validator 12
+
+- address: Ef83fzfgGCb9yY4FBXDCPm36k2JWKBBvMezOee3arWeFhChZ
+  name: Stakee Validator 13
+
+- address: Ef8uWHmq2-BsU8q984j_JqDwtZv7SCY2bTz5eBT5GrNeAcHX
+  name: Stakee Validator 14
+
+# KTON
+- address: EQA9HwEZD_tONfVz6lJS0PVKR5viEiEGyj9AuQewGQVnXPg0
+  name: KTON Pool
+  type: pool
+
+- address: EQBuIhXNNkWf9AW9miNGNTSO_uFZ23ejfIWrieXge5f733mw
+  name: KTON
   type: jetton
 
-- address: Ef9qXoe6qX5kboeTbXXdxNOcqCA53Oi9LYsY66l4FuNLZRWx
-  name: TonStake Validator 1
+- address: Uf_lhdKTXcTJUnCVWYWXaoziqxkkLl-8PBP0be601QkE9TyT
+  name: KTON Validator 1
   type: wallet
 
-- address: Ef_L2qAIJ3Xe3hQqGdzG19gmbkteqYTqSZUkYWnzWH734Sm-
-  name: TonStake Validator 2
-  type: wallet
+- address: Ef9GOR1wqJFPVpbHOxObSATkdbfTizRTmDi6DdjJFYaRKhoK
+  name: KTON Validator 1 Controller 1
 
-- address: Ef_AhqqheA-GkmwN4uAg7j5qjHffA2VL-kzFuXoYs9fD7kJL
-  name: TonStake Validator 3
-  type: wallet
+- address: Ef-yol83fmXhg1Zt_mw_Ykw-sZ-CrHMhCS6953lNboCYOXj3
+  name: KTON Validator 1 Controller 2
 
-- address: EQAUgVXUBJC7c72oEaQGowLvWhnf-nKghL7zBX8FSqrSXkp4
-  name: TonStake Deposit
-  type: wallet
-
-- address: EQAOCN7KlgGzTp6YjW6d_fm_ibJEUe0VwFyKNnZVzlL4Jda3
-  name: TonStake Withdrawal
-  type: wallet
-
-- address: Ef8Ogh4NObupw39Cx8xrjI_nJkdV7UVSKYZkxOVcFOiUTEAM
-  name: Whales Team
-  
-- address: Ef_3qxbRl2ruQ7jqzHlDQdOOcqkkoTSlgO749aQ6PGywCLUB
-  name: Whales Club
-  
-- address: Ef8W1vCpA1tr9xr6QSXSxcVSdn1Sm7SYX_PCWQdClaWhales
-  name: Whales Nominators
-
-- address: EQAA_5_dizuA1w6OpzTSYvXhvUwYTDNTW_MZDdZ0CGKeeper
-  name: Tonkeeper Whales Pool
-  
-- address: Ef9BqxMAQjLMnzltwiZ7etD3-3PSx6R5wjXMgqWQ81Keeper
-  name: Tonkeeper Whales Validator
-
-- address: Ef_DkntDYhGvRVZwOmkoupIyt4zIqi74lWOkJUJBHbSDDqhg
-  name: DWF Labs Pool 2
+# pKTON
+- address: EQDsW2P6nuP1zopKoNiCYj2xhqDan0cBuULQ8MH4o7dBt_7a
+  name: pKTON Pool
   type: pool
 
-- address: Ef8vr1Jil46EwjCd5sOKlxD1NRzA8ZDcIolStOVd3x9Hy_Vg
-  name: DWF Labs Pool 1
-  type: pool
+- address: EQCtD-q8vItSYffdO3p23-gcnFpPIpcGx9tE1ImQ3f3thV4l
+  name: pKTON
+  type: jetton
 
-- address: Ef--iZr4o1zvFU9u0Gc30Sk2dNzWJTk8ERr5xgv-AOHBjz55
-  name: Animoca Brands Pool 1
-  type: pool
+- address: Uf-dkjWQTuAtU5RKTDBsQ_l6ZgKPTyYSB3vGPuSaOZO8udot
+  name: pKTON Validator 1
+  type: wallet
 
-- address: Ef8hpW8uv5Ngz5m5nV_tSRBfo_VSmHz6pw_JQ6Y_PXV5Qxqt
-  name: Animoca Brands Pool 2
-  type: pool
+- address: Ef_xWantK-Z5vhBjpRITMloezQdEgguwM1gqzsEB4mt99Fef
+  name: pKTON Validator 1 Controller 1
+
+- address: Ef9c3c0eOdHr3-H8stKY-TnRPHGi22zCTpphAfdepfM76pTJ
+  name: pKTON Validator 1 Controller 2
+
+- address: Uf-EHbK_3dHN9-NP1EhfftlvmaCZnWBCJ2un0Z4ZFLN_lOWj
+  name: pKTON Validator 2
+  type: wallet
+
+- address: Ef-KtOYK30pG4J-ccFcyne4hssX3NrHT71ygfj13ieE4NwR4
+  name: pKTON Validator 2 Controller 1
+
+- address: Ef_YCoHukphbQJZveMjCBI5fB3MjdiRX1S5hqEbw2aZpHBEh
+  name: pKTON Validator 2 Controller 2
+
+- address: Uf_91VFRJLfQJNMyy4QGDTrZtGXnOCo7YNpDTwpJl-Pp8OFR
+  name: pKTON Validator 3
+  type: wallet
+
+- address: Ef_6_bZMsGywbqYza4UqRGt3BYZ010bI547y5mGZvspqm4jB
+  name: pKTON Validator 3 Controller 1
+
+- address: Ef9cvDhszhrsYHIIxy56oUx7oy0Nuq3fjv6sp4MlYlPr1Ocj
+  name: pKTON Validator 3 Controller 2
