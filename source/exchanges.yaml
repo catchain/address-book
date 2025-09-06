@@ -166,12 +166,8 @@
   name: ByBit 6
   type: wallet
   
-- address: EQCZ-7akCw_dvl_Q5xyriWqCXdWubIPbuN7aDQlzX45paxCU
-  name: ByBit 7
-  type: wallet
-  
 - address: UQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fKne
-  name: ByBit 8
+  name: ByBit 7
   type: wallet
 
 - address: UQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-cql
