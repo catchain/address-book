@@ -70,11 +70,14 @@
   name: Binance Hot Wallet
   type: wallet
 
+- address: EQDKHZ7e70CzqdvZCC83Z4WVR8POC_ZB0J1Y4zo88G-zCXmC
+  name: Binance Storage
+
 - address: UQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xI-e
   name: Binance
   type: wallet
 
-- address: EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8
+- address: EQD5vcDeRhwaLgAvralVC7sJXI-fc2aNcMUXqcx-BQ-OWnOZ
   name: OKX 1
   type: wallet
 
@@ -106,7 +109,7 @@
   name: OKX 8
   type: wallet
   
-- address: EQD5vcDeRhwaLgAvralVC7sJXI-fc2aNcMUXqcx-BQ-OWnOZ
+- address: EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8
   name: OKX 9
   type: wallet
 
@@ -139,7 +142,7 @@
   name: MEXC 3
   type: wallet
 
-- address: UQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fKne
+- address: UQCZ-7akCw_dvl_Q5xyriWqCXdWubIPbuN7aDQlzX45pa01R
   name: ByBit 1
   type: wallet
 
@@ -165,6 +168,10 @@
   
 - address: EQCZ-7akCw_dvl_Q5xyriWqCXdWubIPbuN7aDQlzX45paxCU
   name: ByBit 7
+  type: wallet
+  
+- address: UQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fKne
+  name: ByBit 8
   type: wallet
 
 - address: UQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-cql
@@ -197,17 +204,23 @@
   name: Huobi Withdrawal
   type: wallet
 
-- address: EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl
+- address: UQAu9AtAct-rFOMumbUh3zLaE9FQMnmYWRi0C--7UIODe9RM
   name: KuCoin 1
-  type: wallet
 
-- address: EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs
+- address: EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl
   name: KuCoin 2
   type: wallet
 
-- address: UQAHzmC35fJVqIw3B_P7x54s-STta0t9CcYyTwuiM4pI-t4E
+- address: EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs
   name: KuCoin 3
   type: wallet
+
+- address: UQAHzmC35fJVqIw3B_P7x54s-STta0t9CcYyTwuiM4pI-t4E
+  name: KuCoin 4
+  type: wallet
+
+- address: EQDtbfZPcagP_SQqS2_dlgmsKR-QGfAJeOH_EA2pUBCeKUSu
+  name: KuCoin 5
 
 - address: EQAJfclKb4fFi0tWg-PVgwwdXxHRImLWbO9_7HZcpIlCWkTg
   name: BitGo FTX Bankruptcy Custody
