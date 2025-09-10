@@ -101,17 +101,20 @@
   name: OKX 6
   type: wallet
 
-- address: EQB_LoTHI9i2trGqz4EMjCarI8IgIrRkuHEEstMGWw6nC3Nw
+- address: UQB_LoTHI9i2trGqz4EMjCarI8IgIrRkuHEEstMGWw6nCy61
   name: OKX 7
   type: wallet
 
-- address: EQCFTsRSHv1SrUO88ZiOTETr35omrRj6Uav9toX8OzSKXGkS
+- address: UQCFTsRSHv1SrUO88ZiOTETr35omrRj6Uav9toX8OzSKXDTX
   name: OKX 8
   type: wallet
   
-- address: EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8
+- address: UQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf9t5
   name: OKX 9
   type: wallet
+
+- address: EQBmoechltZNb69I-ksuqGH2ewSE0tFKWcr3AdjChs5E5RVn
+  name: OKX 10
 
 - address: UQA9LLdOBB3wVgRdO6S-9lD5OMVT24bR2rH4C8nCOP4__rPr
   name: Rapira Exchange 1
