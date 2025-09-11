@@ -121,6 +121,9 @@
 - address: EQBpst3ZWJ9Dqq5gE2YH-yPsFK_BqMOmgi7Z_qK6v7WbrPWv
   name: MyTonWallet Cards
 
+- address: EQAm_CW7fnhrvGYE7EH7bNwpMfV8EU4Kxz1TGjLbhM7XkRw2
+  name: Spend.tg
+
 - address: UQDn-EI7rtBBpt_lCj4wAtwrUAwQyl8f_gn_LftTIub2EWPv
   name: Cryptomus
   type: wallet
