@@ -71,6 +71,10 @@
   name: MRKT 3
   type: wallet
 
+- address: UQCa7wMuLC-TDD_jZFTluCTfVMo9WhXJr_t3xIyazm78yFUU
+  name: MRKT Strategy
+  type: wallet
+
 - address: UQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ys0BL
   name: MarketApp
   type: wallet
