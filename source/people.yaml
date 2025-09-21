@@ -36,3 +36,8 @@
   name: Manuel Stotz
   type: wallet
   description: TON Strategy
+
+- address: UQAvYWo_fZGw6O9-Gea8ABWa_4yqSCHG_p9AyJ0CFgjRdtHm
+  name: Mike Ravdonikas
+  type: wallet
+  description: Telegram Team
