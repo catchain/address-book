@@ -1,4 +1,51 @@
 # This file is for validator and pool addresses.
+# Stakee
+- address: EQD2_4d91M4TVbEBVyBF8J1UwpMJc361LKVCz6bBlffMW05o
+  name: Stakee
+  type: pool
+
+- address: Ef9o8oaSNFhgM8uFW4BIo7P8IUK2qVjRaC5_Gd2O3JqPgOlI
+  name: Stakee Validator 1
+
+- address: Ef-itGcjlqCvwn6zT9gFKnPTesHn-znJy2QQgP3lB1KpfC8n
+  name: Stakee Validator 2
+
+- address: Ef9eGuUpsIs80rwR3aV_eSo7wnFBvfaeV9OUo3wXLTYkR6-y
+  name: Stakee Validator 3
+
+- address: Ef-RZqci60-2GFZVoB1nI_KgJtRSLLKc-USDJh1ePuN6H4sL
+  name: Stakee Validator 4
+
+- address: Ef8S77rXFmgqImDq0Om9jiyFEXVX6nAgPiqstBOhGKMxVyk6
+  name: Stakee Validator 5
+
+- address: Ef92uQFrMkwVPlti_qV-mS5FOkZDVsevDO7QLf8VhmhC5t4G
+  name: Stakee Validator 6
+
+- address: Ef-Cdr5BiVuQDP6qtnQwGAfspdRnT2XAeC_ZzEaCjE15jzbm
+  name: Stakee Validator 7
+
+- address: Ef_ipTL3uP2mC9WpmJ3pppWxLLaaS7v3wcGcyeTPuAHOaJ7W
+  name: Stakee Validator 8
+
+- address: Ef_0SUFt8GbIizmxCWdposjm1Hhhirfyvi3cunFqKz0sqNDH
+  name: Stakee Validator 9
+
+- address: Ef9haCN08QWiZC11yWJroO8-Sjnb4zlx1hX9J7SatGSUkJN-
+  name: Stakee Validator 10
+
+- address: Ef-eIiNEHVMS-ovGUWKPpVDsIItMHhaAksq54qA7Wyid3y0R
+  name: Stakee Validator 11
+
+- address: Ef-jWsXzKj7YsM2gyYjZtm4ZFnIy1X1knbDiK9U6uGf9sMFo
+  name: Stakee Validator 12
+
+- address: Ef83fzfgGCb9yY4FBXDCPm36k2JWKBBvMezOee3arWeFhChZ
+  name: Stakee Validator 13
+
+- address: Ef8uWHmq2-BsU8q984j_JqDwtZv7SCY2bTz5eBT5GrNeAcHX
+  name: Stakee Validator 14
+
 # Tonstakers
 - address: EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR
   name: Tonstakers
@@ -27,7 +74,65 @@
 - address: Ef9BqxMAQjLMnzltwiZ7etD3-3PSx6R5wjXMgqWQ81Keeper
   name: Tonkeeper Whales Validator
 
-# Nominator Pool
+# KTON
+- address: EQA9HwEZD_tONfVz6lJS0PVKR5viEiEGyj9AuQewGQVnXPg0
+  name: KTON Pool
+  type: pool
+
+- address: EQBuIhXNNkWf9AW9miNGNTSO_uFZ23ejfIWrieXge5f733mw
+  name: KTON
+  type: jetton
+
+- address: Uf_lhdKTXcTJUnCVWYWXaoziqxkkLl-8PBP0be601QkE9TyT
+  name: KTON Validator 1
+  type: wallet
+
+- address: Ef9GOR1wqJFPVpbHOxObSATkdbfTizRTmDi6DdjJFYaRKhoK
+  name: KTON Validator 1 Controller 1
+
+- address: Ef-yol83fmXhg1Zt_mw_Ykw-sZ-CrHMhCS6953lNboCYOXj3
+  name: KTON Validator 1 Controller 2
+
+# pKTON
+- address: EQDsW2P6nuP1zopKoNiCYj2xhqDan0cBuULQ8MH4o7dBt_7a
+  name: pKTON Pool
+  type: pool
+
+- address: EQCtD-q8vItSYffdO3p23-gcnFpPIpcGx9tE1ImQ3f3thV4l
+  name: pKTON
+  type: jetton
+
+- address: Uf-dkjWQTuAtU5RKTDBsQ_l6ZgKPTyYSB3vGPuSaOZO8udot
+  name: pKTON Validator 1
+  type: wallet
+
+- address: Ef_xWantK-Z5vhBjpRITMloezQdEgguwM1gqzsEB4mt99Fef
+  name: pKTON Validator 1 Controller 1
+
+- address: Ef9c3c0eOdHr3-H8stKY-TnRPHGi22zCTpphAfdepfM76pTJ
+  name: pKTON Validator 1 Controller 2
+
+- address: Uf-EHbK_3dHN9-NP1EhfftlvmaCZnWBCJ2un0Z4ZFLN_lOWj
+  name: pKTON Validator 2
+  type: wallet
+
+- address: Ef-KtOYK30pG4J-ccFcyne4hssX3NrHT71ygfj13ieE4NwR4
+  name: pKTON Validator 2 Controller 1
+
+- address: Ef_YCoHukphbQJZveMjCBI5fB3MjdiRX1S5hqEbw2aZpHBEh
+  name: pKTON Validator 2 Controller 2
+
+- address: Uf_91VFRJLfQJNMyy4QGDTrZtGXnOCo7YNpDTwpJl-Pp8OFR
+  name: pKTON Validator 3
+  type: wallet
+
+- address: Ef_6_bZMsGywbqYza4UqRGt3BYZ010bI547y5mGZvspqm4jB
+  name: pKTON Validator 3 Controller 1
+
+- address: Ef9cvDhszhrsYHIIxy56oUx7oy0Nuq3fjv6sp4MlYlPr1Ocj
+  name: pKTON Validator 3 Controller 2
+
+  # Nominator Pools
 - address: Ef-VAFf1Wd3fXd-mQhDw5lNsVdIZv2_H1yhbdzXCFfIe9p95
   name: CAT Validator 1
   type: wallet
@@ -120,107 +225,125 @@
   name: Rangers Pool 2
   type: pool
 
-# Stakee
-- address: EQD2_4d91M4TVbEBVyBF8J1UwpMJc361LKVCz6bBlffMW05o
-  name: Stakee
+  # TON Strategy Pools
+- address: Ef_shF90IP5YtTgVq1EZ8QZQBhFly-MyT0OPjykuQ3hRU6_x
+  name: TON Strategy Pool 1
   type: pool
 
-- address: Ef9o8oaSNFhgM8uFW4BIo7P8IUK2qVjRaC5_Gd2O3JqPgOlI
-  name: Stakee Validator 1
-
-- address: Ef-itGcjlqCvwn6zT9gFKnPTesHn-znJy2QQgP3lB1KpfC8n
-  name: Stakee Validator 2
-
-- address: Ef9eGuUpsIs80rwR3aV_eSo7wnFBvfaeV9OUo3wXLTYkR6-y
-  name: Stakee Validator 3
-
-- address: Ef-RZqci60-2GFZVoB1nI_KgJtRSLLKc-USDJh1ePuN6H4sL
-  name: Stakee Validator 4
-
-- address: Ef8S77rXFmgqImDq0Om9jiyFEXVX6nAgPiqstBOhGKMxVyk6
-  name: Stakee Validator 5
-
-- address: Ef92uQFrMkwVPlti_qV-mS5FOkZDVsevDO7QLf8VhmhC5t4G
-  name: Stakee Validator 6
-
-- address: Ef-Cdr5BiVuQDP6qtnQwGAfspdRnT2XAeC_ZzEaCjE15jzbm
-  name: Stakee Validator 7
-
-- address: Ef_ipTL3uP2mC9WpmJ3pppWxLLaaS7v3wcGcyeTPuAHOaJ7W
-  name: Stakee Validator 8
-
-- address: Ef_0SUFt8GbIizmxCWdposjm1Hhhirfyvi3cunFqKz0sqNDH
-  name: Stakee Validator 9
-
-- address: Ef9haCN08QWiZC11yWJroO8-Sjnb4zlx1hX9J7SatGSUkJN-
-  name: Stakee Validator 10
-
-- address: Ef-eIiNEHVMS-ovGUWKPpVDsIItMHhaAksq54qA7Wyid3y0R
-  name: Stakee Validator 11
-
-- address: Ef-jWsXzKj7YsM2gyYjZtm4ZFnIy1X1knbDiK9U6uGf9sMFo
-  name: Stakee Validator 12
-
-- address: Ef83fzfgGCb9yY4FBXDCPm36k2JWKBBvMezOee3arWeFhChZ
-  name: Stakee Validator 13
-
-- address: Ef8uWHmq2-BsU8q984j_JqDwtZv7SCY2bTz5eBT5GrNeAcHX
-  name: Stakee Validator 14
-
-# KTON
-- address: EQA9HwEZD_tONfVz6lJS0PVKR5viEiEGyj9AuQewGQVnXPg0
-  name: KTON Pool
+- address: Ef_fWaI5nByt4fAqN3Y0C_Ffw8C_-Ys4ixOxOYj-ErmJp6jG
+  name: TON Strategy Pool 2
   type: pool
 
-- address: EQBuIhXNNkWf9AW9miNGNTSO_uFZ23ejfIWrieXge5f733mw
-  name: KTON
-  type: jetton
-
-- address: Uf_lhdKTXcTJUnCVWYWXaoziqxkkLl-8PBP0be601QkE9TyT
-  name: KTON Validator 1
-  type: wallet
-
-- address: Ef9GOR1wqJFPVpbHOxObSATkdbfTizRTmDi6DdjJFYaRKhoK
-  name: KTON Validator 1 Controller 1
-
-- address: Ef-yol83fmXhg1Zt_mw_Ykw-sZ-CrHMhCS6953lNboCYOXj3
-  name: KTON Validator 1 Controller 2
-
-# pKTON
-- address: EQDsW2P6nuP1zopKoNiCYj2xhqDan0cBuULQ8MH4o7dBt_7a
-  name: pKTON Pool
+- address: Ef_auHeZUjJISFIX_HXH0C71LazTHe_p7OpKNxFrU5_mAdKG
+  name: TON Strategy Pool 3
   type: pool
 
-- address: EQCtD-q8vItSYffdO3p23-gcnFpPIpcGx9tE1ImQ3f3thV4l
-  name: pKTON
-  type: jetton
+- address: Ef9b5oodn5ge19j932BnPWydqYMM3Bf7jIJXTQXTGsoOZeik
+  name: TON Strategy Pool 4
+  type: pool
 
-- address: Uf-dkjWQTuAtU5RKTDBsQ_l6ZgKPTyYSB3vGPuSaOZO8udot
-  name: pKTON Validator 1
+- address: Ef94CotSakcuOVEhLxG-1KV6pKZ6IoF1UhVKgYjbD-mdZaCj
+  name: TON Strategy Pool 5
+  type: pool
+
+- address: Ef8ZducbksnCdH5rNaDc9zyjUecCQgItcCWoKHqWwxZUX5Jh
+  name: TON Strategy Pool 6
+  type: pool
+
+- address: Ef97Bat2G3XwnXJwyDDwZSkVUUUWjK_ne-LiIBXosqBI5e9B
+  name: TON Strategy Pool 7
+  type: pool
+
+- address: Ef8QeBBgzb64Xey4p4WvL8Rj-Jd5ejjw89FdpAeIiyFPclQv
+  name: TON Strategy Pool 8
+  type: pool
+
+  - address: Ef-RlzajUPUcUqjPejcsB_9DC5WwQ8gze7bHau2qXPnDp3nd
+  name: TON Strategy Pool 9
+  type: pool
+
+- address: Ef_ce_eqT0XRfrBX38tqCWXWR3NF4HAdKXZIltevF7BqMnjp
+  name: TON Strategy Pool 10
+  type: pool
+
+- address: Ef_ZgfY3E_JxlqRhsj1IULVMUxpfe9tm5ydDXP_NJ7-18BCw
+  name: TON Strategy Pool 11
+  type: pool
+
+- address: Ef8_HUmoTA2eR4WCC03GgZVi3XFF1lm4RQcodnjcNNez9605
+  name: TON Strategy Pool 12
+  type: pool
+
+  - address: Ef-ImTh9tOD-7fEImTmCsC0DDw4ysykGurzldphDAG_sLzeh
+  name: TON Strategy Pool 13
+  type: pool
+
+- address: Ef_W3ic8GE33EAdrBVqKV4sRW7xY8DtvZ1YcksDnNB4f6O3P
+  name: TON Strategy Pool 14
+  type: pool
+
+- address: Ef9WPBhLMw9LKp5eXBaok2tXGE1zLQt6zdOoksbJ7sWGOSGM
+  name: TON Strategy Pool 15
+  type: pool
+
+- address: Uf9LB5Lp4f2Sf84E4uUSxJqWjpwhAo8LidG3fKqcya9_5A87
+  name: TON Strategy Validator 1
   type: wallet
 
-- address: Ef_xWantK-Z5vhBjpRITMloezQdEgguwM1gqzsEB4mt99Fef
-  name: pKTON Validator 1 Controller 1
-
-- address: Ef9c3c0eOdHr3-H8stKY-TnRPHGi22zCTpphAfdepfM76pTJ
-  name: pKTON Validator 1 Controller 2
-
-- address: Uf-EHbK_3dHN9-NP1EhfftlvmaCZnWBCJ2un0Z4ZFLN_lOWj
-  name: pKTON Validator 2
+- address: Uf_6PK_4MD9er0GkYPmBrImCEAhhMAMR0Qil0QU9pKeYAdT6
+  name: TON Strategy Validator 2
   type: wallet
 
-- address: Ef-KtOYK30pG4J-ccFcyne4hssX3NrHT71ygfj13ieE4NwR4
-  name: pKTON Validator 2 Controller 1
-
-- address: Ef_YCoHukphbQJZveMjCBI5fB3MjdiRX1S5hqEbw2aZpHBEh
-  name: pKTON Validator 2 Controller 2
-
-- address: Uf_91VFRJLfQJNMyy4QGDTrZtGXnOCo7YNpDTwpJl-Pp8OFR
-  name: pKTON Validator 3
+- address: Uf98DqoIZViSA0zx9nHrI4wLrHSs-lraxeu-rDt-FqmeBor_
+  name: TON Strategy Validator 3
   type: wallet
 
-- address: Ef_6_bZMsGywbqYza4UqRGt3BYZ010bI547y5mGZvspqm4jB
-  name: pKTON Validator 3 Controller 1
+- address: Uf9RbH85JDy4uIgM6Bb1r3OV5d_hhieZw5fWEpuzu-Ji9uJU
+  name: TON Strategy Validator 4
+  type: wallet
 
-- address: Ef9cvDhszhrsYHIIxy56oUx7oy0Nuq3fjv6sp4MlYlPr1Ocj
-  name: pKTON Validator 3 Controller 2
+- address: Uf8zImOV8yl7qBriZpFk-NjBV-kG9XBA9-MFCRRWF7fJc6L2
+  name: TON Strategy Validator 5
+  type: wallet
+
+- address: Uf-6d490aGu8saUgzrCbIIwuWWj8-rZzF4xcq2zkFHZcv81Q
+  name: TON Strategy Validator 6
+  type: wallet
+
+- address: Uf-CwzK5DHk_Ie5Ng0FHR7biRITZJvCoFZgbzj4Sk1Q7DNxV
+  name: TON Strategy Validator 7
+  type: wallet
+
+- address: Uf_TTMbGzrsx4Um4XKJcwDO8ahjbG4fbpiLLEzx6B5PFDro5
+  name: TON Strategy Validator 8
+  type: wallet
+
+- address: Uf_RX3lkYBaNiCTjWjomYWmsaQMKHeyNRc7tMuOfqcyYCdhb
+  name: TON Strategy Validator 9
+  type: wallet
+
+- address: Uf87bjroP7MRTkW6oz79hGUgD83xm_LxhQEoLPapgUusUS_E
+  name: TON Strategy Validator 10
+  type: wallet
+
+- address: Uf-5rJeOHmGI3RM8tc52_7H1zBii0SREjCK8khHGGj8XFTih
+  name: TON Strategy Validator 11
+  type: wallet
+
+- address: Uf91qMN_zBiazjCM07bpymT0O-cpREvfzPWAvj5UKGKjW2Ne
+  name: TON Strategy Validator 12
+  type: wallet
+
+- address: Uf_KSi_c27XUOmfD9sdZhc6oFaQyIpBO-XzX2YO2O4aJrYEV
+  name: TON Strategy Validator 13
+  type: wallet
+
+- address: Uf9yFw9msotz9WAs5uUF39qflFaVUaoyxZfbPtLgTGo0Sgz_
+  name: TON Strategy Validator 14
+  type: wallet
+
+- address: Uf_9tHm-gxxhCZtIv-kQqKzoTd72Y8IbTPRFFzwAvWwkJoC5
+  name: TON Strategy Validator 15
+  type: wallet
+
+
