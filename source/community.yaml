@@ -74,6 +74,9 @@
   name: MRKT 3
   type: wallet
 
+- address: EQAxBWn4XNWD2TyYxZ3ofSjGll9UEutDpNToAxMib4vUxw1J
+  name: Thermos
+
 - address: UQCa7wMuLC-TDD_jZFTluCTfVMo9WhXJr_t3xIyazm78yFUU
   name: Gifts Strategy
   type: wallet
