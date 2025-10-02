@@ -385,3 +385,8 @@
 - address: Uf9SyJS3LsXOBd-TnN1V7tZxtUuSvnz0t4dnHuNyODdYHuHJ
   name: TON Strategy Validator 20
   type: wallet
+  
+- address: Ef8UDsOEClFx3hPclsXF4tuS_7EXqHrdUElBUwsNr-ncrjUL
+  name: aBull - Community low fee pool 1
+  description: A community pool with the lowest fee and the lowest minimum ton requirement, with just 1000 TON
+  type: pool
