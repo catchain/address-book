@@ -13,6 +13,22 @@
 - address: UQDD-Z7E9o75qCDcApvXl9IWA-CH21rS2I1ChbaqBB43-u9m
   name: TON Strategy
   type: wallet
+
+- address: EQAjK8SIcceZtmZixKmRDaRwO1MurXSoQZ6Hk9Vw2yiG0rqB
+  name: TON Strategy 2
+  type: wallet
+
+- address: EQDfrxQ5crXecc2vRsNPArtNh2pEklLfup4UlGkgaFnhCcjC
+  name: TON Strategy 3
+  type: wallet
+
+- address: EQDf2zQBLHgxsJHmLijHMGHhDSxtZFvu_Xxfb4CdAnzIDTlG
+  name: TON Strategy 4
+  type: wallet
+
+- address: EQAo7lUTdLyir1i3c34rgABn5XvqDDX5mgy-6EA9jHflO0iC
+  name: TON Strategy 5
+  type: wallet
   
 - address: UQB1Ej8JDhx-qLwf0SuLjAf6x1DadezEVPMXqFdgssjMj_tq
   name: Gram Foundation
