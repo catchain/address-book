@@ -306,6 +306,87 @@
   name: TON Strategy Pool 20
   type: pool
 
+- address: Ef8JTVPBg4DZjxNAX1JBM6xyHOueB6XGUPk-eXmDYBDe5npN
+  name: TON Strategy Single Pool 21
+  type: pool
+
+- address: Ef_T7X46O7mlHzS0Fg3UCLtq7_M9QyCSmWVGyVN9tkfugJP1
+  name: TON Strategy Single Pool 22
+  type: pool
+
+- address: Ef_IouCykKv5ayoBlbkjlrTnZPbfbNqDeOMjx7ajTXOP5eKs
+  name: TON Strategy SinglePool 23
+  type: pool
+
+- address: Ef-E82qx-eTZzr5mICSXDpFTuKppeywIP3JuZM4wanRY1DwM
+  name: TON Strategy Single Pool 24
+  type: pool
+
+- address: Ef94oqxiBIx8tk0qjmRXIV1dDH18BUMsU7u5pf4FloKmfSKV
+  name: TON Strategy Single Pool 25
+  type: pool
+
+- address: Ef9d4_lNZgU7NqpVkvfasR4eK-_BV-xGYhAgf2Suj3JyV_gP
+  name: TON Strategy Single Pool 26
+  type: pool
+
+- address: Ef_EdNgjhrT03nbg_UPPDsJM83pH1pGyyh5Jq_CJxlT-bITg
+  name: TON Strategy Single Pool 27
+  type: pool
+
+- address: Ef_ryoex8VyyIuwBOXrKZ9Nzzzs6zgDrabTFbuIwFxkBnwUX
+  name: TON Strategy Single Pool 28
+  type: pool
+
+- address: Ef_TzcVRcO5KSRqW711_o2_jwhuOEeaCNPEwjsSG_08y82AW
+  name: TON Strategy Single Pool 29
+  type: pool
+
+- address: Ef9ZzYavXAHCWWVGxfnQ6Qmmj4YDkGgkN2neieGoSDD7PgR3
+  name: TON Strategy Single Pool 30
+  type: pool
+
+- address: Ef9dB2KhiVN1F0FIeHwecDWSbxNtUhVdbEUWGDQOEyIqlQRG
+  name: TON Strategy Single Pool 31
+  type: pool
+
+- address: Ef9ioSKO2PVeSe_3onq_C8j-HUpcIE-66aZhouf7yEePyCyB
+  name: TON Strategy Single Pool 32
+  type: pool
+
+- address: Ef9XrEdGCcXOuj6TZVjaTuvQ9HzvDJukPvROvY8sW5bjeKHz
+  name: TON Strategy Single Pool 33
+  type: pool
+
+- address: Ef9SWdFKPx-igOA6XZxuX_xZiesqMG-qz3DI2NoYlKelMaho
+  name: TON Strategy Single Pool 34
+  type: pool
+
+- address: Ef8GV6efiKTA-0Lacv9d0Kls3UYegMWrOb9R5cPMrsvPglu9
+  name: TON Strategy Single Pool 35
+  type: pool
+
+- address: Ef--jfwZ6ALdPFfpM_sR94XM3lEzw-Dm0Jc63HCXG0zEMwig
+  name: TON Strategy Single Pool 36
+  type: pool
+
+- address: Ef-Qm4FoiISlFW78mkpkWktL60Cmdk6J20rBhb068cNZNuT0
+  name: TON Strategy Single Pool 37
+  type: pool
+
+- address: Ef_RQgFJNRuJAVfFH57bMq01kJmQlkz4CtmwVqVQGwhqwten
+  name: TON Strategy Single Pool 38
+  type: pool
+
+- address: Ef-8AgwxTjK_Z30Rqm9fdkNH3XFoVxExvNIa1eKd5hD60mGx
+  name: TON Strategy Single Pool 39
+  type: pool
+
+- address: Ef9u9FxS8xhnF7NAHryhtbX2qRWfbQfaD8sbdbtfys8vpQrp
+  name: TON Strategy Single Pool 40
+  type: pool
+
+  # TON Strategy Validators
 - address: Uf9LB5Lp4f2Sf84E4uUSxJqWjpwhAo8LidG3fKqcya9_5A87
   name: TON Strategy Validator 1
   type: wallet
@@ -384,4 +465,84 @@
 
 - address: Uf9SyJS3LsXOBd-TnN1V7tZxtUuSvnz0t4dnHuNyODdYHuHJ
   name: TON Strategy Validator 20
+  type: wallet
+
+- address: Uf8DaGOMlZ3oNemzKRPMwmXjh_d2peDpBs-zrRHV0019RzHv
+  name: TON Strategy Validator 21
+  type: wallet
+
+- address: Uf_EXkOKCZBZjkIk2GM2X4R630hNdz40qwbrYpG122dX4WeH
+  name: TON Strategy Validator 22
+  type: wallet
+
+- address: Uf9Tw6M8a-Q5eM5MAinna4v0qBMRxEh7icpelTMg7uQF9wUq
+  name: TON Strategy Validator 23
+  type: wallet
+
+- address: Uf_ES2pONJ5D3pndYlviQ8rg_Wi5-hsP8CRj5QoQn2JD3elG
+  name: TON Strategy Validator 24
+  type: wallet
+
+- address: Uf9n8RJJhPPfyuqVAh-R6iszUowzNyicOSQayhyMW5sVC3BK
+  name: TON Strategy Validator 25
+  type: wallet
+
+- address: Uf_EWPOTA4tkQi56SShnu7j-NDBU--hSwNdAS8I5jjGTrwvk
+  name: TON Strategy Validator 26
+  type: wallet
+
+- address: Uf_9f2eL8pV68mE4EMehaXrgJ8ub9nzWsK5fB2djbUP9HhDe
+  name: TON Strategy Validator 27
+  type: wallet
+
+- address: Uf9BdBOc5WpO1p-eJRJfOCR5p6aZQoCuRC-tJgiBYEz0KsPP
+  name: TON Strategy Validator 28
+  type: wallet
+
+- address: Uf8Pz_R8q0C-JlnOVzUdSGBaIYp_SaJoLzBhuq42uAHDEYYB
+  name: TON Strategy Validator 29
+  type: wallet
+
+- address: Uf-lVHk9jtgeN9V3PKJjb3i-Hwx-QOmwaPqToq_CU9FODJdR
+  name: TON Strategy Validator 30
+  type: wallet
+
+- address: Uf_KMwrIuuuuTcJYCzVLuO5PAXJiUfH97U-I5gj2O9ff3xZO
+  name: TON Strategy Validator 31
+  type: wallet
+
+- address: Uf_pc1fuNAA2zEqD7osUQSLm7bZQKGeg_nb5ierURJdcEf8N
+  name: TON Strategy Validator 32
+  type: wallet
+
+- address: Uf_hs7dxHLyd9cdk-tli5nFxaLCzQPJyaoStcGb7rPS5rhuR
+  name: TON Strategy Validator 33
+  type: wallet
+
+- address: Uf8vjVIEC7sVgfrm7apOZneXXzeMd2iSqLo92VjGUFqsN0xw
+  name: TON Strategy Validator 34
+  type: wallet
+
+- address: Uf8vP8VLceFuOS2umV_XovsKddjmJ9q-LxRHnCxJ7ECEsoxR
+  name: TON Strategy Validator 35
+  type: wallet
+
+- address: Uf-FD95BfxpEUSdz5z1ONaQpMmRaZeYY_FZuoQFXwKUSWput
+  name: TON Strategy Validator 36
+  type: wallet
+
+- address: Uf8FFFR_3HKGrcPq9oSQKwi1F9mTjxne6RnvtRdEp3CicCoy
+  name: TON Strategy Validator 37
+  type: wallet
+
+- address: Uf9mypDFqRv3ZHeF8Ijq8jdIZZMGO4B1vrQfn6OytOcSPyHx
+  name: TON Strategy Validator 38
+  type: wallet
+
+- address: Uf-IPGchNeBjhRvylILE8pH-DDvGKqBPOIcpRGEhLDSJuyfT
+  name: TON Strategy Validator 39
+  type: wallet
+
+- address: Uf_VLM1r87BTTtYoKBmXwDBh7UwfQb_gb36ZC0Ee542q767V
+  name: TON Strategy Validator 40
   type: wallet
