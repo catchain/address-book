@@ -145,7 +145,7 @@
   name: MEXC 3
   type: wallet
 
-- address: UQCZ-7akCw_dvl_Q5xyriWqCXdWubIPbuN7aDQlzX45pa01R
+- address: UQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fKne
   name: ByBit 1
   type: wallet
 
@@ -168,9 +168,15 @@
 - address: UQDjPvhdF060V8By0e4QIVtpq5tkGS90ITAqscjia3rUvYhY
   name: ByBit 6
   type: wallet
-  
-- address: UQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fKne
+
+- address: EQB_l_Nt2j997cnhL4wJxPief7wXUnqz9n3kw7FVKXpW5L0A
   name: ByBit 7
+
+- address: EQDy3BhgaGzWWJh-K-2CFlMtjABEYNreqQfMfUrXI2xJa81w
+  name: ByBit 8
+
+- address: UQCZ-7akCw_dvl_Q5xyriWqCXdWubIPbuN7aDQlzX45pa01R
+  name: ByBit 9
   type: wallet
 
 - address: UQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-cql
