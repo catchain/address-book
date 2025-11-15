@@ -546,3 +546,7 @@
 - address: Uf_VLM1r87BTTtYoKBmXwDBh7UwfQb_gb36ZC0Ee542q767V
   name: TON Strategy Validator 40
   type: wallet
+
+- address: Ef8UDsOEClFx3hPclsXF4tuS_7EXqHrdUElBUwsNr-ncrjUL
+  name: aBull - Community pool 1
+  type: pool
