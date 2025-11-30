@@ -77,6 +77,10 @@
   name: Binance
   type: wallet
 
+- address: UQCA79w3zPDbaLFHIFPxdrw_sy9uUhbZqv2LGKxISggY1zSm
+  name: Binance
+  type: wallet
+  
 - address: EQD5vcDeRhwaLgAvralVC7sJXI-fc2aNcMUXqcx-BQ-OWnOZ
   name: OKX 1
   type: wallet
