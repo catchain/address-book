@@ -119,6 +119,10 @@
 - address: EQAVgTYjmtsV3VnfkMZB-e_TEs_rhmTyGPTD5fzp2V5sBwm6
   name: Fragment Gift Minter
 
+- address: UQDnlslXI2RtI1WhLmtelkb4CVQGxr8E_xSIjl0Hg79jNk6V
+  name: Cocoon
+  type: wallet
+
 - address: EQBDUShg1UmAzyTVmGijDmeZJ_sTc8EJZNt1AO3N9pCrxPAN
   name: Telegram Channel Rewards 
   type: wallet
