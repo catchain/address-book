@@ -10,6 +10,9 @@
   name: Ecosystem Reserve
   type: wallet
 
+- address: EQBsLp-gJpdbHgmI6J2CqEGgcJ2v_RE9rfENk6pDcbFcyewM
+  name: Gift Fest 
+
 - address: UQDD-Z7E9o75qCDcApvXl9IWA-CH21rS2I1ChbaqBB43-u9m
   name: TON Strategy
   type: wallet
