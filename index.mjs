@@ -1,6 +1,8 @@
-import { readdir, readFile, writeFile } from 'node:fs/promises';
+import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import { parseAllDocuments } from 'yaml'
 import TonWeb from 'tonweb';
+import { join, extname, basename } from 'node:path';
+import sharp from 'sharp';
 
 const CONTRACT_TYPES = [
     'wallet',
@@ -11,6 +13,8 @@ const CONTRACT_TYPES = [
 
 const YAML_DIRECTORY = './source/';
 const BUILD_DIRECTORY = './build/';
+const AVATARS_DIRECTORY = './avatars/';
+const IMG_DIRECTORY = './build/img/';
 
 /**
  * @param  {String} address
@@ -121,10 +125,93 @@ const saveAddressbook = async function createAndWriteAddressbookJson(directory =
     return addresses;
 };
 
+/**
+ * @param  {String} addressString
+ * @return {Object}
+ */
+const generateAddressVariants = function generateRawBouncedNonBouncedAddresses(addressString) {
+    try {
+        const address = new TonWeb.utils.Address(addressString);
+        
+        // Raw 
+        const raw = address.toString(false);
+        
+        // Bounced (EQ...)
+        const bounced = address.toString(true, true, true, false);
+        
+        // Non-bounced (UQ...)
+        const nonBounced = address.toString(true, true, false, false);
+        
+        return { raw, bounced, nonBounced };
+    } catch (error) {
+        throw new Error(`Invalid address format: ${addressString} - ${error.message}`);
+    }
+};
+
+/**
+ * @return {Promise<void>}
+ */
+const copyAvatars = async function copyAvatarsToBuildImgWithoutExtension() {
+    try {
+        await mkdir(IMG_DIRECTORY, { recursive: true });
+
+        const files = await readdir(AVATARS_DIRECTORY);
+        
+        // Filter only images
+        const imageExtensions = ['.jpg', '.jpeg', '.png', '.webp', '.svg'];
+        const imageFiles = files.filter(file => {
+            const ext = extname(file).toLowerCase();
+            return imageExtensions.includes(ext);
+        });
+
+        let processedCount = 0;
+        
+        for (const imageFile of imageFiles) {
+            const imagePath = join(AVATARS_DIRECTORY, imageFile);
+            const addressString = basename(imageFile, extname(imageFile));
+            
+            try {
+                // Generating raw/bounced/non-bounced forms of address
+                const variants = generateAddressVariants(addressString);
+
+                const image = sharp(imagePath);
+                
+                for (const variant of Object.values(variants)) {
+                    const outputFileName = `${variant}.w200.webp`;
+                    const outputPath = join(IMG_DIRECTORY, outputFileName);
+                    
+                    await image
+                        .resize(200, 200, {
+                            fit: 'cover',
+                            position: 'center'
+                        })
+                        .webp({ quality: 85 })
+                        .toFile(outputPath);
+                }
+                
+                processedCount++;
+            } catch (error) {
+                console.warn(`Failed to process ${imageFile}: ${error.message}`);
+            }
+        }
+        
+        console.log(`Successfully processed ${processedCount} images, generated ${processedCount * 3} variants to ${IMG_DIRECTORY}`);
+    } catch (error) {
+        if (error.code === 'ENOENT') {
+            console.log('Avatars directory not found, skipping image copy');
+        } else {
+            throw error;
+        }
+    }
+};
+
 // Save addressbook if command line has build argument:
 if (process.argv.slice(2).includes('build')) {
     const addresses = await saveAddressbook();
     console.log(`Successfully created addressbook with ${addresses.size} addresses`);
+    
+    // Create images directory and copy avatars to it
+    await copyAvatars();
 
 // Just test otherwise:
 } else {

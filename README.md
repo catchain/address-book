@@ -34,6 +34,11 @@ Entry structure must be as follows:
 
 This field is needed because some addresses in TON have to be in other format (UQ vs EQ). The address itself can be in any format, just set the correct `type`.
 
+## Adding images
+Use the `avatars` directory to add images to addresses. The image name must be a TON address in any format. Acceptable image extensions: `jpg`, `jpeg`, `png`, `webp`
+
+After the build, the images will be available in the `/build/img` folder in three address formats (raw/bounced/non-bounced).
+
 
 ## Building
 ```bash
