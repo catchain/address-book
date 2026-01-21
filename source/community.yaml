@@ -444,3 +444,11 @@
 - address: UQDvZL_iplGL72On1ipQdH6Kc6EEcrhCJ0JpNdo669-Qns7B
   name: Totemancer
   type: wallet
+
+- address: EQD529CGTmX1Tgcsn3vYBfUPKrVdgermb1T8o5MKLGOGdHpb
+  name: HUNCH (HNCH)
+  description: |-
+    HUNCH Oracle Protocol - Decentralized prediction markets on TON.
+    Stake HNCH to participate in governance and earn rewards from market fees.
+    https://hunch-mainnet.vercel.app
+  type: jetton
