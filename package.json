@@ -6,6 +6,7 @@
     "test": "node ./index.mjs test"
   },
   "dependencies": {
+    "sharp": "^0.34.5",
     "tonweb": "^0.0.62",
     "yaml": "^2.3.2"
   }
