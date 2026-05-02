@@ -46,6 +46,151 @@
 - address: Ef8uWHmq2-BsU8q984j_JqDwtZv7SCY2bTz5eBT5GrNeAcHX
   name: Stakee Validator 14
 
+# Telegram
+- address: Ef-BRYXX9r8WY_pnug6p8gIfMIYxmMcHhWQFWh4V8FAYDd70
+  name: Telegram Pool 1
+
+- address: Ef-DyPewKoi_bisaQrtteirgdgxYUz5aK3d-k23TsQVnCZJA
+  name: Telegram Pool 2
+
+- address: Ef86MVYsiuNRR4q3KhgShu5Sj5oVbFtltIySTRG_6eK25kpS
+  name: Telegram Pool 3
+
+- address: Ef-zOVNJyHJVvpAb_KDekTWCD8bROoqCW3RtTX-_Zw1MXGK8
+  name: Telegram Pool 4
+
+- address: Ef8V637dlicgBDpn5iA4CH04cUTxi6OO68MLh2aaiTpG4hcx
+  name: Telegram Pool 5
+
+- address: Ef9iUOlI68C5ptUznKuJ7yNuQrzRHKLVd4nPw5CCwrpfGWN6
+  name: Telegram Pool 6
+
+- address: Ef89OikC_nbBfqdx70Hc6ShZV7zLGdUPKwwlvjZo1scXeloP
+  name: Telegram Pool 7
+
+- address: Ef-tHSy_e_QawFniBDxhQApFIZOG6bEq4ex-7FA-6J4W_dSN
+  name: Telegram Pool 8
+
+- address: Ef-ABw-AtFOPA3VvPXskB9x06ufghNqnfVBJ2dTexed-mkOw
+  name: Telegram Pool 9
+
+- address: Ef_KqXQ9OnN8rmC9lgQVapWkA3AbNYkDzMVO2EGEtMouUdzW
+  name: Telegram Pool 10
+
+- address: Ef9aYug4-pw0y3vaRY9M12dJ0isLjwakamPHRr5eK_lKhEz_
+  name: Telegram Pool 11
+
+- address: Ef-lZVlCbHk9xVsem8udnjVTCsnLKfYjhFBP8Z77dmxkxZ2b
+  name: Telegram Pool 12
+
+- address: Ef-JoPNYIry1AFqnOQtMPXKe7CoCdEJSpQkvQmL77wc4LHJl
+  name: Telegram Pool 13
+
+- address: Ef9rLKIIm7M2Oi0k91aqSbhhIlWZIevfz-ILuLXeuM2Gpbby
+  name: Telegram Pool 14
+
+- address: Ef_blSQgiTZmBp9nTBTFFiluQ7tICOB_ZybvEv-YrXi_R7tG
+  name: Telegram Pool 15
+
+- address: Ef-fo9C7AyvqgvMfhLTV9VScFnaE8BG7EGNZkbP_hFBswe12
+  name: Telegram Pool 16
+
+- address: Ef-d7ES90jXn3kBWLmHUySo3pOk9SkrB1otHoOdcLbOqhlAV
+  name: Telegram Pool 17
+
+- address: Ef_Mf5_-N2PbsaCNMKj0WknP-dNZwxMf8TKiW9pGiZR-9pLF
+  name: Telegram Pool 18
+
+- address: Ef_TViyZJqcNeZTKtomDYe0D0tqi98MILJNfoZDpzsw9-yzz
+  name: Telegram Pool 19
+
+- address: Ef9R8Y-HTqJwU3By5mvmikHhvdtWkIoo4DRvlpAc30QIQYES
+  name: Telegram Pool 20
+
+- address: Ef8BS5hET2fGZ7lgj3YgFEnT4or2GX8-ZkwAU26VxVVA12qc
+  name: Telegram Pool 21
+
+- address: Ef-wwGtzYurmb_AAdqI-c37bTM4HqU80asLWBHmGI29wN2bg
+  name: Telegram Pool 22
+
+- address: Ef95AuZQBgHKEEExC02JNLk5-BsiwmEZ0rxqHOj7qM5i5jCb
+  name: Telegram Pool 23
+
+- address: Ef8kXNi_UhGhe3PBXH_rwE2QjydA4AKGs23UuJ8wvJekbveH
+  name: Telegram Pool 24
+
+- address: Uf-1a5HlxAgS2cXVBZqvDmnROKvkAPy0MUxvZ1h7sd8pmzgw
+  name: Telegram Validator 1
+
+- address: Uf9He-lrFvyr7Qr8xCPGJmhSI9AIzjr8OUR_nCFkXxIZvlO8
+  name: Telegram Validator 2
+
+- address: Ef_OBNOPIEHrnuIOYN0UxOjNysDm4p_8Vt5kyqRi-ePbfruB
+  name: Telegram Validator 3
+
+- address: Ef-LBQTvvKjagiSZSFwMSmFExRHZoVTNI1TkWj3BR1AZb-31
+  name: Telegram Validator 4
+
+- address: Ef9BpkwJyeN4y8q1YW05ZrrOZ5hpKQUsLMwn_jU3wO1ke8N4
+  name: Telegram Validator 5
+
+- address: Ef8Qr-HtDkomh_9aiNKQ7Nf6lJMnEE2BVWAw8wVaArlGN8HY
+  name: Telegram Validator 6
+
+- address: Ef84xdA1SYO6yZFJeTy9MfNC71QX-ypzV8XMHr5_O984PLQs
+  name: Telegram Validator 7
+
+- address: Ef86Sr-48dayHYeG8HluktY7D9RPIFmnz7WJJPkIKQoSV6CN
+  name: Telegram Validator 8
+
+- address: Ef_2c6bIO-SIIN_ChE8Tlf3KzDIMmkNrM_PmkXipvdKTAiMd
+  name: Telegram Validator 9
+
+- address: Ef-VD_kyEEsVc3zWMWzn7K_nZnXXezyAezbHa7Jmii8zbjGl
+  name: Telegram Validator 10
+
+- address: Ef_OK3mQleMHn-Y-npUaHrAOHJX-McMZ4VmdmAcVUd7kuNOg
+  name: Telegram Validator 11
+
+- address: Ef_L38hPxKxr5QWGnedM2VTDoJpoqAkEsKrIEpY5qPJAymgH
+  name: Telegram Validator 12
+
+- address: Ef8wcYXtNwz6Luz2U87UE9FrQV8SvDcKAlLDCnzJ3Xttimyd
+  name: Telegram Validator 13
+
+- address: Ef9CEmUYVriFyRPrPcFXVT-DNH-4BQnKkqMnMaShFV7h81ET
+  name: Telegram Validator 14
+
+- address: Ef8Dqn4VGKEh2fE8nnJMX7yTvNzoJgaUN4BrrMlylrF7L7sc
+  name: Telegram Validator 15
+
+- address: Ef-ncVwoN0meXxIFlA6pR10w233QCYW71heNyUnQXYbJ2tGr
+  name: Telegram Validator 16
+
+- address: Ef_1xhm4SNYLKBcxgrZI296zjCsZ-YiyLXMophVqgQ5DH6Ml
+  name: Telegram Validator 17
+
+- address: Ef_H7eGeCUjsUtOxOv2n20Bfrvwj18bTxI4PLaJOAoCPfDbm
+  name: Telegram Validator 18
+
+- address: Ef8inb-6tkxfiWOwsGnjEC1W_36BdmMnEYS0Hdz68CTz1ouF
+  name: Telegram Validator 19
+
+- address: Ef86sVx9mj0y5ilHc_NFcc6tQ4ckd1anZUzWnOFcwRVH69eL
+  name: Telegram Validator 20
+
+- address: Ef9N7O1uc2S6d_GP2wQgMmAlr33klqrZRUuz3lyA-vyb_v7U
+  name: Telegram Validator 21
+
+- address: Ef_URU5r9_esyUBbvUhA1ZgPMWhvXAIDyNbU9KdL-8JdQT4t
+  name: Telegram Validator 22
+
+- address: Ef8ThkoErKXUmKW_GuM1CRBYvib4xyRisHmefh7kP_3EuSi9
+  name: Telegram Validator 23
+
+- address: Ef9EvPTiQ5lXEpu-eKZyyUl_FYefnna1gLToEZ_vxInf96xM
+  name: Telegram Validator 24
+
 # Tonstakers
 - address: EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR
   name: Tonstakers
