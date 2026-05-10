@@ -444,3 +444,7 @@
 - address: UQDvZL_iplGL72On1ipQdH6Kc6EEcrhCJ0JpNdo669-Qns7B
   name: Totemancer
   type: wallet
+
+- address: UQCdo-waWAefptiwe7MRWmVL3yxQOi81k_yI3c4C6yZ6GTwi
+  name: Playbox
+  type: wallet
