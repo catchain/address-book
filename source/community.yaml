@@ -100,12 +100,39 @@
   name: Gifts Strategy
   type: wallet
 
-- address: UQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ys0BL
-  name: MarketApp
+- address: EQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ysx2O
+  name: Marketapp Marketplace
   type: wallet
-  
+
+- address: EQB0CpW6HNTKbRoM4u8AsipV8Vq2YXa25O8A6uf8mdFWeDf6
+  name: Marketapp
+  type: wallet
+
+- address: EQBDlg6XDpk4DTIPHd10xzKMwIfWy0Gy5RgTb8Vumr2OoSES
+  name: Marketapp
+  type: wallet
+
+- address: EQBEg5lOBRAkGIUOV6mZUnMdVbviggaD92gOkmavd1K6HYFT
+  name: Marketapp
+
+- address: EQCYCA-47lALps90xoFFIPVznOsiHlWVKF3cEDChKgP3JYEf
+  name: Marketapp
+
+- address: EQBf5giqkrPH1nAJRfP3liZ5wQbnhWpu6_jT8PhQNLOBZXyQ
+  name: Marketapp Username Minter
+  type: wallet
+
+- address: EQBTGRpXgB3iQq74pHNcnKzFU_S4j4WGnubOiYYLU5JFOHwU
+  name: Marketapp Listing
+
+- address: EQCXKnbyYLT7JW6IAP26UfL-NYXW4sQ1nhl6FuHm2tA0pFFw
+  name: Marketapp Listing
+
 - address: EQDljQaFrI6QoFw0vvn6GDdbt-oJC3g0GXBhos-vS2qg5HZk
-  name: MarketApp Gift Sender
+  name: Marketapp Gift Sender
+
+- address: EQA7Bt7ZqEXypqksFR-lEdA_oB0xf6ePm9H7aBacJXCDoW9u
+  name: Marketapp Gift Minter
 
 - address: EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE
   name: Fragment Marketplace
@@ -241,9 +268,6 @@
 
 - address: EQBhUTAXUHxilVWu6GEPFFS4iMEVMaR1L4vONazlkIhUX1mW
   name: Getgems Listing
-
-- address: EQBTGRpXgB3iQq74pHNcnKzFU_S4j4WGnubOiYYLU5JFOHwU
-  name: Marketapp Listing
 
 - address: EQDrLq-X6jKZNHAScgghh0h1iog3StK71zn8dcmrOj8jPWRA
   name: Disintar Marketplace
