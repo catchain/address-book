@@ -313,3 +313,8 @@
   description: https://www.ourbit.com/
   name: OURBIT
   type: wallet
+
+- address: EQDOC2f4lOSsgWZRaZXVXG4UoPWrTce6ngiyR7HYakLE0It8
+  description: https://changehero.io
+  name: ChangeHero
+  type: wallet
