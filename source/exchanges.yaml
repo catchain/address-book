@@ -313,3 +313,7 @@
   description: https://www.ourbit.com/
   name: OURBIT
   type: wallet
+
+- address: UQBqWnahU4z5WWWQ7DcIRwZJw0JiS_kuY6anoVJU7e2pBEZK
+  name: Bitfinex
+  type: wallet
