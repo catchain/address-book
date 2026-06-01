@@ -53,6 +53,12 @@
   name: Telegram Development
   type: wallet
 
+- address: EQDQvywF226NXojPky_9gwbCz0FPoygqY11bGl03SONNBs5V
+  name: Telegram Vote Proposer
+
+- address: EQAv-VS2OM80SYLB0ouRWRcpFg4J0L-egUf1-utF-OJ6h0rK
+  name: Gram Rename Proposal
+
 - address: EQCznsShsJmFo54R1GwGzmbHI5ze4gyxhdf9GKUCCx7kAp4M
   name: Portals Market
   type: wallet
