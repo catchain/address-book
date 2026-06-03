@@ -454,3 +454,7 @@
 - address: UQCdo-waWAefptiwe7MRWmVL3yxQOi81k_yI3c4C6yZ6GTwi
   name: Playbox
   type: wallet
+
+- address: UQARU8b0qBndHlMRmVersPM6XYNQFK8fYHNy-uJba3rPddor
+  name: HellGemsBot
+  type: wallet
