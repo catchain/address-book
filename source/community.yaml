@@ -67,6 +67,9 @@
   name: Portals Market Deposit
   type: wallet
 
+- address: EQATCpfGyJ1JVPxHgcfpBghgYIFNPiDzLxFuDp7ngE9Eur95
+  name: Portals
+
 - address: EQD0BinUPHBWioBD4gODJND4YEeYn_D_WE_C8LZqypxB3xAb
   name: @push
 
@@ -454,3 +457,6 @@
 - address: UQCdo-waWAefptiwe7MRWmVL3yxQOi81k_yI3c4C6yZ6GTwi
   name: Playbox
   type: wallet
+
+- address: UQCyE671x7-6a1S8AP-UQT0BhbTy6o09XXxyclGRWawsmTyU
+  name: Triple-A
