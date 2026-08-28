@@ -185,6 +185,10 @@
   name: Heleket Payment
   type: wallet
 
+- address: UQDLg_0rko1lbH50a24xRA3bCvroByHfQvKzuFzrqbeMeNWr
+  name: Heleket Payment Comission
+  type: wallet
+
 - address: UQC1NuWj8E9gjV8HrZLN6WXlGZ1mbPnmz9uqxH0d-LuHgbiS
   name: Antarctic Wallet
   type: wallet
