@@ -192,6 +192,22 @@
   name: ByBit 9
   type: wallet
 
+- address: UQDy3BhgaGzWWJh-K-2CFlMtjABEYNreqQfMfUrXI2xJa5C1
+  name: ByBit 10
+  type: wallet
+
+- address: UQBKHCC8mm-SlPdfHIen84OotzpIOi5tyzYw3b54s8ytAIWX
+  name: ByBit 11
+  type: wallet
+
+- address: UQCLBw7bAacA8_akYkx-CG4DbahgYOuwTxmQjuYaNTczX2jy
+  name: Changelly 1
+  type: wallet
+
+- address: UQA9fuSRfcdcGVuXWhe4-302eXj9wwvZZJIAqhJVqTo-VxtH
+  name: Changelly 2
+  type: wallet
+
 - address: UQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-cql
   name: Crypto.com
   type: wallet
