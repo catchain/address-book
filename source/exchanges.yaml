@@ -294,6 +294,10 @@
   name: xRocket
   type: wallet
 
+- address: EQABGo8KCza3ea8DNHMnSWZmbRzW-05332eTdfvW-XDQEjQM
+  name: xRocket
+  type: wallet
+
 - address: EQAYgkeNrvG37SAMu9wgG9TtCyTC5fGkx8Fa6347GnWRk0v_
   description: https://coinone.co.kr/exchange/trade/ton/krw
   name: Coinone Deposit
