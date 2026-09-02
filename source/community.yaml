@@ -464,3 +464,7 @@
 
 - address: UQCyE671x7-6a1S8AP-UQT0BhbTy6o09XXxyclGRWawsmTyU
   name: Triple-A
+
+- address: UQA_iYi3qoX8V0Cqv9pnwoKzGlWA8vYZHNP3P7O6vwykTJiJ
+  name: MixPay
+  type: wallet
