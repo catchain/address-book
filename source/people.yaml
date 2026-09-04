@@ -4,6 +4,11 @@
   type: wallet
   description: TON Core Developer
 
+- address: UQCdqXGvONLwOr3zCNX5FjapflorB6ZsOdcdfLrjsDLt3AF4
+  name: Tolya
+  type: wallet
+  description: TON Core Developer
+
 - address: EQDYzZmfsrGzhObKJUw4gzdeIxEai3jAFbiGKGwxvxHinaPP
   name: Pavel Durov
   type: wallet
