@@ -348,3 +348,7 @@
 - address: UQBqWnahU4z5WWWQ7DcIRwZJw0JiS_kuY6anoVJU7e2pBEZK
   name: Bitfinex
   type: wallet
+
+- address: EQCFEMexgS42dhlaRgSmKJR73nmuSRcyVHumOu4S-2ND-XP1
+  name: GRM DEX
+  type: jetton
