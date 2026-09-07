@@ -352,3 +352,7 @@
 - address: EQCFEMexgS42dhlaRgSmKJR73nmuSRcyVHumOu4S-2ND-XP1
   name: GRM DEX
   type: jetton
+
+- address: UQBu1ugvC7Up6TFk5243amtd4riI4F4RF8un-IkfWumsn88A
+  name: Hotcoin Hot Wallet 01
+  type: wallet
