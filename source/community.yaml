@@ -468,3 +468,11 @@
 - address: UQA_iYi3qoX8V0Cqv9pnwoKzGlWA8vYZHNP3P7O6vwykTJiJ
   name: MixPay
   type: wallet
+
+- address: EQAmYU1sd0IKbfW8JOMppwaGsgvvxdTOIo6TvUy1IJZ5sV8j
+  name: JPEGPE
+  description: |-
+    JPEGPE jetton on TON.
+    Official channel: https://t.me/jpegpecoin
+    Community: https://t.me/jpegpecoinchat
+  type: jetton
