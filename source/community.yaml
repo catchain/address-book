@@ -18,19 +18,19 @@
   type: wallet
 
 - address: EQAjK8SIcceZtmZixKmRDaRwO1MurXSoQZ6Hk9Vw2yiG0rqB
-  name: TON Strategy 2
+  name: TON Strategy
   type: wallet
 
 - address: EQDfrxQ5crXecc2vRsNPArtNh2pEklLfup4UlGkgaFnhCcjC
-  name: TON Strategy 3
+  name: TON Strategy
   type: wallet
 
 - address: EQDf2zQBLHgxsJHmLijHMGHhDSxtZFvu_Xxfb4CdAnzIDTlG
-  name: TON Strategy 4
+  name: TON Strategy
   type: wallet
 
 - address: EQAo7lUTdLyir1i3c34rgABn5XvqDDX5mgy-6EA9jHflO0iC
-  name: TON Strategy 5
+  name: TON Strategy
   type: wallet
   
 - address: UQB1Ej8JDhx-qLwf0SuLjAf6x1DadezEVPMXqFdgssjMj_tq
@@ -46,7 +46,6 @@
   
 - address: EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y
   name: CAT Services
-  tonIcon: 💎
   type: wallet
 
 - address: EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj
@@ -91,15 +90,15 @@
   type: wallet
 
 - address: UQDJ8CZl6BzCCNRnwVevzfPV2X2lvv8A0mfBVeHCYNP6zXCS
-  name: MRKT 1
+  name: MRKT
   type: wallet
 
 - address: UQBP_J1rHkREU1ftv6XS1I9UHNragWFMapZnzgZzOCgjBNVL
-  name: MRKT 2
+  name: MRKT
   type: wallet
 
 - address: UQA2vLq6k3FNeqjt58UYgUcSGWF5Eh6fQ2gZ1whYJUyv_Hep
-  name: MRKT 3
+  name: MRKT
   type: wallet
 
 - address: EQAxBWn4XNWD2TyYxZ3ofSjGll9UEutDpNToAxMib4vUxw1J
@@ -174,11 +173,11 @@
   type: wallet
 
 - address: UQA006qLz7fAZdJ5D7Mc4c5asqRfi672CwTzCdUMSzLWyE-L
-  name: Cryptomus 2
+  name: Cryptomus
   type: wallet
 
 - address: UQB3U3V43h1UVxsaZzDx8drgmeKaxMHGUphneu4PCYkcWwzE
-  name: Cryptomus 3
+  name: Cryptomus
   type: wallet
 
 - address: UQA0Eout8-CBVUkbIhRLDDlnhUexfaRJrCC-NLXg6ukW_zv-
@@ -263,12 +262,10 @@
 
 - address: UQA8sc2WlFb7VIpK_777JIX9vrYMz3FvPogd2OdhxR18e7wl
   name: Rich Cats Fund
-  tonIcon: 🐱
   type: wallet
 
 - address: EQDe1lrwD7d5ntSQuAPtQ2kUp_BSa8a4tNMMNak21zQXPSUa
   name: Rich Cats
-  tonIcon: 🐱
   type: wallet
 
 - address: EQCJTkhd1W2wztkVNp_dsKBpv2SIoUWoIyzI7mQrbSrj_NSh
