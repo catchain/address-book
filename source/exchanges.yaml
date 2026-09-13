@@ -227,11 +227,11 @@
   name: WebMoney Merchant
 
 - address: EQBVXzBT4lcTA3S7gxrg4hnl5fnsDKj4oNEzNp09aQxkwj1f
-  name: Huobi Deposit
+  name: HTX Deposit
   type: wallet
 
 - address: EQCFr3jo0DXpIBF82mVGFc3zcdRkSAtinhENPFMQ2FqzYqDB
-  name: Huobi Withdrawal
+  name: HTX Withdrawal
   type: wallet
 
 - address: UQAu9AtAct-rFOMumbUh3zLaE9FQMnmYWRi0C--7UIODe9RM
