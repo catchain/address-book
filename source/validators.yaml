@@ -703,3 +703,12 @@
 - address: Uf_VLM1r87BTTtYoKBmXwDBh7UwfQb_gb36ZC0Ee542q767V
   name: TON Strategy Validator 40
   type: wallet
+
+# Hipo
+- address: EQCLyZHP4Xe8fpchQz76O-_RmUhaVc_9BAoGyJrwJrcbz2eZ
+  name: Hipo Treasury
+  type: pool
+
+- address: EQDPdq8xjAhytYqfGSX8KcFWIReCufsB9Wdg0pLlYSO_h76w
+  name: hGRAM
+  type: jetton
