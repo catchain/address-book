@@ -215,6 +215,11 @@
   name: Tether Treasury
   type: wallet
 
+- address: EQBkQP48aUEDg5Y5RRc8SxFHm_C5tNcJDlh3e9pYHC-ZmG2M
+  name: Tether Multisig
+  type: wallet
+  description: USD₮ jetton admin
+
 - address: EQDqgE4jRpiw3M1Wcdi2l9rwqFLm8DNbzvrry2I4q087fhCz
   name: Open Builders Fund
 
