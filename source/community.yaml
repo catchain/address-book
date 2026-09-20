@@ -18,19 +18,19 @@
   type: wallet
 
 - address: EQAjK8SIcceZtmZixKmRDaRwO1MurXSoQZ6Hk9Vw2yiG0rqB
-  name: TON Strategy
+  name: TON Strategy 2
   type: wallet
 
 - address: EQDfrxQ5crXecc2vRsNPArtNh2pEklLfup4UlGkgaFnhCcjC
-  name: TON Strategy
+  name: TON Strategy 3
   type: wallet
 
 - address: EQDf2zQBLHgxsJHmLijHMGHhDSxtZFvu_Xxfb4CdAnzIDTlG
-  name: TON Strategy
+  name: TON Strategy 4
   type: wallet
 
 - address: EQAo7lUTdLyir1i3c34rgABn5XvqDDX5mgy-6EA9jHflO0iC
-  name: TON Strategy
+  name: TON Strategy 5
   type: wallet
   
 - address: UQB1Ej8JDhx-qLwf0SuLjAf6x1DadezEVPMXqFdgssjMj_tq
@@ -90,15 +90,15 @@
   type: wallet
 
 - address: UQDJ8CZl6BzCCNRnwVevzfPV2X2lvv8A0mfBVeHCYNP6zXCS
-  name: MRKT
+  name: MRKT 1
   type: wallet
 
 - address: UQBP_J1rHkREU1ftv6XS1I9UHNragWFMapZnzgZzOCgjBNVL
-  name: MRKT
+  name: MRKT 2
   type: wallet
 
 - address: UQA2vLq6k3FNeqjt58UYgUcSGWF5Eh6fQ2gZ1whYJUyv_Hep
-  name: MRKT
+  name: MRKT 3
   type: wallet
 
 - address: EQAxBWn4XNWD2TyYxZ3ofSjGll9UEutDpNToAxMib4vUxw1J
@@ -173,11 +173,11 @@
   type: wallet
 
 - address: UQA006qLz7fAZdJ5D7Mc4c5asqRfi672CwTzCdUMSzLWyE-L
-  name: Cryptomus
+  name: Cryptomus 2
   type: wallet
 
 - address: UQB3U3V43h1UVxsaZzDx8drgmeKaxMHGUphneu4PCYkcWwzE
-  name: Cryptomus
+  name: Cryptomus 3
   type: wallet
 
 - address: UQA0Eout8-CBVUkbIhRLDDlnhUexfaRJrCC-NLXg6ukW_zv-

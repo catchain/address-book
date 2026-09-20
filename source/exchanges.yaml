@@ -22,55 +22,55 @@
   name: xStocks Escrow
 
 - address: EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh
-  name: Old Walt Storage
+  name: Old Walt Storage 1
   type: wallet
 
 - address: EQDd3NPNrWCvTA1pOJ9WetUdDCY_pJaNZVq0JMaara-TIp90
-  name: Old Walt Storage
+  name: Old Walt Storage 2
   type: wallet
 
 - address: EQBugU5kUOjFeAZ7tlYpj7TQE5fdFQGNfzTcNp6rpMIRHLwm
-  name: Old Walt Storage
+  name: Old Walt Storage 3
   type: wallet
 
 - address: EQA2JYPGPywx6Sn590nUd06B2HgOkFvJ-cCnTO6yTEdacbUG
-  name: Old Walt Storage
+  name: Old Walt Storage 4
 
 - address: UQCXrZNESRUInoEiOP8Qq-kGbQsD6j26KoYw-5yfiKpFXKdd
-  name: Walt
+  name: Walt 1
 
 - address: UQCRiHBZulagN5CwaW16QCrAaR3_YvzTmOgT-X07Jzb6WOof
-  name: Walt
+  name: Walt 2
 
 - address: UQDPBslO_a4m-qodhQkvxNrueOugnmnDbawFHB2P_eNfQAI1
-  name: Walt
+  name: Walt 3
 
 - address: UQAbROxVNhaw5FUQNwOINL3wvaofBEDhDzMx2YQVhWEqaC0x
-  name: Walt
+  name: Walt 4
 
 - address: UQBtsPAiYytiafDU2_jqYKhEi7wrz8aBLjGvjMZAXCaK91YS
-  name:  Walt
+  name:  Walt 5
 
 - address: UQDdb_AsWWNHRVKbmajVvu6p9sOKkYjmp-lqQk44IMisCnMY
-  name:  Walt
+  name:  Walt 6
 
 - address: UQACOJWu-VUCSSCikcbzcV4pHfGz3SVOr6iwniGi1Y1Yl6jF
-  name:  Walt
+  name:  Walt 7
 
 - address: UQD1BmMYCRqM-1MOxzIQTOOPd4PZKmZ5_8wM4JYLDpTH0GcG
-  name:  Walt
+  name:  Walt 8
 
 - address: UQAMVoQ1X1QQqSP7fdWTFJBdx_8VeyjJEwZxx6TxcAfomE1N
-  name:  Walt
+  name:  Walt 9
 
 - address: UQAj_lWM30Qkk4Gu82Ry5kpQcqJLqX-2Gy9XkdpgE67JLZOc
-  name:  Walt
+  name:  Walt 10
 
 - address: UQC3vnGsG0DkNts2ch2cIOgtROePwehqitFeALHMFoMdz3pW
-  name:  Walt
+  name:  Walt 11
 
 - address: UQBVtyI_BN0fLhs_KOStYo_myrYABPKA-wpYzSf8WQsurJs8
-  name:  Walt
+  name:  Walt 12
 
 - address: UQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2iNl
   name: Binance Hot Wallet
@@ -88,50 +88,50 @@
   type: wallet
   
 - address: EQD5vcDeRhwaLgAvralVC7sJXI-fc2aNcMUXqcx-BQ-OWnOZ
-  name: OKX
+  name: OKX 1
   type: wallet
 
 - address: EQDxXbLGLNhq_whg05xJH8c6MTlfr-tZReZESYViJgx4Lg4_
-  name: OKX
+  name: OKX 2
   type: wallet
 
 - address: UQDn6G2gh0LtkzQ0_-uPCKY8fhAO6ELiX1manL8IkVdKbDEu
-  name: OKX
+  name: OKX 3
   type: wallet
 
 - address: UQADON7zS4TG7pE0oEqxYBRQvkRjQKN64lneV8s3vbWQzTjL
-  name: OKX
+  name: OKX 4
   type: wallet
   
 - address: UQCjCknscl6fVyRLZq9MLaerdgBLT86A06NLHNDDd2Krztab
-  name: OKX
+  name: OKX 5
   type: wallet
 
 - address: UQAk2h57jakB5bPdD5jDl_625aXqSDGVqLa9BoLPLFMnrnbQ
-  name: OKX
+  name: OKX 6
   type: wallet
 
 - address: UQB_LoTHI9i2trGqz4EMjCarI8IgIrRkuHEEstMGWw6nCy61
-  name: OKX
+  name: OKX 7
   type: wallet
 
 - address: UQCFTsRSHv1SrUO88ZiOTETr35omrRj6Uav9toX8OzSKXDTX
-  name: OKX
+  name: OKX 8
   type: wallet
   
 - address: UQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf9t5
-  name: OKX
+  name: OKX 9
   type: wallet
 
 - address: EQBmoechltZNb69I-ksuqGH2ewSE0tFKWcr3AdjChs5E5RVn
-  name: OKX
+  name: OKX 10
 
 - address: UQA9LLdOBB3wVgRdO6S-9lD5OMVT24bR2rH4C8nCOP4__rPr
-  name: Rapira Exchange
+  name: Rapira Exchange 1
   type: wallet
 
 - address: UQBwhUXO-PwBGAIllqBWBEphgz6SNhO_cP0eJfAz_v2KPEyB
-  name: Rapira Exchange
+  name: Rapira Exchange 2
   type: wallet
 
 - address: EQBBlxK8VBxEidbxw4oQVyLSk7iEf9VPJxetaRQpEbi-XG4U
@@ -144,64 +144,64 @@
   isScam: true
 
 - address: EQBX63RAdgShn34EAFMV73Cut7Z15lUZd1hnVva68SEl7sxi
-  name: MEXC
+  name: MEXC 1
   type: wallet
 
 - address: UQAce9aQ9Pk96Lk9tXkBKdq2WSbG4fybVzgAidtVKVFmMHCX
-  name: MEXC
+  name: MEXC 2
   type: wallet
 
 - address: EQDYh9Di0cT8QSbnHJcNM6sYlpQAAOrnA7sats7Mgwd3497j
-  name: MEXC
+  name: MEXC 3
   type: wallet
 
 - address: UQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fKne
-  name: ByBit
+  name: ByBit 1
   type: wallet
 
 - address: UQBKHz68xmvc76kCRb31QaUK2hxoikh1NLFYer_9kwOINDtf
-  name: ByBit
+  name: ByBit 2
   type: wallet
 
 - address: UQDNUlwVkE17QCfq4IsxhiQmDzcc6Mn0_MoM23tYOFQQfBIU
-  name: ByBit
+  name: ByBit 3
   type: wallet
 
 - address: UQCuYqGS2pbiZhYacCzJ9t6RwMNEHxfOulG8RC37IDGjCjpR
-  name: ByBit
+  name: ByBit 4
   type: wallet
 
 - address: UQDjzgXE2pdxMsJKOxAtqLX78uqRczN7Sd40bkpLBX91eeH3
-  name: ByBit
+  name: ByBit 5
   type: wallet
 
 - address: UQDjPvhdF060V8By0e4QIVtpq5tkGS90ITAqscjia3rUvYhY
-  name: ByBit
+  name: ByBit 6
   type: wallet
 
 - address: EQB_l_Nt2j997cnhL4wJxPief7wXUnqz9n3kw7FVKXpW5L0A
-  name: ByBit
+  name: ByBit 7
 
 - address: EQB9Ez1OQlyOAN4BVROkTmbm0WOyHnFyCux1eZZeXeKMVV6_
-  name: ByBit
+  name: ByBit 8
 
 - address: EQDy3BhgaGzWWJh-K-2CFlMtjABEYNreqQfMfUrXI2xJa81w
-  name: ByBit
+  name: ByBit 9
 
 - address: UQBKHCC8mm-SlPdfHIen84OotzpIOi5tyzYw3b54s8ytAIWX
-  name: ByBit
+  name: ByBit 10
   type: wallet
 
 - address: UQCZ-7akCw_dvl_Q5xyriWqCXdWubIPbuN7aDQlzX45pa01R
-  name: ByBit
+  name: ByBit 11
   type: wallet
 
 - address: UQCLBw7bAacA8_akYkx-CG4DbahgYOuwTxmQjuYaNTczX2jy
-  name: Changelly
+  name: Changelly 1
   type: wallet
 
 - address: UQA9fuSRfcdcGVuXWhe4-302eXj9wwvZZJIAqhJVqTo-VxtH
-  name: Changelly
+  name: Changelly 2
   type: wallet
 
 - address: UQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-cql
@@ -235,22 +235,22 @@
   type: wallet
 
 - address: UQAu9AtAct-rFOMumbUh3zLaE9FQMnmYWRi0C--7UIODe9RM
-  name: KuCoin
+  name: KuCoin 1
 
 - address: EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl
-  name: KuCoin
+  name: KuCoin 2
   type: wallet
 
 - address: EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs
-  name: KuCoin
+  name: KuCoin 3
   type: wallet
 
 - address: UQAHzmC35fJVqIw3B_P7x54s-STta0t9CcYyTwuiM4pI-t4E
-  name: KuCoin
+  name: KuCoin 4
   type: wallet
 
 - address: EQDtbfZPcagP_SQqS2_dlgmsKR-QGfAJeOH_EA2pUBCeKUSu
-  name: KuCoin
+  name: KuCoin 5
 
 - address: EQAJfclKb4fFi0tWg-PVgwwdXxHRImLWbO9_7HZcpIlCWkTg
   name: BitGo FTX Bankruptcy Custody
@@ -261,11 +261,11 @@
   type: wallet
 
 - address: EQCNGVeTuq2aCMRtw1OuvpmTQdq9B3IblyXxnhirw9ENkhLa
-  name: EXMO Cold Storage
+  name: EXMO Cold Storage 1
   type: wallet
 
 - address: EQAmq4rnY6OnwwZ9iCt7Ac1dNyVMuHaPV7akfAACjv_HuO5H
-  name: EXMO Cold Storage
+  name: EXMO Cold Storage 2
   type: wallet
 
 - address: EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p
@@ -308,10 +308,10 @@
   name: DEX Tegro Finance
 
 - address: EQB3ncyBUTjZUA5EnFKR5_EnOMI9V1tTEAAPaiU71gc4TiUt
-  name: StonFi DEX
+  name: StonFi DEX 1
 
 - address: EQBwpBGEAb-NgjUxpmARAgVl8C4F_5GsXxZ3dpsA1qzQerNl
-  name: StonFi DEX
+  name: StonFi DEX 2
 
 - address: EQBAeF9X3__N52HTGwsPx7jDsHGL6lr2AAP400bIHPRIhiRK
   name: StonFi Farming Rewards
