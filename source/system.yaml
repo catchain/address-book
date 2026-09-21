@@ -145,63 +145,83 @@
 # TON PoW givers (mining):
 - address: Ef-kkdY_B7p-77TLn2hUhM6QidWrrsl8FYWCIvBMpZKprKDH
   name: PoW Giver 1
+  type: wallet
 
 - address: Ef8SYc83pm5JkGt0p3TQRkuiM58O9Cr3waUtR9OoFq716uj0
   name: PoW Giver 2
+  type: wallet
 
 - address: Ef-FV4QTxLl-7Ct3E6MqOtMt-RGXMxi27g4I645lw6MTWg0f
   name: PoW Giver 3
+  type: wallet
 
 - address: Ef_NSzfDJI1A3rOM0GQm7xsoUXHTgmdhN5-OrGD8uwL2JHBa
   name: PoW Giver 4
+  type: wallet
 
 - address: Ef8gf1PQy4u2kURl-Gz4LbS29eaN4sVdrVQkPO-JL80VhFww
   name: PoW Giver 5
+  type: wallet
 
 - address: Ef8kO6K6Qh6YM4ddjRYYlvVAK7IgyW8Zet-4ZvNrVsmQ4PgP
   name: PoW Giver 6
+  type: wallet
 
 - address: Ef-P_TOdwcCh0AXHhBpICDMxStxHenWdLCDLNH5QcNpwMMn2
   name: PoW Giver 7
+  type: wallet
 
 - address: Ef91o4NNTryJ-Cw3sDGt9OTiafmETdVFUMvylQdFPoOxInls
   name: PoW Giver 8
+  type: wallet
 
 - address: Ef9iWhwk9GwAXjtwKG-vN7rmXT3hLIT23RBY6KhVaynRrDkx
   name: PoW Giver 9
+  type: wallet
 
 - address: Ef8JfFUEJhhpRW80_jqD7zzQteH6EBHOzxiOhygRhBdt44YH
   name: PoW Giver 10
+  type: wallet
 
 - address: Ef8guqdIbY6kpMykR8WFeVGbZcP2iuBagXfnQuq0rGrxgPay
   name: Large Giver 1
+  type: wallet
 
 - address: Ef9CxReRyaGj0vpSH0gRZkOAitm_yDHvgiMGtmvG-ZTirgiI
   name: Large Giver 2
+  type: wallet
 
 - address: Ef-WXA4CX4lqyVlN4qItlQSWPFIy00NvO2BAydgC4CTeIfIU
   name: Large Giver 3
+  type: wallet
 
 - address: Ef8yF4oXfIj7BZgkqXM6VsmDEgCqWVSKECO1pC0LXWl39277
   name: Large Giver 4
+  type: wallet
 
 - address: Ef9nNY69S3_heBBSUtpHRhIzjjqY0ChugeqbWcQGtGj-gbfE
   name: Large Giver 5
+  type: wallet
 
 - address: Ef_wUXx-l1Ehw0kfQRgFtWKO07B6WhSqcUQZNyh4Jmj8RzdB
   name: Large Giver 6
+  type: wallet
 
 - address: Ef_6keW5RniwNQYeq3DNWGcohKOwI85p-V2MsPk4v23tyFZC
   name: Large Giver 7
+  type: wallet
 
 - address: Ef_NSPpF4ZQ7mrPylwk-8XQQ1qFD5evLnx5_oZVNywzOjZxr
   name: Large Giver 8
+  type: wallet
 
 - address: Ef-uNWj4JmTJefr7IfjBSYQhFbd3JqtQ6cxuNIsJqDQ8SpqK
   name: Large Giver 9
+  type: wallet
 
 - address: Ef8mO4l6ZB_eaMn1OqjLRrrkiBcSt7kYTvJC_dzJLdpEDBft
   name: Large Giver 10
+  type: wallet
 
 #GRM PoW Givers (mining):
 - address: EQDSGvoktoIRTL6fBEK_ysS8YvLoq3cqW2TxB_xHviL33ex2
