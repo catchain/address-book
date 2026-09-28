@@ -15,6 +15,9 @@
 - address: EQAYqo4u7VF0fa4DPAebk4g9lBytj2VFny7pzXR0trjtXQaO
   name: DeDust Vault
 
+- address: EQCpvAlOOzqcI_NUxwB0dqw_zd0Sr2rtS0FoM35HaSxTI7-K
+  name: DeDust Router
+
 - address: EQAO4cYqithwdltzmrlal1L5JKLK5Xk76feAJq0VoBC6Fy8T
   name: Uranus Factory v1
 
@@ -344,9 +347,6 @@
   name: StonFi Router
 
 - address: EQDx--jUU9PUtHltPYZX7wdzIi0SPY3KZ8nvOs0iZvQJd6Ql
-  name: StonFi Router
-
-- address: EQCpvAlOOzqcI_NUxwB0dqw_zd0Sr2rtS0FoM35HaSxTI7-K
   name: StonFi Router
 
 - address: EQBDEcUhe89ls3h3PVGD1Rl4En_Ut0EwsFasPKo51oiqiulL
