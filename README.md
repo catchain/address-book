@@ -44,3 +44,20 @@ After the build, the images will be available in the `/build/img` folder in thre
 ```bash
 npm install && npm run build
 ```
+
+## Important addresses
+Frequently used addresses: core contracts, Telegram, Fragment and major ecosystem wallets. Full list is in [`source`](https://github.com/catchain/address-book/blob/master/source).
+
+| Name | Address |
+|------|---------|
+| [CAT Services](https://tonscan.org/address/UQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIApOd) | `UQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIApOd` |
+| [System](https://tonscan.org/address/Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU) | `Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU` |
+| [Elector](https://tonscan.org/address/Ef8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM0vF) | `Ef8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM0vF` |
+| [Config](https://tonscan.org/address/Ef9VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVbxn) | `Ef9VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVbxn` |
+| [Burn Address](https://tonscan.org/address/UQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJKZ) | `UQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJKZ` |
+| [Blackhole](https://tonscan.org/address/Uf___________________________________________-ll) | `Uf___________________________________________-ll` |
+| [Telegram](https://tonscan.org/address/UQCMOXxD-f8LSWWbXQowKxqTr3zMY-X1wMTyWp3B-LR6syif) | `UQCMOXxD-f8LSWWbXQowKxqTr3zMY-X1wMTyWp3B-LR6syif` |
+| [Fragment](https://tonscan.org/address/EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE) | `EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE` |
+| [The Locker](https://tonscan.org/address/EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2) | `EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2` |
+| [Ecosystem Reserve](https://tonscan.org/address/UQBmzW4wYlFW0tiBgj5sP1CgSlLdYs-VpjPWM7oPYPYWQBqW) | `UQBmzW4wYlFW0tiBgj5sP1CgSlLdYs-VpjPWM7oPYPYWQBqW` |
+| [Tether Treasury](https://tonscan.org/address/EQAj-peZGPH-cC25EAv4Q-h8cBXszTmkch6ba6wXC8BM4xdo) | `EQAj-peZGPH-cC25EAv4Q-h8cBXszTmkch6ba6wXC8BM4xdo` |
