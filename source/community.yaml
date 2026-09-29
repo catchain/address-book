@@ -48,13 +48,6 @@
   name: CAT Services
   type: wallet
 
-- address: EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj
-  name: Telegram Development
-  type: wallet
-
-- address: EQDQvywF226NXojPky_9gwbCz0FPoygqY11bGl03SONNBs5V
-  name: Telegram Vote Proposer
-
 - address: EQAv-VS2OM80SYLB0ouRWRcpFg4J0L-egUf1-utF-OJ6h0rK
   name: Gram Rename Proposal
 
@@ -137,19 +130,26 @@
   name: Cocoon Withdrawals
   type: wallet
 
-- address: EQBDUShg1UmAzyTVmGijDmeZJ_sTc8EJZNt1AO3N9pCrxPAN
-  name: Telegram Rewards 
-  type: wallet
-
 - address: EQBKnfWipiioZegVWe8c_4kDIzpdVEjHJuezOa2y8rrGsZ4R
   name: Toncenter API
 
-- address: EQDm89iCT0ax77q5r8aEeTQoxV_tabRqFaSb5popvEnlMLNb
-  name: Telegram Rewards 
-  type: wallet
-
 - address: UQCMOXxD-f8LSWWbXQowKxqTr3zMY-X1wMTyWp3B-LR6syif
   name: Telegram
+  type: wallet
+
+- address: EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj
+  name: Telegram Development
+  type: wallet
+
+- address: EQDQvywF226NXojPky_9gwbCz0FPoygqY11bGl03SONNBs5V
+  name: Telegram Vote Proposer
+
+- address: EQDm89iCT0ax77q5r8aEeTQoxV_tabRqFaSb5popvEnlMLNb
+  name: Telegram Stars Withdraw 1 
+  type: wallet
+
+- address: EQBDUShg1UmAzyTVmGijDmeZJ_sTc8EJZNt1AO3N9pCrxPAN
+  name: Telegram Stars Withdraw 2
   type: wallet
 
 - address: EQDMrh5lh3oWXfSw-NPbgy6Hzd6pzKYB8bB9LfHd0pzm_wqe
