@@ -1,4 +1,4 @@
-# 🗒️ TON address book
+# 🗒️ TON Address Book
 
 This is an address book for [tonscan.org](https://tonscan.org) explorer. It is build automatically from `.yaml` files and published at [this url](https://address-book.tonscan.org/addresses.json). 
 
@@ -44,8 +44,3 @@ After the build, the images will be available in the `/build/img` folder in thre
 ```bash
 npm install && npm run build
 ```
-
-## See also
-- [tonkeeper/ton-assets](https://github.com/tonkeeper/ton-assets) – address book used in Tonkeeper wallet
-- [menschee/tonscanplus](https://github.com/menschee/tonscanplus) – alternative address book
-
