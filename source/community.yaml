@@ -470,3 +470,15 @@
 - address: UQA_iYi3qoX8V0Cqv9pnwoKzGlWA8vYZHNP3P7O6vwykTJiJ
   name: MixPay
   type: wallet
+
+- address: EQAmYU1sd0IKbfW8JOMppwaGsgvvxdTOIo6TvUy1IJZ5sV8j
+  name: JPEGPE
+  description: |-
+    JPEGPE jetton on TON, associated with the RADA DAO creative community.
+    Use this jetton master address to identify the token.
+    Official website: https://rada-dao-passport.pages.dev/en/jpegpe/
+    RADA app: https://t.me/DAORADAbot
+    Official channel: https://t.me/jpegpecoin
+    Community: https://t.me/jpegpecoinchat
+    Character reference: https://rada-dao-passport.pages.dev/en/jpegpe/creator-kit/
+  type: jetton
