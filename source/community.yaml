@@ -473,7 +473,7 @@
   name: JPEGPE
   description: |-
     JPEGPE jetton on TON, associated with the RADA DAO creative community.
-    This address is the jetton master, not a liquidity-pool address.
+    Use this jetton master address to identify the token.
     Official website: https://rada-dao-passport.pages.dev/en/jpegpe/
     RADA app: https://t.me/DAORADAbot
     Official channel: https://t.me/jpegpecoin
