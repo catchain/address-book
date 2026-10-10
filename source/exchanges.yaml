@@ -229,6 +229,10 @@
   name: FixedFloat
   type: wallet
 
+- address: EQDAXHlJE4KdRSkoK8U1S_wQxgRHbJsezSmuRi5fye_YW1pR
+  name: ChangeNOW
+  type: wallet
+
 - address: UQDwacBggisEQ-h-HW63UiI9mtIA-lRAT1upXPioiyhCkNdf
   name: WebMoney Merchant
 
