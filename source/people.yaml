@@ -1,16 +1,16 @@
 # This file holds celebrity and other notable people addresses.
-- address: EQA0i8-CdGnF_DhUHHf92R1ONH6sIA9vLZ_WLcCIhfBBXwtG
-  name: Tolya
-  type: wallet
-  description: TON Core Developer
-
 - address: UQCdqXGvONLwOr3zCNX5FjapflorB6ZsOdcdfLrjsDLt3AF4
   name: Tolya
   type: wallet
   description: TON Core Developer
 
+- address: UQBFUCSBDK710QYVnBocfezDNvO7xxmLrJdAnLE8wciMF3Kc
+  name: Pavel Durov 1
+  type: wallet
+  description: Telegram CEO
+
 - address: EQDYzZmfsrGzhObKJUw4gzdeIxEai3jAFbiGKGwxvxHinaPP
-  name: Pavel Durov
+  name: Pavel Durov 2
   type: wallet
   description: Telegram CEO
 
