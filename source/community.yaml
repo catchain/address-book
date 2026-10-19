@@ -864,3 +864,7 @@
 
 - address: EQAEi48ZQjbOwrHSt9KXqHTDrXIbtOjA_3iW2Eo1-uzPkRMn
   name: Major Team Allocation
+
+- address: UQBdwKeVm2YFdAJJ5B3Zb-Vft5FgKuIe9v08sA3wcJ_8aWd1
+  name: "BetFury: Hot Wallet"
+  type: wallet
