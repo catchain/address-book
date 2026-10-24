@@ -438,6 +438,9 @@
 - address: EQAm_CW7fnhrvGYE7EH7bNwpMfV8EU4Kxz1TGjLbhM7XkRw2
   name: Spend.tg
 
+- address: EQANvQrhZdnFuw3DKsYeQwffxnTdER9TTZ_br2eT_lTu_mGz
+  name: Spend.tg Rewards
+
 - address: UQDn-EI7rtBBpt_lCj4wAtwrUAwQyl8f_gn_LftTIub2EWPv
   name: Cryptomus
   type: wallet
