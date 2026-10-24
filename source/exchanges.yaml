@@ -1285,3 +1285,7 @@
 - address: EQCFEMexgS42dhlaRgSmKJR73nmuSRcyVHumOu4S-2ND-XP1
   name: GRM DEX
   type: jetton
+
+- address: UQDYSBqBnA7ka96HpXPO2h8ZMY5fprsR69BNMkaNU6swHohg
+  name: KAST Deposit
+  type: wallet
