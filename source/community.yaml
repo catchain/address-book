@@ -867,3 +867,13 @@
 
 - address: EQAEi48ZQjbOwrHSt9KXqHTDrXIbtOjA_3iW2Eo1-uzPkRMn
   name: Major Team Allocation
+
+- address: EQAyCB1UdSuTQKdcd3qUrwSD8HMp3SlutPkVu0Xkd7k_itc5
+  name: Fragment USDT
+
+- address: EQClsD8oGu_h7qCUOzsvzPSVav9fmlbS2x5oGnhwaPUIoKl1
+  name: Split.tg Proxy
+
+- address: EQDgR7jZy9D88IBC3dK4qEJjb9D8WmfCbL9v-4Fjsjzm7cpq
+  name: NFTStore Usernames
+  type: wallet

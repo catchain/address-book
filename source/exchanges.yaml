@@ -1289,3 +1289,91 @@
 - address: UQDYSBqBnA7ka96HpXPO2h8ZMY5fprsR69BNMkaNU6swHohg
   name: KAST Deposit
   type: wallet
+
+- address: EQAbWJ3Y1HgIIvcMq1prG1anlDC0T3cZlAU7luPT6LmTpmrZ
+  name: Omniston Escrow Minter 1
+
+- address: EQBHE9-DYaPCdDq2Cqn355GTAzzDTdowS52RPS-yLmIQNZKq
+  name: Omniston Escrow Minter 2
+
+- address: EQAbxwLfN7sC0NQ5HTrFbUSygRUPDZiXwbErO395qIP97or7
+  name: Omniston Escrow Vault
+
+- address: EQCOPHYSaiB-c3bH4js_jIIwVhLxikq4edDNbtJcjY0Rsg88
+  name: Omniston Resolver 1
+  type: wallet
+
+- address: EQDvbflNtL0eGeQNo0BoUJoRCTBbTrDDKJn2We8hS-eKzv9k
+  name: Omniston Resolver 2
+
+- address: EQD17vJgEvpQK2diMwHB8PJsLD7PlvfM2vnwbZutOS_VrAKm
+  name: Omniston Resolver 3
+
+- address: EQAS92lSByELpHXPe7_e30fTF5_J2yZAhirod7vhn74K2qz8
+  name: Omniston Resolver 4
+
+- address: EQAgpWmO8nBUrmfOOldIEmRkLEwV-IIfVAlJsphYswnuL80R
+  name: TAC Cross-chain Layer
+
+- address: EQAChAswsPNsU2k3A5ZDO_cfhWknCGS6WMG2Jz15USMwxMdw
+  name: TAC Jetton Proxy
+
+- address: EQDDqOCQr6EPBmJnFF-dDKuNFLctG-SEYFhz66m17uisfLXh
+  name: TAC NFT Proxy
+
+- address: EQB9Yo7kY7hlsVB6aei8ZkSpiI2OPC_kkbh5KAoUrKW04ZxW
+  name: TAC Assets Handler
+
+- address: EQCqA58CdGiSns8cK-rJJMim3uAw6ksF08UU1AN29wNoagZt
+  name: TAC Retranslator
+
+- address: EQBeZOa5QMUEvMdb3GKSuttJgkQY7z0-Ddm_7WG-bwNXARFS
+  name: ChangeNOW 2
+  type: wallet
+
+- address: EQDhOoMDKusXdWOVXtMr2F9wq65Xu3ijAN9_ph3hy3Z6vhhZ
+  name: ChangeNOW Treasury
+  type: wallet
+
+- address: EQAaknWdbM45CoRDnaT_7aCH-y_X_FBzMeoVLi3WSXfQAJF3
+  name: ChangeNOW Rebalancer
+  type: wallet
+
+- address: EQCGScrZe1xbyWqWDvdI6mzP-GAcAWFv6ZXuaJOuSqemxku4
+  name: StonFi TON/USDT Pool
+
+- address: EQCSLWJ9fY7b0A5OI72wxUp27l4fRlc6GvRBeFf6PiPpH4p3
+  name: StonFi Router USDT Wallet
+
+- address: EQCSIMGBps_qzRG3uPYhON8bucyCtu0mYdL1-u4gSz77IBa3
+  name: StonFi Router pTON Wallet
+
+- address: EQAtkbV8ysI75e7faO8Ihu0mFtmsg-osj7gmrTg_mljVRccy
+  name: Orbit Bridge Vault
+
+- address: EQB8mNTgoG5QxqhOdVFi6X0MOjkmGNd33ct-RGBT9ZT5oDAX
+  name: Orbit Bridge Governance
+
+- address: EQAihs8RdUgLANjNypV5LgaUHfdoUsMVL5o06K2F-qFSki00
+  name: Orbit Bridge ETH Minter
+
+- address: EQBbAqI1eVJ8PbZpKXA5njk6hq8Q6ZUxwXLZf-ntG1wf90Tm
+  name: Orbit Bridge ETH Governance
+
+- address: EQAlMRLTYOoG6kM0d3dLHqgK30ol3qIYwMNtEelktzXP_pD5
+  name: Orbit Bridge Klaytn Minter
+
+- address: EQAblz6Xr6b-7eLAWeagIK2Dn-g81YiNpu0okHfc9EwY9_72
+  name: Orbit Bridge Klaytn Governance
+
+- address: EQAZPJjpx_VCoaAJW78qYtbUK59IsheysCRgzaSUcp7k_Jqd
+  name: Orbit Bridge Polygon Minter
+
+- address: EQBbdymUiXgv2FK4yGwHmXC2mvnpwxUT7U9tj-nonXXnrv0L
+  name: Orbit Bridge Polygon Governance
+
+- address: EQA4XgASzx1VSi6T0r8tv1XdHwfUEplQhjg1q09RUd8gcPhd
+  name: Orbit Bridge WEMIX Minter
+
+- address: EQAj33y_sRp4Ypuz8zdSGfrhYdTgW1uLhjVHuUNBNxnOA1RW
+  name: Orbit Bridge WEMIX Governance
