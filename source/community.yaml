@@ -877,3 +877,13 @@
 - address: EQDgR7jZy9D88IBC3dK4qEJjb9D8WmfCbL9v-4Fjsjzm7cpq
   name: NFTStore Usernames
   type: wallet
+
+- address: EQABZb_OO6-AOzYWm1uDEAd9oqJiyIKsnigGcf1pvKoGwtFs
+  name: vinyl.market DAO members
+  type: nft_collection
+
+- address: EQDwVjXWBL3ZUBcyDUJSpKitDbURxXfKSnO1p8eCP8QjR_-3
+  name: vinyl.market DAO
+
+- address: EQBIjxyC_X9joTChemLot53tiHdIg2c9ELvaChQvh83Of6Ad
+  name: vinyl.market DAO Multisig
