@@ -877,3 +877,7 @@
 - address: EQDgR7jZy9D88IBC3dK4qEJjb9D8WmfCbL9v-4Fjsjzm7cpq
   name: NFTStore Usernames
   type: wallet
+  
+- address: UQBdwKeVm2YFdAJJ5B3Zb-Vft5FgKuIe9v08sA3wcJ_8aWd1
+  name: "BetFury: Hot Wallet"
+  type: wallet
