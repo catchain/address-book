@@ -63,16 +63,16 @@
   name: Portals
 
 - address: EQD0BinUPHBWioBD4gODJND4YEeYn_D_WE_C8LZqypxB3xAb
-  name: @push
+  name: "@push"
 
 - address: EQDsLumYtKM8Awld7pYy_0w2Hb-T5MbRdKko5gWAY824nWf8
-  name: @push
+  name: "@push"
 
 - address: EQBNl2Hnxgc-olNY_Qq9iB3Rd3P7GGrW2oUzLc47BW3EjHNy
-  name: @push
+  name: "@push"
 
 - address: EQDU7oPG3BqQWckIoit8tjGC4txNt2Pv-QcyptuPn2_ZKOkm
-  name: @push
+  name: "@push"
 
 - address: UQDuWa_y780rpiEerTv5JZtBq8skovWp0NPLHtJVi3RB4zEo
   name: Tonnel Market
@@ -437,6 +437,9 @@
 
 - address: EQAm_CW7fnhrvGYE7EH7bNwpMfV8EU4Kxz1TGjLbhM7XkRw2
   name: Spend.tg
+
+- address: EQANvQrhZdnFuw3DKsYeQwffxnTdER9TTZ_br2eT_lTu_mGz
+  name: Spend.tg Rewards
 
 - address: UQDn-EI7rtBBpt_lCj4wAtwrUAwQyl8f_gn_LftTIub2EWPv
   name: Cryptomus
@@ -865,6 +868,16 @@
 - address: EQAEi48ZQjbOwrHSt9KXqHTDrXIbtOjA_3iW2Eo1-uzPkRMn
   name: Major Team Allocation
 
+- address: EQAyCB1UdSuTQKdcd3qUrwSD8HMp3SlutPkVu0Xkd7k_itc5
+  name: Fragment USDT
+
+- address: EQClsD8oGu_h7qCUOzsvzPSVav9fmlbS2x5oGnhwaPUIoKl1
+  name: Split.tg Proxy
+
+- address: EQDgR7jZy9D88IBC3dK4qEJjb9D8WmfCbL9v-4Fjsjzm7cpq
+  name: NFTStore Usernames
+  type: wallet
+  
 - address: UQBdwKeVm2YFdAJJ5B3Zb-Vft5FgKuIe9v08sA3wcJ_8aWd1
   name: "BetFury: Hot Wallet"
   type: wallet

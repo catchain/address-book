@@ -25,7 +25,11 @@ Entry structure must be as follows:
     You may provide short description for your project.
     Any amount of text and links are allowed.
   type: wallet (or empty: see below)
+  tag: Developer (optional)
 ```
+
+#### Tag
+`tag` is optional. Any short text, e.g. `Dev`, `Agent`, `APP`. Tonscan shows it as a gray badge in the address details, next to where the SCAM badge goes.
 
 #### Contract type
 `type` field can either be empty (just don't use it in entry) or one of these values: `wallet`, `nft_collection`, `jetton`, `pool`.

@@ -58,6 +58,10 @@ const validate = function checkThatEveryEntryHasValidAddressAndMetaFields(entry)
         );
     }
 
+    if (entry.tag !== undefined && typeof entry.tag !== 'string') {
+        throw new Error(`[${entry.filename}] Tag for ${entry.address} must be a string, given: ${entry.tag}`);
+    }
+
     return true;
 };
 
@@ -78,7 +82,7 @@ const createAddressbook = async function parseDirectoryAndCreateAddressBookFromY
             .flatMap(document => document.toJS())
             .map(document => ({ ...document, filename }))
             .filter(validate)
-            .forEach(({ address, name, tonIcon, isScam, type }) => {
+            .forEach(({ address, name, tonIcon, isScam, type, tag }) => {
                 const raw = canonizeAddressToRaw(address);
 
                 if (addresses.has(raw)) {
@@ -92,7 +96,7 @@ const createAddressbook = async function parseDirectoryAndCreateAddressBookFromY
                 });
 
                 addrbook.set(canonicalAddress, {
-                    name, tonIcon,
+                    name, tonIcon, tag,
                     isScam: filename === 'scam.yaml' ? true : isScam,
                 });
 
